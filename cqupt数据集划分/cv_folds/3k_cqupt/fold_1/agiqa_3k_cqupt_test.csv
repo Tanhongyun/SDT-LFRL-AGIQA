@@ -1,0 +1,597 @@
+﻿prompt,image_name,index,quality_score,std_quality,mos_align,std_align
+statue of a man,AttnGAN_normal_000.jpg,0,0.965602553,0.223270101,0.40889324,0.615607722
+statue of a man,DALLE2_normal_000.jpg,0,3.058757207,0.538696487,3.481534167,0.46101074
+statue of a man,glide_normal_000.jpg,0,1.478221045,0.512782138,1.511295292,1.049921294
+statue of a man,midjourney_lowstep_000.jpg,0,2.837204233,0.410622239,4.093672499,0.493239159
+statue of a man,midjourney_normal_000.jpg,0,4.324875409,0.596421622,4.04858855,0.2982765
+statue of a man,sd1.5_highcorr_000.jpg,0,3.283005153,0.723740275,3.185246111,0.592719018
+statue of a man,sd1.5_lowcorr_000.jpg,0,3.263456549,0.436511135,3.831912184,0.464478632
+statue of a man,sd1.5_lowstep_000.jpg,0,3.389757837,0.386878257,4.180579424,0.381638488
+statue of a man,sd1.5_normal_000.jpg,0,0.44999057,0.319877891,0.678198368,0.488624139
+statue of a man,xl2.2_normal_000.jpg,0,3.088457462,0.495642922,3.458082253,0.571191471
+house of the dragon,AttnGAN_normal_005.jpg,5,1.106599613,0.448890123,0.70896187,0.593561806
+house of the dragon,DALLE2_normal_005.jpg,5,3.430745058,0.865400549,3.202040316,0.337856509
+house of the dragon,glide_normal_005.jpg,5,1.539115041,0.272476936,1.698194229,0.93653824
+house of the dragon,midjourney_lowstep_005.jpg,5,2.731010208,0.632427665,2.971918712,0.674021424
+house of the dragon,midjourney_normal_005.jpg,5,3.773032655,0.550466888,3.433697306,0.670514487
+house of the dragon,sd1.5_highcorr_005.jpg,5,3.43455948,0.550046299,2.653500595,0.766464444
+house of the dragon,sd1.5_lowcorr_005.jpg,5,2.64254653,0.811467431,2.982848125,0.57081922
+house of the dragon,sd1.5_lowstep_005.jpg,5,3.421003889,0.841415181,2.960067189,0.84593764
+house of the dragon,sd1.5_normal_005.jpg,5,2.61389334,0.397467103,2.445567744,0.990118601
+house of the dragon,xl2.2_normal_005.jpg,5,3.324474137,0.609880881,2.745874276,1.240522135
+joe biden very happy,AttnGAN_normal_008.jpg,8,1.230273953,0.574807841,0.577911226,0.711439334
+joe biden very happy,glide_normal_008.jpg,8,1.599484777,0.377380508,1.519124647,1.464568543
+joe biden very happy,midjourney_lowstep_008.jpg,8,2.74826005,0.280607807,3.588197866,0.29803017
+joe biden very happy,midjourney_normal_008.jpg,8,2.736106345,0.64307607,3.391795303,0.805137727
+joe biden very happy,sd1.5_highcorr_008.jpg,8,3.330022312,0.575477002,4.106087774,0.37188477
+joe biden very happy,sd1.5_lowcorr_008.jpg,8,3.238537588,0.450337076,3.491984103,0.807906209
+joe biden very happy,sd1.5_lowstep_008.jpg,8,2.598262134,0.296827369,3.832951723,0.606471401
+joe biden very happy,sd1.5_normal_008.jpg,8,3.162256259,0.765122134,3.647455477,0.234010576
+joe biden very happy,xl2.2_normal_008.jpg,8,3.790180796,0.674059997,3.654274032,0.848578602
+santa claus on drugs,AttnGAN_normal_015.jpg,15,0.91586726,0.403143871,0.571482359,0.516367865
+santa claus on drugs,DALLE2_normal_015.jpg,15,2.505030811,0.409191015,3.345634382,0.652234055
+santa claus on drugs,glide_normal_015.jpg,15,0.563430702,0.546433261,0.60877307,0.535029947
+santa claus on drugs,midjourney_lowstep_015.jpg,15,2.630872609,0.413256802,2.851503215,0.787262618
+santa claus on drugs,midjourney_normal_015.jpg,15,3.657064334,0.419378629,2.931303945,0.876163186
+santa claus on drugs,sd1.5_highcorr_015.jpg,15,2.717733183,0.469201298,2.169304869,0.527900993
+santa claus on drugs,sd1.5_lowcorr_015.jpg,15,2.251322245,0.421310603,2.70330186,0.372103707
+santa claus on drugs,sd1.5_lowstep_015.jpg,15,2.926078447,0.428291684,1.893894456,0.559833102
+santa claus on drugs,sd1.5_normal_015.jpg,15,2.675811291,0.69621607,2.706378634,1.015146095
+santa claus on drugs,xl2.2_normal_015.jpg,15,3.240419025,0.544233908,2.603839495,0.614847811
+the large cresting waves,AttnGAN_normal_027.jpg,27,0.934897999,0.496275127,0.726968261,0.798565759
+the large cresting waves,DALLE2_normal_027.jpg,27,2.731010208,0.660265604,3.374870467,0.433080649
+the large cresting waves,glide_normal_027.jpg,27,1.378485599,0.83958531,2.798535131,0.543410228
+the large cresting waves,midjourney_lowstep_027.jpg,27,1.49383774,0.502659367,3.309820466,0.543355209
+the large cresting waves,midjourney_normal_027.jpg,27,3.657121751,0.847638231,3.720100101,0.554704306
+the large cresting waves,sd1.5_highcorr_027.jpg,27,3.375915916,0.449940811,3.923113018,0.378377349
+the large cresting waves,sd1.5_lowcorr_027.jpg,27,2.161765422,0.485685397,3.576346344,0.556044309
+the large cresting waves,sd1.5_lowstep_027.jpg,27,1.97566987,0.70280171,3.146889346,0.889781994
+the large cresting waves,sd1.5_normal_027.jpg,27,1.678769845,0.674854537,2.379342601,0.963561553
+the large cresting waves,xl2.2_normal_027.jpg,27,3.008458905,1.055804681,3.548952321,0.469385366
+a man jumping off a cliff,AttnGAN_normal_042.jpg,42,1.253245361,0.403445987,1.004686321,1.301381217
+a man jumping off a cliff,DALLE2_normal_042.jpg,42,3.231077294,0.860222223,2.958190852,1.293121376
+a man jumping off a cliff,glide_normal_042.jpg,42,0.536272256,0.262779761,0.742358137,0.626394756
+a man jumping off a cliff,midjourney_lowstep_042.jpg,42,2.64254653,0.428792262,1.890135375,1.319796989
+a man jumping off a cliff,midjourney_normal_042.jpg,42,4.076497886,0.641375104,3.137840023,0.916460342
+a man jumping off a cliff,sd1.5_highcorr_042.jpg,42,2.927618961,0.508914931,3.787339351,0.573071204
+a man jumping off a cliff,sd1.5_lowcorr_042.jpg,42,3.335114676,0.75794871,2.330906752,1.063907569
+a man jumping off a cliff,sd1.5_lowstep_042.jpg,42,3.231077294,0.69448833,3.787279028,0.592418874
+a man jumping off a cliff,sd1.5_normal_042.jpg,42,2.763264791,0.736226076,3.447455747,0.535980761
+a man jumping off a cliff,xl2.2_normal_042.jpg,42,3.088457462,0.896793067,3.506852145,0.303933018
+a frog wearing police cap,AttnGAN_normal_043.jpg,43,1.23918794,0.91838711,0.605682672,0.788806643
+a frog wearing police cap,DALLE2_normal_043.jpg,43,2.660597966,0.462006216,3.67754677,0.939010903
+a frog wearing police cap,glide_normal_043.jpg,43,1.677868451,0.495970421,0.6789357,0.736886716
+a frog wearing police cap,midjourney_lowstep_043.jpg,43,3.231255627,0.49622256,3.256355245,0.815760489
+a frog wearing police cap,midjourney_normal_043.jpg,43,3.699236596,0.485243741,3.923113018,0.346015229
+a frog wearing police cap,sd1.5_highcorr_043.jpg,43,3.455805152,0.596598709,3.703493793,0.415965946
+a frog wearing police cap,sd1.5_lowcorr_043.jpg,43,1.76550155,0.509767547,3.238192633,0.523450869
+a frog wearing police cap,sd1.5_lowstep_043.jpg,43,2.73141732,0.3781469,1.698194229,0.354414098
+a frog wearing police cap,sd1.5_normal_043.jpg,43,2.776844014,0.579217535,3.191417702,0.750123733
+a frog wearing police cap,xl2.2_normal_043.jpg,43,3.038537814,0.808497686,3.626710307,0.867953799
+superman punches the pope,AttnGAN_normal_045.jpg,45,1.252358797,0.630744468,0.325327435,0.533822636
+superman punches the pope,DALLE2_normal_045.jpg,45,2.209149982,0.685703915,3.809111975,0.671474416
+superman punches the pope,glide_normal_045.jpg,45,0.929924681,0.688061985,0.423281003,0.498508127
+superman punches the pope,sd1.5_highcorr_045.jpg,45,3.235341707,0.916091733,2.509500087,0.775779367
+superman punches the pope,sd1.5_lowcorr_045.jpg,45,2.520123245,0.837140463,2.31896878,1.069897922
+superman punches the pope,sd1.5_lowstep_045.jpg,45,2.418144251,0.600207823,2.787496228,0.958706981
+superman punches the pope,sd1.5_normal_045.jpg,45,3.008458905,0.587191575,1.995457086,0.703606545
+superman punches the pope,xl2.2_normal_045.jpg,45,2.954193289,0.421191192,2.577900713,1.163017846
+stalin tapdancing on stage,AttnGAN_normal_047.jpg,47,0.86802727,0.698879262,0.411989915,0.445736623
+stalin tapdancing on stage,glide_normal_047.jpg,47,1.49383774,0.267439768,0.265637574,0.468348897
+stalin tapdancing on stage,midjourney_lowstep_047.jpg,47,2.896939758,0.501070911,4.056426674,0.386403509
+stalin tapdancing on stage,midjourney_normal_047.jpg,47,3.457533183,0.603171498,3.588447963,0.451391541
+stalin tapdancing on stage,sd1.5_highcorr_047.jpg,47,3.145006417,0.386283181,2.616373046,0.962984816
+stalin tapdancing on stage,sd1.5_lowcorr_047.jpg,47,2.689121932,0.534780838,3.336157521,0.323391175
+stalin tapdancing on stage,sd1.5_lowstep_047.jpg,47,2.625914149,0.66030894,2.719543848,0.396426043
+stalin tapdancing on stage,sd1.5_normal_047.jpg,47,2.233367001,0.327660304,2.820363609,1.368970073
+stalin tapdancing on stage,xl2.2_normal_047.jpg,47,3.800500414,0.609227857,3.813376788,0.609634754
+"overwatch small hut building, abstract style",AttnGAN_normal_063.jpg,63,0.986154364,0.339139321,0.70828361,0.497767609
+"overwatch small hut building, abstract style",DALLE2_normal_063.jpg,63,0.997965831,0.457119446,1.677453607,1.103444372
+"overwatch small hut building, abstract style",glide_normal_063.jpg,63,1.402772373,0.854983986,2.071203024,0.962921551
+"overwatch small hut building, abstract style",midjourney_lowstep_063.jpg,63,2.610261314,0.70406541,2.960067189,0.584609742
+"overwatch small hut building, abstract style",midjourney_normal_063.jpg,63,3.700231162,0.507153164,3.369531125,1.067820653
+"overwatch small hut building, abstract style",sd1.5_highcorr_063.jpg,63,2.157904831,0.473940152,2.700983887,1.460210061
+"overwatch small hut building, abstract style",sd1.5_lowcorr_063.jpg,63,3.374371279,0.848518036,2.561561282,0.901862108
+"overwatch small hut building, abstract style",sd1.5_lowstep_063.jpg,63,3.333743653,0.567562364,3.136505822,0.477019823
+"overwatch small hut building, abstract style",sd1.5_normal_063.jpg,63,2.883906185,0.800125638,2.840103111,0.869061311
+"overwatch small hut building, abstract style",xl2.2_normal_063.jpg,63,3.334754679,0.385216799,3.2326522,0.99288332
+"concept art of octopus attack, anime style",AttnGAN_normal_075.jpg,75,0.495534588,0.427708156,0.597640981,0.607389432
+"concept art of octopus attack, anime style",DALLE2_normal_075.jpg,75,2.239848985,0.473337942,3.609476773,0.847745688
+"concept art of octopus attack, anime style",glide_normal_075.jpg,75,0.912778941,0.651780193,1.455683318,1.204233542
+"concept art of octopus attack, anime style",midjourney_lowstep_075.jpg,75,2.429568642,0.426363224,3.357572354,0.620502712
+"concept art of octopus attack, anime style",midjourney_normal_075.jpg,75,3.558662387,0.552319507,3.968713435,0.417104882
+"concept art of octopus attack, anime style",sd1.5_highcorr_075.jpg,75,0.291846246,0.210786682,0.731226048,0.548499112
+"concept art of octopus attack, anime style",sd1.5_lowcorr_075.jpg,75,2.886258786,0.515880676,3.007473278,0.581115498
+"concept art of octopus attack, anime style",sd1.5_lowstep_075.jpg,75,2.695368677,0.645356936,3.146889346,0.978020553
+"concept art of octopus attack, anime style",sd1.5_normal_075.jpg,75,2.462183558,0.542785794,2.94270405,0.679589178
+"concept art of octopus attack, anime style",xl2.2_normal_075.jpg,75,3.60083465,0.622510555,3.489909055,0.62498948
+"a anthropomorphic cat warrior, realistic style",AttnGAN_normal_077.jpg,77,1.119807896,0.414666646,0.257352514,0.453073617
+"a anthropomorphic cat warrior, realistic style",DALLE2_normal_077.jpg,77,2.765509892,0.535754342,3.2326522,0.428753784
+"a anthropomorphic cat warrior, realistic style",glide_normal_077.jpg,77,1.539115041,0.266201801,2.139899198,0.76685555
+"a anthropomorphic cat warrior, realistic style",midjourney_lowstep_077.jpg,77,2.888789697,0.401168009,3.40931236,0.415427298
+"a anthropomorphic cat warrior, realistic style",midjourney_normal_077.jpg,77,3.645251835,0.497801412,3.754119177,0.282738251
+"a anthropomorphic cat warrior, realistic style",sd1.5_highcorr_077.jpg,77,3.017147546,0.669231435,3.433697306,0.254206561
+"a anthropomorphic cat warrior, realistic style",sd1.5_lowcorr_077.jpg,77,2.966953132,0.700603358,3.436323658,0.410341054
+"a anthropomorphic cat warrior, realistic style",sd1.5_lowstep_077.jpg,77,2.46452189,0.940010961,2.7906625,0.632632737
+"a anthropomorphic cat warrior, realistic style",sd1.5_normal_077.jpg,77,2.560585504,0.676818123,2.840103111,0.905552315
+"a anthropomorphic cat warrior, realistic style",xl2.2_normal_077.jpg,77,3.345173159,0.411776319,3.592199458,0.4937446
+"the infernal dark gun magicks , baroque style",AttnGAN_normal_079.jpg,79,1.402772373,1.07214882,1.004566026,0.767461712
+"the infernal dark gun magicks , baroque style",DALLE2_normal_079.jpg,79,2.491680335,0.670347814,2.90198339,1.0108635
+"the infernal dark gun magicks , baroque style",glide_normal_079.jpg,79,0.247032957,0.903092575,0.43569296,0.542147308
+"the infernal dark gun magicks , baroque style",midjourney_lowstep_079.jpg,79,1.954767317,0.577429129,2.118609113,1.397365117
+"the infernal dark gun magicks , baroque style",midjourney_normal_079.jpg,79,3.700231162,0.844881086,2.401039388,1.167818513
+"the infernal dark gun magicks , baroque style",sd1.5_highcorr_079.jpg,79,2.418144251,0.506189215,1.946215579,1.164780465
+"the infernal dark gun magicks , baroque style",sd1.5_lowcorr_079.jpg,79,2.233367001,0.633270141,2.187651086,1.171348814
+"the infernal dark gun magicks , baroque style",sd1.5_lowstep_079.jpg,79,2.817259418,0.70437811,2.071203024,1.291253377
+"the infernal dark gun magicks , baroque style",sd1.5_normal_079.jpg,79,2.942711395,0.463965784,3.33369641,0.870332318
+"the infernal dark gun magicks , baroque style",xl2.2_normal_079.jpg,79,3.307841757,0.587161116,2.074448369,0.843636917
+"painted portrait of goblin man, anime style",AttnGAN_normal_080.jpg,80,0.812984657,0.735026903,0.481457492,0.339049937
+"painted portrait of goblin man, anime style",DALLE2_normal_080.jpg,80,1.881435837,0.382788467,3.895028099,0.419523597
+"painted portrait of goblin man, anime style",glide_normal_080.jpg,80,1.012573225,0.62023562,1.745318022,1.014279127
+"painted portrait of goblin man, anime style",midjourney_lowstep_080.jpg,80,2.659178911,0.500052159,3.075004622,0.622659371
+"painted portrait of goblin man, anime style",midjourney_normal_080.jpg,80,3.727351438,0.428866791,3.797711871,0.332301154
+"painted portrait of goblin man, anime style",sd1.5_highcorr_080.jpg,80,2.61389334,0.565137792,3.202549791,0.390807278
+"painted portrait of goblin man, anime style",sd1.5_lowcorr_080.jpg,80,2.808870337,0.623779528,3.61477839,0.605983668
+"painted portrait of goblin man, anime style",sd1.5_lowstep_080.jpg,80,2.746169865,0.705615384,3.250810209,0.527947873
+"painted portrait of goblin man, anime style",sd1.5_normal_080.jpg,80,2.210104633,0.354777468,3.232987189,0.546220084
+"painted portrait of goblin man, anime style",xl2.2_normal_080.jpg,80,2.956675282,0.522167942,4.081257224,0.44648019
+"a very drunk person named aaron, sci-fi style",AttnGAN_normal_086.jpg,86,1.161274584,0.716601129,0.767535581,0.797303011
+"a very drunk person named aaron, sci-fi style",DALLE2_normal_086.jpg,86,3.773548415,0.934402033,2.982848125,0.889851756
+"a very drunk person named aaron, sci-fi style",glide_normal_086.jpg,86,1.075025374,0.679539917,0.720129493,0.496435028
+"a very drunk person named aaron, sci-fi style",midjourney_lowstep_086.jpg,86,2.955258155,0.664580461,2.841551967,1.109379733
+"a very drunk person named aaron, sci-fi style",midjourney_normal_086.jpg,86,3.9689969,0.179142069,3.715711518,0.467427911
+"a very drunk person named aaron, sci-fi style",sd1.5_highcorr_086.jpg,86,1.544809406,0.579673452,2.206100508,0.888704119
+"a very drunk person named aaron, sci-fi style",sd1.5_lowcorr_086.jpg,86,2.874527714,0.679680279,2.116910203,0.50741751
+"a very drunk person named aaron, sci-fi style",sd1.5_lowstep_086.jpg,86,2.223207403,0.482324333,1.734292996,1.140776424
+"a very drunk person named aaron, sci-fi style",sd1.5_normal_086.jpg,86,2.65595515,0.798843897,2.283154863,0.806050454
+"a very drunk person named aaron, sci-fi style",xl2.2_normal_086.jpg,86,3.984089334,0.193628665,1.9250157,1.293892309
+"a man playing an invisible cello, sci-fi style",AttnGAN_normal_101.jpg,101,0.829617037,0.668279123,0.994900832,0.744714303
+"a man playing an invisible cello, sci-fi style",DALLE2_normal_101.jpg,101,2.731907882,0.45636461,2.202257515,0.988189209
+"a man playing an invisible cello, sci-fi style",glide_normal_101.jpg,101,0.0,0.201756042,0.190499441,0.154827399
+"a man playing an invisible cello, sci-fi style",midjourney_lowstep_101.jpg,101,3.143483028,0.82549973,2.768398323,0.798830013
+"a man playing an invisible cello, sci-fi style",midjourney_normal_101.jpg,101,3.740283654,0.730270465,3.167161119,0.826453571
+"a man playing an invisible cello, sci-fi style",sd1.5_highcorr_101.jpg,101,2.308829171,0.515926101,2.796487664,0.481584786
+"a man playing an invisible cello, sci-fi style",sd1.5_lowcorr_101.jpg,101,3.374371279,1.006049033,2.390413502,0.421096661
+"a man playing an invisible cello, sci-fi style",sd1.5_lowstep_101.jpg,101,2.588700346,0.635772991,2.076296124,0.791971763
+"a man playing an invisible cello, sci-fi style",sd1.5_normal_101.jpg,101,2.542752246,0.542004527,2.969682911,0.81350221
+"a man playing an invisible cello, sci-fi style",xl2.2_normal_101.jpg,101,2.747600946,0.704339701,3.013543571,0.876285197
+"grand canyon full of potato salad, sci-fi style",AttnGAN_normal_111.jpg,111,1.178897031,0.887921448,0.534118347,0.439784078
+"grand canyon full of potato salad, sci-fi style",DALLE2_normal_111.jpg,111,2.580492981,0.448099293,1.316179121,0.478965237
+"grand canyon full of potato salad, sci-fi style",glide_normal_111.jpg,111,1.419805428,0.530972454,1.202474715,0.621929457
+"grand canyon full of potato salad, sci-fi style",midjourney_lowstep_111.jpg,111,1.761030355,0.89489989,2.11394401,1.043523894
+"grand canyon full of potato salad, sci-fi style",midjourney_normal_111.jpg,111,2.92075847,0.823313652,2.106757591,1.043626471
+"grand canyon full of potato salad, sci-fi style",sd1.5_highcorr_111.jpg,111,2.722527122,0.667997494,1.621793163,0.668996225
+"grand canyon full of potato salad, sci-fi style",sd1.5_lowcorr_111.jpg,111,2.713760366,0.704018572,1.526033003,0.981476179
+"grand canyon full of potato salad, sci-fi style",sd1.5_lowstep_111.jpg,111,2.523592728,0.541352835,1.511295292,0.879871317
+"grand canyon full of potato salad, sci-fi style",sd1.5_normal_111.jpg,111,3.138913035,0.590777354,1.829511923,0.320232364
+"grand canyon full of potato salad, sci-fi style",xl2.2_normal_111.jpg,111,3.558662387,0.712251735,2.235897584,0.938260899
+"gorgeous young scandanavian woman, realistic style",AttnGAN_normal_112.jpg,112,0.789350472,0.257226969,0.594282567,0.459973271
+"gorgeous young scandanavian woman, realistic style",DALLE2_normal_112.jpg,112,2.64254653,0.588156894,2.93018727,1.060021121
+"gorgeous young scandanavian woman, realistic style",glide_normal_112.jpg,112,1.006207915,0.483646191,0.519696217,0.427905339
+"gorgeous young scandanavian woman, realistic style",midjourney_lowstep_112.jpg,112,3.231255627,0.563412826,3.410425033,0.605335419
+"gorgeous young scandanavian woman, realistic style",midjourney_normal_112.jpg,112,4.191246327,0.582222135,3.717911141,0.962136034
+"gorgeous young scandanavian woman, realistic style",sd1.5_highcorr_112.jpg,112,2.86026573,0.440992951,2.628994077,1.036316266
+"gorgeous young scandanavian woman, realistic style",sd1.5_lowcorr_112.jpg,112,3.714251203,0.556010456,3.5526433,0.920783175
+"gorgeous young scandanavian woman, realistic style",sd1.5_lowstep_112.jpg,112,3.490797944,0.912805822,3.351474113,0.324961291
+"gorgeous young scandanavian woman, realistic style",sd1.5_normal_112.jpg,112,3.127756575,0.598706097,3.054879367,0.714209477
+"gorgeous young scandanavian woman, realistic style",xl2.2_normal_112.jpg,112,3.360750593,0.721483737,3.480852014,0.459137976
+"ocean of canvas that catches fire, anime style",AttnGAN_normal_115.jpg,115,1.112671152,0.267555626,1.278288824,0.732760249
+"ocean of canvas that catches fire, anime style",DALLE2_normal_115.jpg,115,1.696019687,0.788312703,2.094906068,0.904052991
+"ocean of canvas that catches fire, anime style",glide_normal_115.jpg,115,0.720968251,0.342467312,0.653813422,0.964934574
+"ocean of canvas that catches fire, anime style",midjourney_lowstep_115.jpg,115,1.644270161,0.776611834,1.952687802,1.018464203
+"ocean of canvas that catches fire, anime style",midjourney_normal_115.jpg,115,4.472108404,0.87394065,3.167161119,0.891393643
+"ocean of canvas that catches fire, anime style",sd1.5_highcorr_115.jpg,115,2.210104633,0.566071278,2.298257005,0.725490512
+"ocean of canvas that catches fire, anime style",sd1.5_lowcorr_115.jpg,115,2.104380621,1.206198658,1.848675793,1.630097441
+"ocean of canvas that catches fire, anime style",sd1.5_lowstep_115.jpg,115,2.560764083,0.668898127,2.677763969,0.8351375
+"ocean of canvas that catches fire, anime style",sd1.5_normal_115.jpg,115,2.575026067,0.543464247,2.238834935,0.929424918
+"ocean of canvas that catches fire, anime style",xl2.2_normal_115.jpg,115,3.008458905,0.563139161,3.153995905,0.876364266
+"foxes judging a cheese competition, abstract style",AttnGAN_normal_118.jpg,118,1.112367509,0.645308149,0.547283561,0.615938553
+"foxes judging a cheese competition, abstract style",DALLE2_normal_118.jpg,118,1.747030906,0.19660676,3.274264347,0.918755709
+"foxes judging a cheese competition, abstract style",glide_normal_118.jpg,118,0.507518767,0.289973409,0.927777366,1.308975039
+"foxes judging a cheese competition, abstract style",midjourney_lowstep_118.jpg,118,2.446668218,0.551323166,2.921613433,0.459813536
+"foxes judging a cheese competition, abstract style",midjourney_normal_118.jpg,118,3.601888857,0.34027011,3.482467199,0.588218906
+"foxes judging a cheese competition, abstract style",sd1.5_highcorr_118.jpg,118,2.111462098,0.859741196,2.679341611,0.903825088
+"foxes judging a cheese competition, abstract style",sd1.5_lowcorr_118.jpg,118,2.687102292,0.768805409,2.737502173,0.786996345
+"foxes judging a cheese competition, abstract style",sd1.5_lowstep_118.jpg,118,2.632073999,0.567216899,2.982575799,0.92376341
+"foxes judging a cheese competition, abstract style",sd1.5_normal_118.jpg,118,2.254782866,0.411238367,1.920999368,0.707133373
+"foxes judging a cheese competition, abstract style",xl2.2_normal_118.jpg,118,3.059933495,0.406633929,3.421504833,0.484643365
+"die cut sticker of a pair of lips , warm color",AttnGAN_normal_120.jpg,120,0.940601322,0.32253825,0.69188714,0.257002627
+"die cut sticker of a pair of lips , warm color",DALLE2_normal_120.jpg,120,2.261262436,1.068172636,3.348349994,0.649337936
+"die cut sticker of a pair of lips , warm color",glide_normal_120.jpg,120,1.04513849,0.443190099,1.734770243,1.194379884
+"die cut sticker of a pair of lips , warm color",midjourney_lowstep_120.jpg,120,3.162256259,1.01436335,3.268206767,1.206600793
+"die cut sticker of a pair of lips , warm color",midjourney_normal_120.jpg,120,3.002885562,0.633037755,1.860868266,1.755311611
+"die cut sticker of a pair of lips , warm color",sd1.5_highcorr_120.jpg,120,2.135311817,0.876753497,3.510154573,0.527472029
+"die cut sticker of a pair of lips , warm color",sd1.5_lowcorr_120.jpg,120,2.659178911,0.846416853,2.75903949,0.770234617
+"die cut sticker of a pair of lips , warm color",sd1.5_lowstep_120.jpg,120,1.834018423,0.625649197,2.651927612,0.936152054
+"die cut sticker of a pair of lips , warm color",sd1.5_normal_120.jpg,120,2.314518391,0.383097883,3.609476773,0.646056883
+"die cut sticker of a pair of lips , warm color",xl2.2_normal_120.jpg,120,2.493724965,0.511189422,3.472908747,0.507604417
+"the shogoth wearing a santa costume, blurred detail",AttnGAN_normal_126.jpg,126,1.567824332,0.42503937,0.778794065,0.812616838
+"the shogoth wearing a santa costume, blurred detail",DALLE2_normal_126.jpg,126,2.409693201,0.783374119,2.166604866,1.021288391
+"the shogoth wearing a santa costume, blurred detail",glide_normal_126.jpg,126,0.253642787,0.328085899,0.406335814,0.393904261
+"the shogoth wearing a santa costume, blurred detail",midjourney_lowstep_126.jpg,126,1.880615311,0.83231057,2.37877521,1.215757703
+"the shogoth wearing a santa costume, blurred detail",midjourney_normal_126.jpg,126,3.509228886,0.465030262,2.318288169,1.296119526
+"the shogoth wearing a santa costume, blurred detail",sd1.5_highcorr_126.jpg,126,2.660597966,0.512021961,2.482684398,0.737491204
+"the shogoth wearing a santa costume, blurred detail",sd1.5_lowcorr_126.jpg,126,2.093677968,0.630471724,2.429909143,0.493816693
+"the shogoth wearing a santa costume, blurred detail",sd1.5_lowstep_126.jpg,126,3.024257523,0.367206582,3.327464378,0.845728834
+"the shogoth wearing a santa costume, blurred detail",sd1.5_normal_126.jpg,126,1.931518323,0.200283157,3.262068577,0.822965095
+"the shogoth wearing a santa costume, blurred detail",xl2.2_normal_126.jpg,126,3.667148222,0.45649962,3.345634382,0.474995295
+"robots building robots in a factory, hyper detail",AttnGAN_normal_127.jpg,127,0.663293231,0.75499726,0.283979284,0.492795873
+"robots building robots in a factory, hyper detail",DALLE2_normal_127.jpg,127,3.091620808,0.995929938,3.259317616,0.668779865
+"robots building robots in a factory, hyper detail",glide_normal_127.jpg,127,1.065861944,0.82674863,1.410283473,1.100739316
+"robots building robots in a factory, hyper detail",midjourney_lowstep_127.jpg,127,0.60927964,0.74641888,1.194190381,1.103877657
+"robots building robots in a factory, hyper detail",midjourney_normal_127.jpg,127,3.685179175,0.73886234,3.649510515,0.435199975
+"robots building robots in a factory, hyper detail",sd1.5_highcorr_127.jpg,127,2.671047584,0.477838158,2.486100389,0.614058715
+"robots building robots in a factory, hyper detail",sd1.5_lowcorr_127.jpg,127,3.501131449,0.657529943,3.608269769,0.502365438
+"robots building robots in a factory, hyper detail",sd1.5_lowstep_127.jpg,127,2.989757839,0.44009768,3.102285456,0.772295947
+"robots building robots in a factory, hyper detail",sd1.5_normal_127.jpg,127,3.320022242,0.478221653,3.345634382,0.748730296
+"robots building robots in a factory, hyper detail",xl2.2_normal_127.jpg,127,3.225485144,0.524247796,3.174942147,0.446691696
+"photography of a happy blonde girl , warm color",AttnGAN_normal_130.jpg,130,0.195283431,0.94753818,0.364583826,0.550765321
+"photography of a happy blonde girl , warm color",DALLE2_normal_130.jpg,130,2.472262578,0.539184938,3.1259885,0.972795131
+"photography of a happy blonde girl , warm color",glide_normal_130.jpg,130,2.010516065,0.90379362,0.836918266,0.661848465
+"photography of a happy blonde girl , warm color",midjourney_lowstep_130.jpg,130,3.421003889,0.701623319,3.765970699,0.659670827
+"photography of a happy blonde girl , warm color",midjourney_normal_130.jpg,130,4.050672118,0.408509485,3.945913227,0.406445886
+"photography of a happy blonde girl , warm color",sd1.5_highcorr_130.jpg,130,3.359890074,0.389167057,3.795705898,0.436396903
+"photography of a happy blonde girl , warm color",sd1.5_lowcorr_130.jpg,130,1.747769213,0.575456998,2.331936513,1.243115243
+"photography of a happy blonde girl , warm color",sd1.5_lowstep_130.jpg,130,3.108253189,0.584948577,3.562117535,0.526503699
+"photography of a happy blonde girl , warm color",sd1.5_normal_130.jpg,130,3.360750593,0.389271786,3.480852014,0.414291084
+"photography of a happy blonde girl , warm color",xl2.2_normal_130.jpg,130,3.952270172,0.476524519,3.763511558,0.593806398
+"render of dreamy beautiful landscape, soft lighting",AttnGAN_normal_138.jpg,138,0.880865797,0.317320028,2.380364545,0.786547584
+"render of dreamy beautiful landscape, soft lighting",DALLE2_normal_138.jpg,138,2.39306082,0.931456905,3.140830692,0.545854668
+"render of dreamy beautiful landscape, soft lighting",glide_normal_138.jpg,138,0.701659223,0.273446802,1.585786942,1.451410518
+"render of dreamy beautiful landscape, soft lighting",midjourney_lowstep_138.jpg,138,1.956105243,0.633426044,3.361171272,0.486962419
+"render of dreamy beautiful landscape, soft lighting",midjourney_normal_138.jpg,138,2.888789697,0.531110329,3.323965048,0.635594577
+"render of dreamy beautiful landscape, soft lighting",sd1.5_highcorr_138.jpg,138,3.265755311,0.686139538,3.256355245,0.926042319
+"render of dreamy beautiful landscape, soft lighting",sd1.5_lowcorr_138.jpg,138,3.757702826,0.623705811,3.906719072,0.535626699
+"render of dreamy beautiful landscape, soft lighting",sd1.5_lowstep_138.jpg,138,3.490003257,0.640677587,3.185246111,0.58636812
+"render of dreamy beautiful landscape, soft lighting",sd1.5_normal_138.jpg,138,3.673198773,0.69378057,3.726316663,0.594816011
+"render of dreamy beautiful landscape, soft lighting",xl2.2_normal_138.jpg,138,3.193169444,0.726732262,3.569709785,0.441784637
+"digital painting of a lake at sunset, HDR lighting",AttnGAN_normal_139.jpg,139,1.435991833,0.556396706,1.221288303,1.189454258
+"digital painting of a lake at sunset, HDR lighting",DALLE2_normal_139.jpg,139,2.625770283,0.684216028,2.915867386,0.968028555
+"digital painting of a lake at sunset, HDR lighting",glide_normal_139.jpg,139,1.006207915,0.534287314,1.629211276,1.061454994
+"digital painting of a lake at sunset, HDR lighting",midjourney_lowstep_139.jpg,139,1.921352979,0.828247388,2.913115479,1.3902629
+"digital painting of a lake at sunset, HDR lighting",midjourney_normal_139.jpg,139,3.808864944,0.573783568,3.781418415,0.441179738
+"digital painting of a lake at sunset, HDR lighting",sd1.5_highcorr_139.jpg,139,1.678769845,0.770325933,2.462303257,1.118537851
+"digital painting of a lake at sunset, HDR lighting",sd1.5_lowcorr_139.jpg,139,2.874527714,0.458830614,3.189847843,0.587564824
+"digital painting of a lake at sunset, HDR lighting",sd1.5_lowstep_139.jpg,139,2.377839033,0.614357839,2.908503737,1.02303798
+"digital painting of a lake at sunset, HDR lighting",sd1.5_normal_139.jpg,139,3.897509797,0.722405054,3.435662922,0.879119534
+"digital painting of a lake at sunset, HDR lighting",xl2.2_normal_139.jpg,139,3.089166137,0.445107788,3.425191569,0.676576705
+"kraken is using large sponge for bath, long-shot",AttnGAN_normal_145.jpg,145,1.106041797,0.423951925,0.739160734,0.406148152
+"kraken is using large sponge for bath, long-shot",DALLE2_normal_145.jpg,145,3.048358432,0.380960927,1.972767588,0.340659148
+"kraken is using large sponge for bath, long-shot",glide_normal_145.jpg,145,0.563430702,0.292561854,0.697829781,0.697705953
+"kraken is using large sponge for bath, long-shot",midjourney_lowstep_145.jpg,145,1.860824639,0.528090495,2.074448369,0.811055414
+"kraken is using large sponge for bath, long-shot",midjourney_normal_145.jpg,145,3.685179175,0.880950653,2.714701964,0.501910459
+"kraken is using large sponge for bath, long-shot",sd1.5_highcorr_145.jpg,145,2.777468708,0.807211006,1.660278593,1.21228004
+"kraken is using large sponge for bath, long-shot",sd1.5_lowcorr_145.jpg,145,2.326531297,0.917069093,1.929631016,0.620513963
+"kraken is using large sponge for bath, long-shot",sd1.5_lowstep_145.jpg,145,2.223207403,0.648224843,2.076296124,0.842069806
+"kraken is using large sponge for bath, long-shot",sd1.5_normal_145.jpg,145,2.161428554,0.395444296,1.06835751,0.769046059
+"kraken is using large sponge for bath, long-shot",xl2.2_normal_145.jpg,145,3.61615084,0.40195996,3.287387628,0.256450267
+"photo of a white fashion jewelry store, cold color",AttnGAN_normal_151.jpg,151,1.147337281,0.594769093,0.786886493,0.61450857
+"photo of a white fashion jewelry store, cold color",DALLE2_normal_151.jpg,151,3.041723666,0.892926011,2.917022056,0.776004298
+"photo of a white fashion jewelry store, cold color",glide_normal_151.jpg,151,1.787427355,0.492877787,2.06489602,0.880226787
+"photo of a white fashion jewelry store, cold color",midjourney_lowstep_151.jpg,151,2.355888108,0.792922947,2.946511745,1.130432113
+"photo of a white fashion jewelry store, cold color",midjourney_normal_151.jpg,151,2.233675103,0.691106348,2.868587123,0.833646187
+"photo of a white fashion jewelry store, cold color",sd1.5_highcorr_151.jpg,151,3.018173564,0.566524025,3.703773546,0.397585389
+"photo of a white fashion jewelry store, cold color",sd1.5_lowcorr_151.jpg,151,2.911873639,0.551772,3.510154573,0.609056439
+"photo of a white fashion jewelry store, cold color",sd1.5_lowstep_151.jpg,151,3.369254363,0.404220506,3.386721989,0.501477969
+"photo of a white fashion jewelry store, cold color",sd1.5_normal_151.jpg,151,3.127756575,0.347850329,3.351167422,0.353034727
+"photo of a white fashion jewelry store, cold color",xl2.2_normal_151.jpg,151,3.873342699,0.775669348,3.351474113,0.552258555
+"an auto rickshaw driving through paris, long-shot",AttnGAN_normal_155.jpg,155,0.720968251,0.359412637,0.702583315,1.165494249
+"an auto rickshaw driving through paris, long-shot",DALLE2_normal_155.jpg,155,3.510122043,0.70475533,3.569908726,0.568642305
+"an auto rickshaw driving through paris, long-shot",glide_normal_155.jpg,155,1.239278945,0.342845602,0.66705659,0.647853809
+"an auto rickshaw driving through paris, long-shot",midjourney_lowstep_155.jpg,155,2.39306082,0.633468043,2.469404785,0.885723149
+"an auto rickshaw driving through paris, long-shot",midjourney_normal_155.jpg,155,3.667148222,0.451718032,3.441138159,0.561847905
+"an auto rickshaw driving through paris, long-shot",sd1.5_highcorr_155.jpg,155,2.442957962,0.325275966,2.75903949,0.739754234
+"an auto rickshaw driving through paris, long-shot",sd1.5_lowcorr_155.jpg,155,2.248014632,0.529553029,2.687482179,0.829263129
+"an auto rickshaw driving through paris, long-shot",sd1.5_lowstep_155.jpg,155,2.628129896,0.655758396,2.206550694,0.779848796
+"an auto rickshaw driving through paris, long-shot",sd1.5_normal_155.jpg,155,3.062007692,0.492089214,3.068964724,0.592155244
+"an auto rickshaw driving through paris, long-shot",xl2.2_normal_155.jpg,155,3.449493362,0.487986761,2.876975546,0.580680124
+"photograph of a stone cairn in scotland, soft lighting",AttnGAN_normal_158.jpg,158,0.912778941,0.610751777,0.968570405,0.590980929
+"photograph of a stone cairn in scotland, soft lighting",DALLE2_normal_158.jpg,158,3.207226865,0.585044293,3.3417077,0.502017349
+"photograph of a stone cairn in scotland, soft lighting",glide_normal_158.jpg,158,1.373098268,0.993008421,2.486100389,0.913861709
+"photograph of a stone cairn in scotland, soft lighting",midjourney_lowstep_158.jpg,158,1.627559856,0.513306138,3.112865772,0.507362123
+"photograph of a stone cairn in scotland, soft lighting",midjourney_normal_158.jpg,158,3.643633817,0.646199973,3.919858649,0.357348589
+"photograph of a stone cairn in scotland, soft lighting",sd1.5_highcorr_158.jpg,158,3.211379142,1.051008477,3.180285613,1.247387411
+"photograph of a stone cairn in scotland, soft lighting",sd1.5_lowcorr_158.jpg,158,3.048358432,0.695799891,3.190440744,0.764418105
+"photograph of a stone cairn in scotland, soft lighting",sd1.5_lowstep_158.jpg,158,3.727389608,0.646926037,3.73689006,0.576633026
+"photograph of a stone cairn in scotland, soft lighting",sd1.5_normal_158.jpg,158,3.530547546,0.335915298,3.524109368,0.454486
+"photograph of a stone cairn in scotland, soft lighting",xl2.2_normal_158.jpg,158,3.658567698,0.486573661,3.671553148,0.875172777
+"a portrait of girl boxer in a red dress, elevation view",AttnGAN_normal_163.jpg,163,0.929411321,0.615798839,0.968570405,0.891154721
+"a portrait of girl boxer in a red dress, elevation view",DALLE2_normal_163.jpg,163,3.718303223,0.269369401,3.001128296,0.532322822
+"a portrait of girl boxer in a red dress, elevation view",glide_normal_163.jpg,163,1.761964787,0.581879537,0.59256494,0.642184299
+"a portrait of girl boxer in a red dress, elevation view",midjourney_lowstep_163.jpg,163,2.954193289,0.323190499,3.079505301,0.446891494
+"a portrait of girl boxer in a red dress, elevation view",midjourney_normal_163.jpg,163,3.741408859,0.422313642,2.62350113,0.798836876
+"a portrait of girl boxer in a red dress, elevation view",sd1.5_highcorr_163.jpg,163,2.33566677,0.441435942,1.848294038,0.766983256
+"a portrait of girl boxer in a red dress, elevation view",sd1.5_lowcorr_163.jpg,163,2.785504238,0.702297217,1.916694664,0.507977233
+"a portrait of girl boxer in a red dress, elevation view",sd1.5_lowstep_163.jpg,163,2.224915104,0.508448699,1.399557817,0.686077772
+"a portrait of girl boxer in a red dress, elevation view",sd1.5_normal_163.jpg,163,3.031344688,0.69441181,2.44244092,0.783055121
+"a portrait of girl boxer in a red dress, elevation view",xl2.2_normal_163.jpg,163,3.541752783,0.726907296,3.161543067,0.884764444
+"a pig sitting in a chair smoking a pipe, close-up",AttnGAN_normal_164.jpg,164,0.812984657,0.703477886,0.362970567,0.583409133
+"a pig sitting in a chair smoking a pipe, close-up",DALLE2_normal_164.jpg,164,3.403754047,0.428600355,3.635603955,0.823254371
+"a pig sitting in a chair smoking a pipe, close-up",glide_normal_164.jpg,164,0.821435934,0.342913953,1.221037961,0.786143803
+"a pig sitting in a chair smoking a pipe, close-up",midjourney_lowstep_164.jpg,164,2.414476208,0.435519683,2.868115497,0.591805513
+"a pig sitting in a chair smoking a pipe, close-up",midjourney_normal_164.jpg,164,3.455805152,0.622396653,3.302738591,0.882417335
+"a pig sitting in a chair smoking a pipe, close-up",sd1.5_highcorr_164.jpg,164,2.248459435,0.400991389,2.521914306,0.605672314
+"a pig sitting in a chair smoking a pipe, close-up",sd1.5_lowcorr_164.jpg,164,2.817259418,0.834181639,3.1259885,0.617145613
+"a pig sitting in a chair smoking a pipe, close-up",sd1.5_lowstep_164.jpg,164,3.031344688,0.713809415,2.281042344,0.260319421
+"a pig sitting in a chair smoking a pipe, close-up",sd1.5_normal_164.jpg,164,3.080710077,0.435294339,2.897103633,1.023344967
+"a pig sitting in a chair smoking a pipe, close-up",xl2.2_normal_164.jpg,164,3.033265998,0.319544439,3.978346905,0.326550929
+"a huge wooden carving sculpture of a fox, hyper detail",AttnGAN_normal_177.jpg,177,0.86802727,0.631159093,0.566059704,0.669367555
+"a huge wooden carving sculpture of a fox, hyper detail",DALLE2_normal_177.jpg,177,2.524012104,0.759348523,3.244503722,0.350395238
+"a huge wooden carving sculpture of a fox, hyper detail",glide_normal_177.jpg,177,0.128895573,0.376052061,0.341602936,0.402970126
+"a huge wooden carving sculpture of a fox, hyper detail",midjourney_lowstep_177.jpg,177,2.193472252,0.655902932,3.075004622,0.305986943
+"a huge wooden carving sculpture of a fox, hyper detail",midjourney_normal_177.jpg,177,3.701722739,0.365064393,3.836048921,0.383865762
+"a huge wooden carving sculpture of a fox, hyper detail",sd1.5_highcorr_177.jpg,177,2.630872609,0.817683258,2.931303945,0.825641471
+"a huge wooden carving sculpture of a fox, hyper detail",sd1.5_lowcorr_177.jpg,177,3.270286787,0.508810222,3.857782273,0.545872101
+"a huge wooden carving sculpture of a fox, hyper detail",sd1.5_lowstep_177.jpg,177,3.231255627,0.635984485,3.623752433,0.213621079
+"a huge wooden carving sculpture of a fox, hyper detail",sd1.5_normal_177.jpg,177,3.773548415,1.093912215,3.469961038,0.882058808
+"a huge wooden carving sculpture of a fox, hyper detail",xl2.2_normal_177.jpg,177,3.835000098,0.77531894,2.308233468,1.009455158
+"underwater photography of the rough ocean, HDR lighting",AttnGAN_normal_179.jpg,179,1.063255848,0.78982614,0.641620949,0.990660571
+"underwater photography of the rough ocean, HDR lighting",DALLE2_normal_179.jpg,179,1.867036088,1.452292988,2.746134145,1.025820001
+"underwater photography of the rough ocean, HDR lighting",glide_normal_179.jpg,179,0.014779217,0.463898319,1.280365205,1.261637146
+"underwater photography of the rough ocean, HDR lighting",midjourney_lowstep_179.jpg,179,1.39381957,0.536152058,2.22449748,1.005848848
+"underwater photography of the rough ocean, HDR lighting",midjourney_normal_179.jpg,179,3.387959109,0.555317104,3.348349994,0.552597797
+"underwater photography of the rough ocean, HDR lighting",sd1.5_highcorr_179.jpg,179,2.763264791,0.782812658,3.191417702,0.951550179
+"underwater photography of the rough ocean, HDR lighting",sd1.5_lowcorr_179.jpg,179,1.539115041,0.756031265,2.163775142,1.144469359
+"underwater photography of the rough ocean, HDR lighting",sd1.5_lowstep_179.jpg,179,2.83450926,0.696498434,3.102285456,0.666702837
+"underwater photography of the rough ocean, HDR lighting",sd1.5_normal_179.jpg,179,2.317014,0.939157041,2.995621756,0.542345208
+"underwater photography of the rough ocean, HDR lighting",xl2.2_normal_179.jpg,179,3.017147546,0.953347932,3.116693004,0.809315817
+"a female warrior in charming phenix armor, top view, realistic style",AttnGAN_normal_182.jpg,182,1.010879855,0.442529208,0.373079324,0.430669632
+"a female warrior in charming phenix armor, top view, realistic style",DALLE2_normal_182.jpg,182,2.939794687,0.768642655,3.035568457,0.662470489
+"a female warrior in charming phenix armor, top view, realistic style",glide_normal_182.jpg,182,1.255971063,0.644909035,1.354623028,1.099963697
+"a female warrior in charming phenix armor, top view, realistic style",midjourney_lowstep_182.jpg,182,2.374253916,0.463461571,2.51693257,0.666409779
+"a female warrior in charming phenix armor, top view, realistic style",midjourney_normal_182.jpg,182,3.541752783,0.722994669,3.066730889,0.944390611
+"a female warrior in charming phenix armor, top view, realistic style",sd1.5_highcorr_182.jpg,182,3.214005785,0.487492188,2.486006301,0.899949787
+"a female warrior in charming phenix armor, top view, realistic style",sd1.5_lowcorr_182.jpg,182,3.074195478,0.287917391,2.202257515,0.929140436
+"a female warrior in charming phenix armor, top view, realistic style",sd1.5_lowstep_182.jpg,182,3.221284286,0.74670814,2.988304467,0.624263807
+"a female warrior in charming phenix armor, top view, realistic style",sd1.5_normal_182.jpg,182,2.574642925,0.657907623,2.566500608,0.518613262
+"a female warrior in charming phenix armor, top view, realistic style",xl2.2_normal_182.jpg,182,3.270286787,0.71606245,2.653500595,0.772479381
+"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",AttnGAN_normal_187.jpg,187,0.902526954,0.715325564,0.874199281,0.907045198
+"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",DALLE2_normal_187.jpg,187,2.657997659,0.814296348,1.672693868,0.722191936
+"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",glide_normal_187.jpg,187,1.782268897,0.605110388,1.502329958,0.842131387
+"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",midjourney_lowstep_187.jpg,187,2.852156791,0.413610383,2.366720668,0.596493898
+"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",midjourney_normal_187.jpg,187,4.180290975,0.496579398,2.60548011,0.930066458
+"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",sd1.5_highcorr_187.jpg,187,3.590592228,0.670322525,2.232430935,1.195146127
+"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",sd1.5_lowcorr_187.jpg,187,2.375358302,0.508196995,2.592416657,0.492229952
+"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",sd1.5_lowstep_187.jpg,187,0.739960598,0.744842911,1.009528271,0.691204646
+"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",sd1.5_normal_187.jpg,187,3.131243411,0.830152306,2.531454291,1.012180968
+"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",xl2.2_normal_187.jpg,187,3.673198773,0.479241731,2.251027408,1.089632117
+"a cyborg jellyfish swimming in a vast ocean, close-up, baroque style",AttnGAN_normal_194.jpg,194,0.775293051,0.342112504,0.86788507,0.328406516
+"a cyborg jellyfish swimming in a vast ocean, close-up, baroque style",DALLE2_normal_194.jpg,194,2.493724965,0.788517999,3.050789396,0.994837245
+"a cyborg jellyfish swimming in a vast ocean, close-up, baroque style",glide_normal_194.jpg,194,0.971526322,0.88597858,1.905281713,1.102303923
+"a cyborg jellyfish swimming in a vast ocean, close-up, baroque style",midjourney_lowstep_194.jpg,194,2.674859949,0.677165933,2.87284354,1.107021331
+"a cyborg jellyfish swimming in a vast ocean, close-up, baroque style",midjourney_normal_194.jpg,194,3.438253731,0.968037989,3.434128078,0.669408468
+"a cyborg jellyfish swimming in a vast ocean, close-up, baroque style",sd1.5_highcorr_194.jpg,194,3.150815738,0.495001918,3.075619946,0.651388175
+"a cyborg jellyfish swimming in a vast ocean, close-up, baroque style",sd1.5_lowcorr_194.jpg,194,2.746509754,0.335896245,3.142688856,0.760513263
+"a cyborg jellyfish swimming in a vast ocean, close-up, baroque style",sd1.5_lowstep_194.jpg,194,3.110506733,0.535084177,3.327464378,0.708664672
+"a cyborg jellyfish swimming in a vast ocean, close-up, baroque style",sd1.5_normal_194.jpg,194,3.063450866,0.550197002,3.285944521,0.479663706
+"a cyborg jellyfish swimming in a vast ocean, close-up, baroque style",xl2.2_normal_194.jpg,194,3.29157139,0.605402541,3.250506865,0.785516359
+"the essence of the chemical element hydrogen, blurred detail, sci-fi style",AttnGAN_normal_196.jpg,196,0.8493261,0.49328618,0.629428475,0.446159964
+"the essence of the chemical element hydrogen, blurred detail, sci-fi style",DALLE2_normal_196.jpg,196,1.956105243,0.499021022,1.498880017,1.225647031
+"the essence of the chemical element hydrogen, blurred detail, sci-fi style",glide_normal_196.jpg,196,0.392942638,0.412078889,0.483118797,0.641017249
+"the essence of the chemical element hydrogen, blurred detail, sci-fi style",midjourney_lowstep_196.jpg,196,2.213514948,0.5065825,2.497857823,1.067813636
+"the essence of the chemical element hydrogen, blurred detail, sci-fi style",midjourney_normal_196.jpg,196,3.038537814,0.871146041,2.931303945,0.983272436
+"the essence of the chemical element hydrogen, blurred detail, sci-fi style",sd1.5_highcorr_196.jpg,196,2.147166571,0.815574792,2.33637472,1.126830639
+"the essence of the chemical element hydrogen, blurred detail, sci-fi style",sd1.5_lowcorr_196.jpg,196,1.597692094,0.826004705,2.032736844,1.501786567
+"the essence of the chemical element hydrogen, blurred detail, sci-fi style",sd1.5_lowstep_196.jpg,196,2.061594671,0.890375759,2.275412354,1.302388614
+"the essence of the chemical element hydrogen, blurred detail, sci-fi style",sd1.5_normal_196.jpg,196,3.018173564,0.559456633,3.047185079,0.808875237
+"the essence of the chemical element hydrogen, blurred detail, sci-fi style",xl2.2_normal_196.jpg,196,2.161428554,1.155949695,2.299797301,1.417870804
+"robots creating new robots in a factory line, soft lighting, abstract style",AttnGAN_normal_198.jpg,198,0.84859438,0.506466121,0.976132005,0.74858205
+"robots creating new robots in a factory line, soft lighting, abstract style",DALLE2_normal_198.jpg,198,2.478101113,0.451655666,2.935379657,0.51995562
+"robots creating new robots in a factory line, soft lighting, abstract style",glide_normal_198.jpg,198,0.363910379,0.885340067,0.139161932,0.52934417
+"robots creating new robots in a factory line, soft lighting, abstract style",midjourney_lowstep_198.jpg,198,1.299273321,1.04092346,2.74673979,1.173954028
+"robots creating new robots in a factory line, soft lighting, abstract style",midjourney_normal_198.jpg,198,3.707018893,1.070528025,3.404134969,0.627498465
+"robots creating new robots in a factory line, soft lighting, abstract style",sd1.5_highcorr_198.jpg,198,3.387909038,0.447834289,3.124625168,0.445591657
+"robots creating new robots in a factory line, soft lighting, abstract style",sd1.5_lowcorr_198.jpg,198,3.058356047,1.070841754,3.140830692,0.42656272
+"robots creating new robots in a factory line, soft lighting, abstract style",sd1.5_lowstep_198.jpg,198,3.108728168,0.996634958,2.784549692,0.87798173
+"robots creating new robots in a factory line, soft lighting, abstract style",sd1.5_normal_198.jpg,198,2.957803829,0.691753343,2.54579025,0.959365642
+"robots creating new robots in a factory line, soft lighting, abstract style",xl2.2_normal_198.jpg,198,3.165749619,0.803093911,2.71557697,0.301502763
+"the fate of all fools and divine intervention, long-shot, anime style",AttnGAN_normal_205.jpg,205,1.575270793,0.80446056,0.850496237,0.722034431
+"the fate of all fools and divine intervention, long-shot, anime style",DALLE2_normal_205.jpg,205,1.8940894,0.44907768,2.271926577,0.642891462
+"the fate of all fools and divine intervention, long-shot, anime style",glide_normal_205.jpg,205,0.363910379,0.930407448,0.204988001,0.642314812
+"the fate of all fools and divine intervention, long-shot, anime style",midjourney_lowstep_205.jpg,205,2.368763526,0.740719817,2.486006301,1.149169426
+"the fate of all fools and divine intervention, long-shot, anime style",midjourney_normal_205.jpg,205,3.903999466,0.641440458,2.782294356,1.36554695
+"the fate of all fools and divine intervention, long-shot, anime style",sd1.5_highcorr_205.jpg,205,3.120947975,0.708041277,2.71557697,0.534685203
+"the fate of all fools and divine intervention, long-shot, anime style",sd1.5_lowcorr_205.jpg,205,1.773369934,0.35055264,1.939494873,0.892788106
+"the fate of all fools and divine intervention, long-shot, anime style",sd1.5_lowstep_205.jpg,205,2.912636241,0.858192588,2.37877521,1.256771754
+"the fate of all fools and divine intervention, long-shot, anime style",sd1.5_normal_205.jpg,205,2.460930201,0.714262685,2.37295214,0.796657676
+"the fate of all fools and divine intervention, long-shot, anime style",xl2.2_normal_205.jpg,205,3.583898292,0.680213686,2.765238071,0.645659676
+"painting of a man farmer at work in the field, hyper detail, realistic style",AttnGAN_normal_207.jpg,207,1.195774268,0.506574777,1.075675159,0.681951823
+"painting of a man farmer at work in the field, hyper detail, realistic style",DALLE2_normal_207.jpg,207,2.899057018,0.754775389,3.536512459,0.460436218
+"painting of a man farmer at work in the field, hyper detail, realistic style",glide_normal_207.jpg,207,0.641923698,0.461137921,0.927777366,0.611147875
+"painting of a man farmer at work in the field, hyper detail, realistic style",midjourney_lowstep_207.jpg,207,2.595585415,0.654013386,2.987495218,0.600217122
+"painting of a man farmer at work in the field, hyper detail, realistic style",midjourney_normal_207.jpg,207,4.436862351,0.382287812,3.811215295,0.771453814
+"painting of a man farmer at work in the field, hyper detail, realistic style",sd1.5_highcorr_207.jpg,207,3.395484412,0.576487468,3.679897602,0.444152618
+"painting of a man farmer at work in the field, hyper detail, realistic style",sd1.5_lowcorr_207.jpg,207,2.524012104,0.5449999,2.900809578,0.398583656
+"painting of a man farmer at work in the field, hyper detail, realistic style",sd1.5_lowstep_207.jpg,207,3.773548415,0.57898848,3.522621893,0.644443149
+"painting of a man farmer at work in the field, hyper detail, realistic style",sd1.5_normal_207.jpg,207,2.505259558,0.572524654,2.846322945,0.270583557
+"painting of a man farmer at work in the field, hyper detail, realistic style",xl2.2_normal_207.jpg,207,2.897963605,0.562955703,2.988304467,1.102488072
+"french fastfood adventure pixar movie poster , soft lighting, abstract style",AttnGAN_normal_208.jpg,208,1.264773637,0.647718197,1.277151036,0.895612517
+"french fastfood adventure pixar movie poster , soft lighting, abstract style",DALLE2_normal_208.jpg,208,3.034849246,0.781899665,2.935379657,0.883199218
+"french fastfood adventure pixar movie poster , soft lighting, abstract style",glide_normal_208.jpg,208,1.234399646,0.472239813,2.043755364,0.706285793
+"french fastfood adventure pixar movie poster , soft lighting, abstract style",midjourney_lowstep_208.jpg,208,1.661520003,0.611957445,2.118609113,1.109787234
+"french fastfood adventure pixar movie poster , soft lighting, abstract style",midjourney_normal_208.jpg,208,3.727517958,0.18079734,3.285944521,0.79068756
+"french fastfood adventure pixar movie poster , soft lighting, abstract style",sd1.5_highcorr_208.jpg,208,2.785504238,0.509738437,2.94270405,0.453333483
+"french fastfood adventure pixar movie poster , soft lighting, abstract style",sd1.5_lowcorr_208.jpg,208,3.214005785,0.789447695,2.948215667,0.55667117
+"french fastfood adventure pixar movie poster , soft lighting, abstract style",sd1.5_lowstep_208.jpg,208,2.674859949,0.648672431,3.128885477,0.655573301
+"french fastfood adventure pixar movie poster , soft lighting, abstract style",sd1.5_normal_208.jpg,208,0.634718842,0.3573536,1.221288303,0.774306813
+"french fastfood adventure pixar movie poster , soft lighting, abstract style",xl2.2_normal_208.jpg,208,3.49654282,0.61103753,3.480852014,0.731154583
+"an uprising of disneyland costumed characters, HDR lighting, baroque style",AttnGAN_normal_209.jpg,209,0.995787421,0.597178698,0.552148905,0.672881932
+"an uprising of disneyland costumed characters, HDR lighting, baroque style",DALLE2_normal_209.jpg,209,2.703383915,0.50984949,2.750918808,1.007458728
+"an uprising of disneyland costumed characters, HDR lighting, baroque style",glide_normal_209.jpg,209,1.000336846,0.414611381,0.902946816,0.851392938
+"an uprising of disneyland costumed characters, HDR lighting, baroque style",midjourney_lowstep_209.jpg,209,1.134565764,0.691897746,1.373169339,0.571503527
+"an uprising of disneyland costumed characters, HDR lighting, baroque style",midjourney_normal_209.jpg,209,3.559002625,0.6424478,2.865255012,0.653323158
+"an uprising of disneyland costumed characters, HDR lighting, baroque style",sd1.5_highcorr_209.jpg,209,2.082442662,0.45744994,2.903929414,0.780254682
+"an uprising of disneyland costumed characters, HDR lighting, baroque style",sd1.5_lowcorr_209.jpg,209,3.017147546,0.386923151,2.592416657,0.978644041
+"an uprising of disneyland costumed characters, HDR lighting, baroque style",sd1.5_lowstep_209.jpg,209,2.689121932,0.43869553,2.945998379,0.319807616
+"an uprising of disneyland costumed characters, HDR lighting, baroque style",sd1.5_normal_209.jpg,209,2.508658847,0.488155097,2.802483896,0.464393529
+"an uprising of disneyland costumed characters, HDR lighting, baroque style",xl2.2_normal_209.jpg,209,3.740283654,0.591549085,2.838030773,0.668347661
+"elegant oval mirror and toucan with reflection, blurred detail, sci-fi style",AttnGAN_normal_216.jpg,216,0.803407893,0.580332752,0.799484444,0.581937452
+"elegant oval mirror and toucan with reflection, blurred detail, sci-fi style",DALLE2_normal_216.jpg,216,2.689121932,0.832955743,2.958190852,0.995209251
+"elegant oval mirror and toucan with reflection, blurred detail, sci-fi style",glide_normal_216.jpg,216,1.010879855,0.56361608,1.98470556,0.642784094
+"elegant oval mirror and toucan with reflection, blurred detail, sci-fi style",midjourney_lowstep_216.jpg,216,3.306433702,0.602727791,3.057832635,1.542044537
+"elegant oval mirror and toucan with reflection, blurred detail, sci-fi style",midjourney_normal_216.jpg,216,3.733237104,0.372709584,3.199772697,0.675897399
+"elegant oval mirror and toucan with reflection, blurred detail, sci-fi style",sd1.5_highcorr_216.jpg,216,2.971609163,0.46878658,2.64108532,0.584498351
+"elegant oval mirror and toucan with reflection, blurred detail, sci-fi style",sd1.5_lowcorr_216.jpg,216,2.323921604,0.519571567,2.37865864,1.174273908
+"elegant oval mirror and toucan with reflection, blurred detail, sci-fi style",sd1.5_lowstep_216.jpg,216,2.351513684,0.496474793,1.265299514,0.965040114
+"elegant oval mirror and toucan with reflection, blurred detail, sci-fi style",sd1.5_normal_216.jpg,216,2.326531297,0.747629583,2.666882993,1.014872975
+"elegant oval mirror and toucan with reflection, blurred detail, sci-fi style",xl2.2_normal_216.jpg,216,3.586777229,0.472592026,2.817302903,0.993494579
+"goose being zipped - up by man in orange shirt, warm color, elevation view",AttnGAN_normal_221.jpg,221,1.195774268,0.774368242,0.589762748,0.678976019
+"goose being zipped - up by man in orange shirt, warm color, elevation view",DALLE2_normal_221.jpg,221,3.075586915,0.760846743,2.512360277,0.968202572
+"goose being zipped - up by man in orange shirt, warm color, elevation view",glide_normal_221.jpg,221,0.686725341,0.23395544,0.753963515,0.236059203
+"goose being zipped - up by man in orange shirt, warm color, elevation view",midjourney_lowstep_221.jpg,221,2.276634155,0.861944562,2.443074357,0.600978799
+"goose being zipped - up by man in orange shirt, warm color, elevation view",midjourney_normal_221.jpg,221,3.319686232,0.338248218,3.10230551,0.649101566
+"goose being zipped - up by man in orange shirt, warm color, elevation view",sd1.5_highcorr_221.jpg,221,2.343163678,0.499687656,1.692657167,1.001261566
+"goose being zipped - up by man in orange shirt, warm color, elevation view",sd1.5_lowcorr_221.jpg,221,2.237264824,0.946940694,1.449290389,0.646932401
+"goose being zipped - up by man in orange shirt, warm color, elevation view",sd1.5_lowstep_221.jpg,221,3.374329815,0.495455533,2.111605076,1.294266083
+"goose being zipped - up by man in orange shirt, warm color, elevation view",sd1.5_normal_221.jpg,221,3.110506733,0.677794838,1.454923869,0.573590814
+"goose being zipped - up by man in orange shirt, warm color, elevation view",xl2.2_normal_221.jpg,221,2.580492981,0.435749336,2.37865864,0.663218048
+"a kitten with two little goat horns on his head, warm color, blurred detail",AttnGAN_normal_228.jpg,228,0.649658335,0.644355135,0.678198368,0.493500032
+"a kitten with two little goat horns on his head, warm color, blurred detail",DALLE2_normal_228.jpg,228,3.224958365,0.610457342,2.812926678,0.694939994
+"a kitten with two little goat horns on his head, warm color, blurred detail",glide_normal_228.jpg,228,1.248661629,0.609732839,0.629428475,0.677579137
+"a kitten with two little goat horns on his head, warm color, blurred detail",midjourney_lowstep_228.jpg,228,2.67293154,0.287318724,2.305872894,1.186621358
+"a kitten with two little goat horns on his head, warm color, blurred detail",midjourney_normal_228.jpg,228,3.319686232,0.322498018,3.159306031,1.025665151
+"a kitten with two little goat horns on his head, warm color, blurred detail",sd1.5_highcorr_228.jpg,228,2.583328253,0.436221945,2.268627069,0.799837651
+"a kitten with two little goat horns on his head, warm color, blurred detail",sd1.5_lowcorr_228.jpg,228,3.291209376,0.87041229,2.653717779,1.14762394
+"a kitten with two little goat horns on his head, warm color, blurred detail",sd1.5_lowstep_228.jpg,228,3.059933495,0.543577361,2.87284354,0.526588942
+"a kitten with two little goat horns on his head, warm color, blurred detail",sd1.5_normal_228.jpg,228,2.687865421,0.290862527,2.479686745,0.58435777
+"a kitten with two little goat horns on his head, warm color, blurred detail",xl2.2_normal_228.jpg,228,3.613766055,0.213495242,2.032736844,0.918836006
+"photoreal portrait of a futuristic intricate robot, top view, blurred detail",AttnGAN_normal_240.jpg,240,0.902526954,0.670569951,0.720129493,0.542598662
+"photoreal portrait of a futuristic intricate robot, top view, blurred detail",DALLE2_normal_240.jpg,240,2.000906886,0.567966182,2.504517295,0.851831343
+"photoreal portrait of a futuristic intricate robot, top view, blurred detail",glide_normal_240.jpg,240,0.920325251,0.215235164,0.993853874,0.728498426
+"photoreal portrait of a futuristic intricate robot, top view, blurred detail",midjourney_lowstep_240.jpg,240,2.66201084,0.756001746,3.090433934,0.634440898
+"photoreal portrait of a futuristic intricate robot, top view, blurred detail",midjourney_normal_240.jpg,240,3.956504603,0.733022817,3.193491547,0.767706711
+"photoreal portrait of a futuristic intricate robot, top view, blurred detail",sd1.5_highcorr_240.jpg,240,2.309898917,1.05934498,2.0086223,1.340225154
+"photoreal portrait of a futuristic intricate robot, top view, blurred detail",sd1.5_lowcorr_240.jpg,240,3.442225929,0.974908203,3.024436368,0.769430872
+"photoreal portrait of a futuristic intricate robot, top view, blurred detail",sd1.5_lowstep_240.jpg,240,3.727389608,0.45341686,3.00217219,0.848606221
+"photoreal portrait of a futuristic intricate robot, top view, blurred detail",sd1.5_normal_240.jpg,240,3.601888857,0.571466574,3.189847843,0.602957653
+"photoreal portrait of a futuristic intricate robot, top view, blurred detail",xl2.2_normal_240.jpg,240,3.863181835,0.407423287,3.31387068,0.635503669
+"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",AttnGAN_normal_243.jpg,243,0.980694987,0.139765208,0.826722264,0.578560166
+"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",DALLE2_normal_243.jpg,243,2.446668218,1.05414724,2.958190852,0.387413657
+"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",glide_normal_243.jpg,243,1.782268897,0.567550172,2.474154779,0.825546548
+"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",midjourney_lowstep_243.jpg,243,1.337589887,0.672404755,1.90529456,0.705663083
+"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",midjourney_normal_243.jpg,243,3.523701266,0.276396512,3.091228902,0.650744257
+"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",sd1.5_highcorr_243.jpg,243,3.045671512,0.476602268,3.299580101,0.746475379
+"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",sd1.5_lowcorr_243.jpg,243,3.136939761,0.449872485,3.170706135,0.637981427
+"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",sd1.5_lowstep_243.jpg,243,3.001476926,0.447169931,2.827314446,0.832921859
+"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",sd1.5_normal_243.jpg,243,3.231255627,0.505835019,3.5526433,0.525396963
+"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",xl2.2_normal_243.jpg,243,3.853868226,0.430409638,3.090905405,0.781611806
+"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",AttnGAN_normal_248.jpg,248,1.092275216,0.640218555,0.731981015,0.835387907
+"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",DALLE2_normal_248.jpg,248,3.772795259,0.349832122,2.963619274,0.813639956
+"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",glide_normal_248.jpg,248,0.649658335,0.384263359,0.507503744,0.331505594
+"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",midjourney_lowstep_248.jpg,248,3.002885562,0.533539888,3.421504833,0.387546359
+"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",midjourney_normal_248.jpg,248,3.531316317,0.474426945,3.524703964,0.33201639
+"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",sd1.5_highcorr_248.jpg,248,1.690506192,0.514905259,2.345378943,0.683353005
+"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",sd1.5_lowcorr_248.jpg,248,0.100536848,0.474052702,0.423281003,0.489687255
+"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",sd1.5_lowstep_248.jpg,248,3.195617381,0.688749019,3.025958846,1.065906442
+"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",sd1.5_normal_248.jpg,248,2.627472563,0.448637298,3.068964724,0.463940672
+"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",xl2.2_normal_248.jpg,248,3.352004521,0.587040979,3.848931355,0.486670233
+"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",AttnGAN_normal_251.jpg,251,1.252358797,0.4640501,0.719280515,0.977929443
+"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",DALLE2_normal_251.jpg,251,2.74826005,0.593008739,3.161543067,0.721982566
+"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",glide_normal_251.jpg,251,0.60416837,0.537162432,1.087452894,0.969988713
+"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",midjourney_lowstep_251.jpg,251,2.209981223,0.810178006,2.169304869,0.688908522
+"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",midjourney_normal_251.jpg,251,3.673754131,0.873088384,3.10133505,1.300595582
+"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",sd1.5_highcorr_251.jpg,251,2.420513052,0.876794552,2.367491079,0.920064215
+"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",sd1.5_lowcorr_251.jpg,251,2.523592728,0.654779214,1.585786942,0.519769725
+"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",sd1.5_lowstep_251.jpg,251,3.093256891,0.700533529,3.3393159,0.428205936
+"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",sd1.5_normal_251.jpg,251,3.248505469,1.069490032,3.0193248,0.844841493
+"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",xl2.2_normal_251.jpg,251,3.196755943,0.696953278,2.486006301,1.085155381
+"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",AttnGAN_normal_258.jpg,258,0.60416837,0.522302718,0.642169337,0.908668879
+"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",DALLE2_normal_258.jpg,258,2.931575646,0.773533923,3.543429565,0.450308443
+"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",glide_normal_258.jpg,258,0.873694997,0.614749815,0.560082254,0.417287079
+"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",midjourney_lowstep_258.jpg,258,1.815542197,0.927679319,2.338498523,0.972902113
+"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",midjourney_normal_258.jpg,258,3.923239841,0.812994361,3.812256598,0.448136985
+"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",sd1.5_highcorr_258.jpg,258,3.345173159,0.383437773,3.189847843,0.620576386
+"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",sd1.5_lowcorr_258.jpg,258,3.359435142,0.651108825,2.494876872,0.516409604
+"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",sd1.5_lowstep_258.jpg,258,2.974361596,0.568804054,3.37273494,0.503096742
+"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",sd1.5_normal_258.jpg,258,3.285220668,0.45229754,2.56659367,0.676201635
+"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",xl2.2_normal_258.jpg,258,3.432145599,0.460190096,3.444308638,0.413873754
+"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",AttnGAN_normal_262.jpg,262,1.075025374,0.536841317,0.672723404,0.629217401
+"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",DALLE2_normal_262.jpg,262,3.380391978,0.62088835,3.118812912,0.633122495
+"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",glide_normal_262.jpg,262,0.820802133,0.45551633,0.556273636,0.81694682
+"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",midjourney_lowstep_262.jpg,262,2.785504238,0.277066746,2.520900191,0.56568677
+"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",midjourney_normal_262.jpg,262,3.781706499,0.390710651,3.52538037,0.497385914
+"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",sd1.5_highcorr_262.jpg,262,3.428646707,0.7757438,3.436323658,0.718756838
+"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",sd1.5_lowcorr_262.jpg,262,3.283005153,0.594159354,3.3393159,0.340031865
+"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",sd1.5_lowstep_262.jpg,262,2.613196015,0.447013669,3.150111597,0.362314336
+"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",sd1.5_normal_262.jpg,262,2.538526609,0.39545408,3.150111597,0.532816067
+"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",xl2.2_normal_262.jpg,262,3.507253099,0.501559681,3.327464378,0.425184098
+"a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style",AttnGAN_normal_264.jpg,264,1.267302782,0.5228865,1.301089033,0.793432664
+"a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style",DALLE2_normal_264.jpg,264,2.592649388,1.039266337,3.167161119,1.031497914
+"a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style",glide_normal_264.jpg,264,0.863588083,0.502722457,1.531671491,1.057504309
+"a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style",midjourney_lowstep_264.jpg,264,0.831522735,0.351558835,2.156096854,1.281084925
+"a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style",midjourney_normal_264.jpg,264,3.033265998,0.358525554,3.429200187,0.449728694
+"a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style",sd1.5_highcorr_264.jpg,264,3.159767378,0.53868266,2.860651067,0.868524504
+"a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style",sd1.5_lowcorr_264.jpg,264,1.946610757,0.444751539,2.832301581,1.065832759
+"a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style",sd1.5_lowstep_264.jpg,264,3.822444167,0.539315042,3.31387068,0.884543577
+"a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style",sd1.5_normal_264.jpg,264,1.765019055,1.050067049,2.272678902,0.879612429
+"a hyper intricate oil portrait red cathedral interior, warm color, close-up, baroque style",xl2.2_normal_264.jpg,264,2.586734895,0.357624305,3.169153524,0.887780997
+"european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style",AttnGAN_normal_270.jpg,270,0.875752826,0.420010054,0.864811115,0.630528357
+"european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style",DALLE2_normal_270.jpg,270,1.262923612,0.514537315,2.324182247,1.200311516
+"european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style",glide_normal_270.jpg,270,1.528177025,0.541776586,2.153439652,0.911501279
+"european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style",midjourney_lowstep_270.jpg,270,2.363781612,0.834506115,3.10230551,1.056092457
+"european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style",midjourney_normal_270.jpg,270,3.757702826,0.469144515,3.465014103,0.566099379
+"european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style",sd1.5_highcorr_270.jpg,270,3.374329815,0.547428592,3.347266947,0.972087849
+"european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style",sd1.5_lowcorr_270.jpg,270,3.024480393,0.360726915,2.931303945,0.383238348
+"european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style",sd1.5_lowstep_270.jpg,270,3.102719445,0.484050488,3.214232789,0.709930774
+"european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style",sd1.5_normal_270.jpg,270,2.831741764,0.824240222,3.165462896,0.810019227
+"european woodcut of a wooden sailing vessel on a stormy, cold color, blurred detail, anime style",xl2.2_normal_270.jpg,270,2.788955814,0.382690741,3.080115584,0.701627667
+"angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style",AttnGAN_normal_274.jpg,274,0.965602553,0.351987104,0.922226041,1.063339529
+"angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style",DALLE2_normal_274.jpg,274,3.419625599,0.694951665,2.951467196,1.073482605
+"angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style",glide_normal_274.jpg,274,0.402281536,0.78038242,0.92160537,0.847997171
+"angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style",midjourney_lowstep_274.jpg,274,2.03716536,0.58143881,3.202378717,0.742251973
+"angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style",midjourney_normal_274.jpg,274,3.494295005,0.548546505,2.839729721,0.331880878
+"angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style",sd1.5_highcorr_274.jpg,274,3.590592228,0.834696848,3.483126252,0.962528793
+"angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style",sd1.5_lowcorr_274.jpg,274,3.544840924,0.871976037,3.019153218,1.221817522
+"angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style",sd1.5_lowstep_274.jpg,274,3.025091285,0.753981654,3.390969755,0.711672205
+"angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style",sd1.5_normal_274.jpg,274,3.568964411,0.512858429,3.050789396,0.860604503
+"angled photograph of an abandoned train cart during dusk, cold color, soft lighting, baroque style",xl2.2_normal_274.jpg,274,3.628001993,0.685603341,2.971918712,0.665763259
+"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",AttnGAN_normal_277.jpg,277,0.859637576,0.345503594,0.582882463,0.484328933
+"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",DALLE2_normal_277.jpg,277,2.757389397,0.552756488,2.475299774,0.559521531
+"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",glide_normal_277.jpg,277,1.385522531,0.47347537,1.075675159,0.579956351
+"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",midjourney_lowstep_277.jpg,277,2.532240117,0.441071522,2.689956442,0.633932193
+"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",midjourney_normal_277.jpg,277,3.285220668,0.494788471,2.951467196,0.75428476
+"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",sd1.5_highcorr_277.jpg,277,2.478101113,0.967828689,2.389907299,0.933577356
+"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",sd1.5_lowcorr_277.jpg,277,1.264773637,0.810292103,0.980862981,0.852200336
+"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",sd1.5_lowstep_277.jpg,277,2.715217134,0.546356392,2.258697793,1.031770828
+"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",sd1.5_normal_277.jpg,277,2.625770283,0.529518124,2.963619274,0.536068947
+"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",xl2.2_normal_277.jpg,277,3.593502309,0.824398423,2.85340349,0.990854754
+"a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style",AttnGAN_normal_290.jpg,290,0.799027902,0.675947693,0.933456892,0.823621575
+"a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style",DALLE2_normal_290.jpg,290,3.193169444,0.571747889,2.874303424,0.381851833
+"a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style",glide_normal_290.jpg,290,1.899886722,0.581588218,1.289688929,1.004037435
+"a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style",midjourney_lowstep_290.jpg,290,3.108728168,0.54739633,2.653231999,0.864149938
+"a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style",midjourney_normal_290.jpg,290,4.149074065,0.302639199,2.954104154,0.637186347
+"a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style",sd1.5_highcorr_290.jpg,290,1.962090647,0.147514603,2.723869967,0.682214369
+"a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style",sd1.5_lowcorr_290.jpg,290,2.558511788,0.82748482,2.213421291,0.877630278
+"a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style",sd1.5_lowstep_290.jpg,290,2.161765422,0.507516129,2.225272813,1.007181427
+"a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style",sd1.5_normal_290.jpg,290,2.321609349,0.509909457,2.30429821,0.496500566
+"a portrait of girl chronomancer glass jewelry padlocks fantasy, long-shot, blurred detail, anime style",xl2.2_normal_290.jpg,290,3.360750593,0.9856238,3.224813969,0.43067797
+"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",AttnGAN_normal_293.jpg,293,0.739960598,0.108312025,1.065188716,0.944952912
+"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",DALLE2_normal_293.jpg,293,2.448923322,0.707424507,2.901806096,0.551114801
+"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",glide_normal_293.jpg,293,0.950510119,0.504860565,2.175713114,1.066693456
+"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",midjourney_lowstep_293.jpg,293,2.274412771,0.707691444,2.579152811,1.044644798
+"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",midjourney_normal_293.jpg,293,3.347801074,0.504889847,3.056705093,0.728562281
+"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",sd1.5_highcorr_293.jpg,293,3.124885569,0.59022201,3.483126252,0.689502114
+"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",sd1.5_lowcorr_293.jpg,293,2.508658847,0.218494491,3.001128296,0.190016423
+"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",sd1.5_lowstep_293.jpg,293,3.091620808,0.881929566,3.022343767,0.541225371
+"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",sd1.5_normal_293.jpg,293,3.374329815,0.462911252,3.124625168,0.437349893
+"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",xl2.2_normal_293.jpg,293,3.369254363,0.789161621,3.149691545,0.554060621
+"depressed people standing around an hourglass with little sand left, long-shot, HDR lighting, anime style",AttnGAN_normal_295.jpg,295,0.427638474,0.384060919,0.642169337,0.637960568
+"depressed people standing around an hourglass with little sand left, long-shot, HDR lighting, anime style",DALLE2_normal_295.jpg,295,2.66201084,0.723210317,3.043027845,0.660339819
+"depressed people standing around an hourglass with little sand left, long-shot, HDR lighting, anime style",glide_normal_295.jpg,295,0.421466604,0.309536446,0.409963958,0.485767621
+"depressed people standing around an hourglass with little sand left, long-shot, HDR lighting, anime style",midjourney_lowstep_295.jpg,295,2.419055559,0.367332277,2.454856195,0.551491933
+"depressed people standing around an hourglass with little sand left, long-shot, HDR lighting, anime style",midjourney_normal_295.jpg,295,3.440761714,0.681985631,2.665169971,0.628040226
+"depressed people standing around an hourglass with little sand left, long-shot, HDR lighting, anime style",sd1.5_highcorr_295.jpg,295,3.373697126,0.59252096,3.153270423,0.886623351
+"depressed people standing around an hourglass with little sand left, long-shot, HDR lighting, anime style",sd1.5_lowcorr_295.jpg,295,2.243369394,0.525496438,2.324587432,0.709179865
+"depressed people standing around an hourglass with little sand left, long-shot, HDR lighting, anime style",sd1.5_lowstep_295.jpg,295,3.244560073,0.468803669,1.662380313,0.661853118
+"depressed people standing around an hourglass with little sand left, long-shot, HDR lighting, anime style",sd1.5_normal_295.jpg,295,2.520123245,0.496732445,2.880053469,0.885608617
+"depressed people standing around an hourglass with little sand left, long-shot, HDR lighting, anime style",xl2.2_normal_295.jpg,295,3.093635734,0.480556905,3.488890048,0.522171221
+"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",AttnGAN_normal_297.jpg,297,1.023275848,0.644284288,0.743832537,0.854635933
+"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",DALLE2_normal_297.jpg,297,3.016410807,0.479175161,3.001128296,0.48642268
+"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",glide_normal_297.jpg,297,1.780593984,0.404588036,2.760673748,0.744259743
+"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",midjourney_lowstep_297.jpg,297,2.827676501,0.346735676,3.375908012,0.682348558
+"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",midjourney_normal_297.jpg,297,3.306433702,0.686359867,3.235946058,0.682740129
+"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",sd1.5_highcorr_297.jpg,297,2.210104633,0.72110922,2.508900426,1.028168339
+"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",sd1.5_lowcorr_297.jpg,297,2.851759102,0.819932129,3.351167422,0.514653534
+"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",sd1.5_lowstep_297.jpg,297,2.65898745,0.799456869,2.874303424,1.211120302
+"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",sd1.5_normal_297.jpg,297,2.996365552,0.689686281,3.273307074,0.800394186
+"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",xl2.2_normal_297.jpg,297,3.174029361,0.760292768,3.10450053,0.523543539

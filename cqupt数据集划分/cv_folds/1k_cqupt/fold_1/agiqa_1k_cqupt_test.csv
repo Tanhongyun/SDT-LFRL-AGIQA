@@ -1,0 +1,217 @@
+﻿prompt,image_name,index,quality_score
+"bird, wearing coat, city, anime style",deepai_0_12_0_0.jpg,4,2.4569882665449083
+"bird, wearing coat, city, anime style",dreamStudio_0_7_0_0.jpg,4,1.5750448697514068
+"bird, wearing coat, city, realistic style",deepai_0_12_0_1.jpg,4,3.2262158782300103
+"bird, wearing coat, city, realistic style",dreamStudio_0_7_0_1.jpg,4,1.2790566945412811
+"bird, wearing coat, wild, anime style",deepai_0_12_1_0.jpg,4,3.602957099994629
+"bird, wearing coat, wild, anime style",dreamStudio_0_7_1_0.jpg,4,2.0795965215087566
+"bird, wearing coat, wild, realistic style",deepai_0_12_1_1.jpg,4,3.367134900737525
+"bird, wearing coat, wild, realistic style",dreamStudio_0_7_1_1.jpg,4,2.062763773204901
+"bird, having icecream, city, anime style",deepai_0_4_0_0.jpg,9,2.9596150924147335
+"bird, having icecream, city, realistic style",deepai_0_4_0_1.jpg,9,2.4629856966610832
+"bird, having icecream, wild, anime style",deepai_0_4_1_0.jpg,9,2.3303215732235967
+"bird, having icecream, wild, realistic style",deepai_0_4_1_1.jpg,9,2.933034641526733
+"bird, using CD, city, anime style",deepai_0_9_0_0.jpg,14,2.9932162205615156
+"bird, using CD, city, anime style",dreamStudio_0_4_0_0.jpg,14,0.3827219913437977
+"bird, using CD, city, realistic style",deepai_0_9_0_1.jpg,14,3.963810088144627
+"bird, using CD, city, realistic style",dreamStudio_0_4_0_1.jpg,14,2.330297948369773
+"bird, using CD, wild, anime style",deepai_0_9_1_0.jpg,14,3.278513421292411
+"bird, using CD, wild, anime style",dreamStudio_0_4_1_0.jpg,14,1.6921076470122591
+"bird, using CD, wild, realistic style",deepai_0_9_1_1.jpg,14,1.8454857204806403
+"bird, using CD, wild, realistic style",dreamStudio_0_4_1_1.jpg,14,1.454908089997902
+"cat, driving bike, city, anime style",deepai_1_1_0_0.jpg,16,2.705923805980506
+"cat, driving bike, city, realistic style",deepai_1_1_0_1.jpg,16,2.0356427853424925
+"cat, driving bike, wild, anime style",deepai_1_1_1_0.jpg,16,2.438638069320326
+"cat, driving bike, wild, realistic style",deepai_1_1_1_1.jpg,16,2.7453446718756314
+"cat, driving car, city, anime style",deepai_1_2_0_0.jpg,22,3.135996942865934
+"cat, driving car, city, realistic style",deepai_1_2_0_1.jpg,22,3.2109579068295258
+"cat, driving car, wild, anime style",deepai_1_2_1_0.jpg,22,2.919788543066456
+"cat, driving car, wild, realistic style",deepai_1_2_1_1.jpg,22,4.187626336861447
+"cat, playing football, city, anime style",deepai_1_7_0_0.jpg,27,3.589990105
+"cat, playing football, city, anime style",dreamStudio_1_2_0_0.jpg,27,1.6006537430092052
+"cat, playing football, city, realistic style",deepai_1_7_0_1.jpg,27,2.8517551576327533
+"cat, playing football, city, realistic style",dreamStudio_1_2_0_1.jpg,27,1.3715906907755355
+"cat, playing football, wild, anime style",deepai_1_7_1_0.jpg,27,2.734071997422264
+"cat, playing football, wild, anime style",dreamStudio_1_2_1_0.jpg,27,1.162164505668548
+"cat, playing football, wild, realistic style",deepai_1_7_1_1.jpg,27,3.7670831835214784
+"cat, playing football, wild, realistic style",dreamStudio_1_2_1_1.jpg,27,1.893555782906615
+"demon, using laptop, city, anime style",deepai_10_10_0_0.jpg,32,3.2656668485676437
+"demon, using laptop, city, realistic style",deepai_10_10_0_1.jpg,32,4.012272375175136
+"demon, using laptop, wild, anime style",deepai_10_10_1_0.jpg,32,2.6190404654104644
+"demon, using laptop, wild, realistic style",deepai_10_10_1_1.jpg,32,2.932330746285457
+"demon, playing baseball, city, anime style",deepai_10_6_0_0.jpg,41,2.9004719124609823
+"demon, playing baseball, city, realistic style",deepai_10_6_0_1.jpg,41,3.0307056838826893
+"demon, playing baseball, wild, anime style",deepai_10_6_1_0.jpg,41,2.5341181811373863
+"demon, playing baseball, wild, realistic style",deepai_10_6_1_1.jpg,41,2.736808905293115
+"demon, playing football, city, anime style",deepai_10_7_0_0.jpg,42,3.249184644366676
+"demon, playing football, city, realistic style",deepai_10_7_0_1.jpg,42,3.247177642374567
+"demon, playing football, wild, anime style",deepai_10_7_1_0.jpg,42,2.667709961163516
+"demon, playing football, wild, realistic style",deepai_10_7_1_1.jpg,42,2.853056497003065
+"witch, driving bike, city, anime style",deepai_11_1_0_0.jpg,46,2.840259079582451
+"witch, driving bike, city, realistic style",deepai_11_1_0_1.jpg,46,3.1173529536579867
+"witch, driving bike, wild, anime style",deepai_11_1_1_0.jpg,46,2.9885622741091584
+"witch, driving bike, wild, realistic style",deepai_11_1_1_1.jpg,46,2.7118049991128483
+"witch, wearing hat, city, anime style",deepai_11_13_0_0.jpg,50,3.132431168778041
+"witch, wearing hat, city, realistic style",deepai_11_13_0_1.jpg,50,3.930151367233837
+"witch, wearing hat, wild, anime style",deepai_11_13_1_0.jpg,50,2.3046778791864506
+"witch, wearing hat, wild, realistic style",deepai_11_13_1_1.jpg,50,2.903225572390995
+"witch, wearing shirt, city, anime style",deepai_11_14_0_0.jpg,51,2.3657547563879615
+"witch, wearing shirt, city, realistic style",deepai_11_14_0_1.jpg,51,2.9255871089508756
+"witch, wearing shirt, wild, anime style",deepai_11_14_1_0.jpg,51,3.243599567782988
+"witch, wearing shirt, wild, realistic style",deepai_11_14_1_1.jpg,51,2.8554666850591888
+"witch, playing baseball, city, anime style",deepai_11_6_0_0.jpg,56,3.3882119877783983
+"witch, playing baseball, city, realistic style",deepai_11_6_0_1.jpg,56,3.218236480605641
+"witch, playing baseball, wild, anime style",deepai_11_6_1_0.jpg,56,2.623047552200785
+"witch, playing baseball, wild, realistic style",deepai_11_6_1_1.jpg,56,3.3641863325886576
+"witch, playing yoga, city, anime style",deepai_11_8_0_0.jpg,58,2.295039509040765
+"witch, playing yoga, city, realistic style",deepai_11_8_0_1.jpg,58,2.247585516224938
+"witch, playing yoga, wild, anime style",deepai_11_8_1_0.jpg,58,2.6974527656093503
+"witch, playing yoga, wild, realistic style",deepai_11_8_1_1.jpg,58,2.357931848
+"dog, playing baseball, city, anime style",deepai_2_6_0_0.jpg,71,2.7144557449747357
+"dog, playing baseball, city, anime style",dreamStudio_2_1_0_0.jpg,71,1.2709552744736223
+"dog, playing baseball, city, realistic style",deepai_2_6_0_1.jpg,71,2.9599723065969545
+"dog, playing baseball, city, realistic style",dreamStudio_2_1_0_1.jpg,71,1.8566245231303689
+"dog, playing baseball, wild, anime style",deepai_2_6_1_0.jpg,71,2.5244585330863485
+"dog, playing baseball, wild, anime style",dreamStudio_2_1_1_0.jpg,71,1.6984800639226043
+"dog, playing baseball, wild, realistic style",deepai_2_6_1_1.jpg,71,2.702185277255299
+"dog, playing baseball, wild, realistic style",dreamStudio_2_1_1_1.jpg,71,1.8064608138092704
+"batman, having hamburger, city, anime style",deepai_3_3_0_0.jpg,83,3.2407455079931053
+"batman, having hamburger, city, realistic style",deepai_3_3_0_1.jpg,83,2.7083957455288665
+"batman, having hamburger, wild, anime style",deepai_3_3_1_0.jpg,83,2.4827721801701412
+"batman, having hamburger, wild, realistic style",deepai_3_3_1_1.jpg,83,3.173247492901318
+"batman, playing football, city, anime style",deepai_3_7_0_0.jpg,87,3.4967843201846933
+"batman, playing football, city, anime style",dreamStudio_3_2_0_0.jpg,87,2.049422905309106
+"batman, playing football, city, realistic style",deepai_3_7_0_1.jpg,87,3.690139862972389
+"batman, playing football, city, realistic style",dreamStudio_3_2_0_1.jpg,87,1.281986247707892
+"batman, playing football, wild, anime style",deepai_3_7_1_0.jpg,87,2.9225624285983187
+"batman, playing football, wild, anime style",dreamStudio_3_2_1_0.jpg,87,2.0101526020584295
+"batman, playing football, wild, realistic style",deepai_3_7_1_1.jpg,87,3.3580781689237837
+"batman, playing football, wild, realistic style",dreamStudio_3_2_1_1.jpg,87,2.226629537115995
+"snoppy, driving aircraft, city, anime style",deepai_4_0_0_0.jpg,90,3.247917211264355
+"snoppy, driving aircraft, city, realistic style",deepai_4_0_0_1.jpg,90,3.634923794985277
+"snoppy, driving aircraft, wild, anime style",deepai_4_0_1_0.jpg,90,3.1749057503456144
+"snoppy, driving aircraft, wild, realistic style",deepai_4_0_1_1.jpg,90,2.3143855943587535
+"snoppy, playing baseball, city, anime style",deepai_4_6_0_0.jpg,101,2.927458700660802
+"snoppy, playing baseball, city, anime style",dreamStudio_4_1_0_0.jpg,101,1.7287925635232857
+"snoppy, playing baseball, city, realistic style",deepai_4_6_0_1.jpg,101,2.325176801
+"snoppy, playing baseball, city, realistic style",dreamStudio_4_1_0_1.jpg,101,2.161891790815201
+"snoppy, playing baseball, wild, anime style",deepai_4_6_1_0.jpg,101,3.2181379863422763
+"snoppy, playing baseball, wild, anime style",dreamStudio_4_1_1_0.jpg,101,1.7444703180118457
+"snoppy, playing baseball, wild, realistic style",deepai_4_6_1_1.jpg,101,2.4532749717379523
+"snoppy, playing baseball, wild, realistic style",dreamStudio_4_1_1_1.jpg,101,1.3696882791222396
+"teddy bear, driving aircraft, city, anime style",deepai_5_0_0_0.jpg,105,2.8637052215711987
+"teddy bear, driving aircraft, city, realistic style",deepai_5_0_0_1.jpg,105,2.6715714622989166
+"teddy bear, driving aircraft, wild, anime style",deepai_5_0_1_0.jpg,105,2.376584708508811
+"teddy bear, driving aircraft, wild, realistic style",deepai_5_0_1_1.jpg,105,2.4272653299504947
+"teddy bear, driving bike, city, anime style",deepai_5_1_0_0.jpg,106,2.8214275150373394
+"teddy bear, driving bike, city, realistic style",deepai_5_1_0_1.jpg,106,2.9238000496615357
+"teddy bear, driving bike, wild, anime style",deepai_5_1_1_0.jpg,106,2.096095680484215
+"teddy bear, driving bike, wild, realistic style",deepai_5_1_1_1.jpg,106,2.210641460826271
+"teddy bear, using laptop, city, anime style",deepai_5_10_0_0.jpg,107,3.0850241295616243
+"teddy bear, using laptop, city, anime style",dreamStudio_5_5_0_0.jpg,107,1.295893663
+"teddy bear, using laptop, city, realistic style",deepai_5_10_0_1.jpg,107,2.702805598986583
+"teddy bear, using laptop, city, realistic style",dreamStudio_5_5_0_1.jpg,107,1.361637579023926
+"teddy bear, using laptop, wild, anime style",deepai_5_10_1_0.jpg,107,2.6609281037976142
+"teddy bear, using laptop, wild, anime style",dreamStudio_5_5_1_0.jpg,107,1.6545504477288977
+"teddy bear, using laptop, wild, realistic style",deepai_5_10_1_1.jpg,107,2.939346813672673
+"teddy bear, using laptop, wild, realistic style",dreamStudio_5_5_1_1.jpg,107,1.578947800103294
+"teddy bear, wearing shirt, city, anime style",deepai_5_14_0_0.jpg,111,1.9586835973541197
+"teddy bear, wearing shirt, city, anime style",dreamStudio_5_9_0_0.jpg,111,2.0357360513311695
+"teddy bear, wearing shirt, city, realistic style",deepai_5_14_0_1.jpg,111,2.4323978628745277
+"teddy bear, wearing shirt, city, realistic style",dreamStudio_5_9_0_1.jpg,111,2.044533348149034
+"teddy bear, wearing shirt, wild, anime style",deepai_5_14_1_0.jpg,111,3.4433290659595723
+"teddy bear, wearing shirt, wild, anime style",dreamStudio_5_9_1_0.jpg,111,1.6391410612386423
+"teddy bear, wearing shirt, wild, realistic style",deepai_5_14_1_1.jpg,111,1.4454728048782346
+"teddy bear, wearing shirt, wild, realistic style",dreamStudio_5_9_1_1.jpg,111,0.4082476805927479
+"teddy bear, having icecream, city, anime style",deepai_5_4_0_0.jpg,114,3.479657515539952
+"teddy bear, having icecream, city, realistic style",deepai_5_4_0_1.jpg,114,3.2421697226758694
+"teddy bear, having icecream, wild, anime style",deepai_5_4_1_0.jpg,114,2.9986984447192735
+"teddy bear, having icecream, wild, realistic style",deepai_5_4_1_1.jpg,114,2.6705270432923864
+"teddy bear, playing baseball, city, anime style",deepai_5_6_0_0.jpg,116,2.251211597
+"teddy bear, playing baseball, city, anime style",dreamStudio_5_1_0_0.jpg,116,2.124192109020657
+"teddy bear, playing baseball, city, realistic style",deepai_5_6_0_1.jpg,116,2.2553757294477146
+"teddy bear, playing baseball, city, realistic style",dreamStudio_5_1_0_1.jpg,116,2.123548458543786
+"teddy bear, playing baseball, wild, anime style",deepai_5_6_1_0.jpg,116,2.100385637057428
+"teddy bear, playing baseball, wild, anime style",dreamStudio_5_1_1_0.jpg,116,1.2503975492622437
+"teddy bear, playing baseball, wild, realistic style",deepai_5_6_1_1.jpg,116,2.2285790401608465
+"teddy bear, playing baseball, wild, realistic style",dreamStudio_5_1_1_1.jpg,116,2.379808221342409
+"kid, playing yoga, city, anime style",deepai_6_8_0_0.jpg,133,2.133249397595325
+"kid, playing yoga, city, realistic style",deepai_6_8_0_1.jpg,133,2.658051723
+"kid, playing yoga, wild, anime style",deepai_6_8_1_0.jpg,133,2.9945510322994364
+"kid, playing yoga, wild, realistic style",deepai_6_8_1_1.jpg,133,2.1383547387299378
+"man, having pizza, city, anime style",deepai_7_5_0_0.jpg,145,3.0258713627467797
+"man, having pizza, city, anime style",dreamStudio_6_0_0_0.jpg,145,2.682676000930225
+"man, having pizza, city, realistic style",deepai_7_5_0_1.jpg,145,4.044364566
+"man, having pizza, city, realistic style",dreamStudio_6_0_0_1.jpg,145,2.764259977190518
+"man, having pizza, wild, anime style",deepai_7_5_1_0.jpg,145,2.523947189747924
+"man, having pizza, wild, anime style",dreamStudio_6_0_1_0.jpg,145,0.6892008989220204
+"man, having pizza, wild, realistic style",deepai_7_5_1_1.jpg,145,2.4681996144627303
+"man, having pizza, wild, realistic style",dreamStudio_6_0_1_1.jpg,145,1.6963994027167075
+"woman, using laptop, city, anime style",deepai_8_10_0_0.jpg,152,2.5223581100704613
+"woman, using laptop, city, anime style",dreamStudio_7_5_0_0.jpg,152,1.5478824844232255
+"woman, using laptop, city, realistic style",deepai_8_10_0_1.jpg,152,3.314756034439703
+"woman, using laptop, city, realistic style",dreamStudio_7_5_0_1.jpg,152,0.3925288247466516
+"woman, using laptop, wild, anime style",deepai_8_10_1_0.jpg,152,2.5515148563795904
+"woman, using laptop, wild, anime style",dreamStudio_7_5_1_0.jpg,152,1.4221384483178456
+"woman, using laptop, wild, realistic style",deepai_8_10_1_1.jpg,152,2.817816219787151
+"woman, using laptop, wild, realistic style",dreamStudio_7_5_1_1.jpg,152,2.033295166192222
+"woman, using phone, city, anime style",deepai_8_11_0_0.jpg,153,2.344689254773755
+"woman, using phone, city, anime style",dreamStudio_7_6_0_0.jpg,153,2.6585485773687676
+"woman, using phone, city, realistic style",deepai_8_11_0_1.jpg,153,3.0837959366195693
+"woman, using phone, city, realistic style",dreamStudio_7_6_0_1.jpg,153,2.1005999792273227
+"woman, using phone, wild, anime style",deepai_8_11_1_0.jpg,153,2.458275956999795
+"woman, using phone, wild, anime style",dreamStudio_7_6_1_0.jpg,153,0.6540998950321218
+"woman, using phone, wild, realistic style",deepai_8_11_1_1.jpg,153,2.9776430863032477
+"woman, using phone, wild, realistic style",dreamStudio_7_6_1_1.jpg,153,1.1905689318647057
+"woman, wearing hat, city, anime style",deepai_8_13_0_0.jpg,155,2.3891942899395704
+"woman, wearing hat, city, anime style",dreamStudio_7_8_0_0.jpg,155,2.2445155757866164
+"woman, wearing hat, city, realistic style",deepai_8_13_0_1.jpg,155,2.587342137994282
+"woman, wearing hat, city, realistic style",dreamStudio_7_8_0_1.jpg,155,2.1946426165234976
+"woman, wearing hat, wild, anime style",deepai_8_13_1_0.jpg,155,2.9425245092357386
+"woman, wearing hat, wild, anime style",dreamStudio_7_8_1_0.jpg,155,2.3139007889510825
+"woman, wearing hat, wild, realistic style",deepai_8_13_1_1.jpg,155,3.7561460946790066
+"woman, wearing hat, wild, realistic style",dreamStudio_7_8_1_1.jpg,155,2.511615823405414
+"woman, playing football, city, anime style",deepai_8_7_0_0.jpg,162,2.6023934574331515
+"woman, playing football, city, anime style",dreamStudio_7_2_0_0.jpg,162,2.065715908289365
+"woman, playing football, city, realistic style",deepai_8_7_0_1.jpg,162,3.3825553771118733
+"woman, playing football, city, realistic style",dreamStudio_7_2_0_1.jpg,162,1.8175292280725712
+"woman, playing football, wild, anime style",deepai_8_7_1_0.jpg,162,2.591266040775753
+"woman, playing football, wild, anime style",dreamStudio_7_2_1_0.jpg,162,2.6938736387142694
+"woman, playing football, wild, realistic style",deepai_8_7_1_1.jpg,162,2.5236031606892673
+"woman, playing football, wild, realistic style",dreamStudio_7_2_1_1.jpg,162,2.023062658200408
+"alien, using phone, city, anime style",deepai_9_11_0_0.jpg,168,2.8913031957845443
+"alien, using phone, city, anime style",dreamStudio_8_6_0_0.jpg,168,1.519423971180305
+"alien, using phone, city, realistic style",deepai_9_11_0_1.jpg,168,2.5896175079846953
+"alien, using phone, city, realistic style",dreamStudio_8_6_0_1.jpg,168,0.9631859623740802
+"alien, using phone, wild, anime style",deepai_9_11_1_0.jpg,168,2.5972270504156834
+"alien, using phone, wild, anime style",dreamStudio_8_6_1_0.jpg,168,1.6804163029926713
+"alien, using phone, wild, realistic style",deepai_9_11_1_1.jpg,168,3.2208186376361763
+"alien, using phone, wild, realistic style",dreamStudio_8_6_1_1.jpg,168,0.5480513389463769
+"alien, wearing coat, city, anime style",deepai_9_12_0_0.jpg,169,2.940955655160127
+"alien, wearing coat, city, anime style",dreamStudio_8_7_0_0.jpg,169,1.7830605820601215
+"alien, wearing coat, city, realistic style",deepai_9_12_0_1.jpg,169,3.299845986892422
+"alien, wearing coat, city, realistic style",dreamStudio_8_7_0_1.jpg,169,2.253514715
+"alien, wearing coat, wild, anime style",deepai_9_12_1_0.jpg,169,2.8171400114540273
+"alien, wearing coat, wild, anime style",dreamStudio_8_7_1_0.jpg,169,0.2299619766836053
+"alien, wearing coat, wild, realistic style",deepai_9_12_1_1.jpg,169,1.9382961032042705
+"alien, wearing coat, wild, realistic style",dreamStudio_8_7_1_1.jpg,169,2.208382453393875
+"alien, driving car, city, anime style",deepai_9_2_0_0.jpg,172,2.9034898166927765
+"alien, driving car, city, realistic style",deepai_9_2_0_1.jpg,172,3.066436132573106
+"alien, driving car, wild, anime style",deepai_9_2_1_0.jpg,172,3.127910475726202
+"alien, driving car, wild, realistic style",deepai_9_2_1_1.jpg,172,3.468469235715027
+"alien, having pizza, city, anime style",deepai_9_5_0_0.jpg,175,3.0937565101013225
+"alien, having pizza, city, anime style",dreamStudio_8_0_0_0.jpg,175,1.9582942148167903
+"alien, having pizza, city, realistic style",deepai_9_5_0_1.jpg,175,2.3372205503339747
+"alien, having pizza, city, realistic style",dreamStudio_8_0_0_1.jpg,175,2.1671465806485664
+"alien, having pizza, wild, anime style",deepai_9_5_1_0.jpg,175,2.8240804177808925
+"alien, having pizza, wild, anime style",dreamStudio_8_0_1_0.jpg,175,2.0666855191047073
+"alien, having pizza, wild, realistic style",deepai_9_5_1_1.jpg,175,2.8668830231756943
+"alien, having pizza, wild, realistic style",dreamStudio_8_0_1_1.jpg,175,2.290224560637543
+"alien, using CD, city, anime style",deepai_9_9_0_0.jpg,179,3.227773050205056
+"alien, using CD, city, anime style",dreamStudio_8_4_0_0.jpg,179,1.6519876951817627
+"alien, using CD, city, realistic style",deepai_9_9_0_1.jpg,179,2.852939438900782
+"alien, using CD, city, realistic style",dreamStudio_8_4_0_1.jpg,179,1.9933084677622437
+"alien, using CD, wild, anime style",deepai_9_9_1_0.jpg,179,1.9236336091179616
+"alien, using CD, wild, anime style",dreamStudio_8_4_1_0.jpg,179,1.014558691338885
+"alien, using CD, wild, realistic style",deepai_9_9_1_1.jpg,179,3.350005276
+"alien, using CD, wild, realistic style",dreamStudio_8_4_1_1.jpg,179,1.7201972027540398

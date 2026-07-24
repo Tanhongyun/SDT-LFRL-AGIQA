@@ -1,0 +1,481 @@
+﻿prompt,image_name,index,Quality,Authenticity,Correspondence,score_1,score_2,score_3,score_4,score_5
+a corgi,Controlnet/000-1.png,0,0.601641784272688,0.4724654086896269,0.599858733492637,4,4,3,2,3
+a corgi,Controlnet/000-2.png,0,0.547488782945869,0.424822427887229,0.572338260012088,3,3,3,2,3
+a corgi,Controlnet/000-3.png,0,0.493219284850192,0.415136888570317,0.535424148920043,3,4,3,2,1
+a corgi,Controlnet/000-4.png,0,0.570137695922788,0.515801608187804,0.602230739812681,4,4,4,3,3
+a corgi,DALLE/000-1.png,0,0.698963010426329,0.674662469470443,0.662880370629596,4,3,3,3,3
+a corgi,DALLE/000-2.png,0,0.621103934515632,0.606257237019357,0.656949028810416,4,4,4,3,3
+a corgi,DALLE/000-3.png,0,0.633029793764934,0.621333698516614,0.639382687783885,3,3,2,3,2
+a corgi,DALLE/000-4.png,0,0.663023031617994,0.695902433929191,0.70820394857775,3,4,3,3,3
+a corgi,Glide/000-1.png,0,0.384188142476458,0.494165945267182,0.525659481838369,2,3,2,3,3
+a corgi,Glide/000-2.png,0,0.374449329961749,0.485396888815793,0.501843868646045,3,3,4,3,3
+a corgi,Glide/000-3.png,0,0.407556092381559,0.459588880952931,0.549009153957545,2,2,2,2,3
+a corgi,Glide/000-4.png,0,0.439772703225667,0.528685969225672,0.592582928423943,2,3,2,3,3
+a corgi,Lafite/000-1.png,0,0.3399559394834739,0.347772395611889,0.38046184930783,2,2,2,2,3
+a corgi,Lafite/000-2.png,0,0.332957427138365,0.327053313096475,0.412714708790357,1,2,2,1,3
+a corgi,Lafite/000-3.png,0,0.398964905427663,0.385986075422704,0.449419705967248,2,3,2,1,2
+a corgi,Lafite/000-4.png,0,0.36567405205141,0.363101381360306,0.378242688063539,1,2,1,1,2
+a corgi,stable-diffusion/000-1.png,0,0.6725035862272271,0.664679857550296,0.640895795344628,4,4,3,2,3
+a corgi,stable-diffusion/000-2.png,0,0.407062519140022,0.457763286347989,0.543278574245623,2,2,2,3,3
+a corgi,stable-diffusion/000-3.png,0,0.614899450013953,0.59836714915396,0.6417752116151649,4,4,4,3,3
+a corgi,stable-diffusion/000-4.png,0,0.642967143577087,0.610308397448975,0.646682520220804,4,4,4,3,3
+a corgi,Unidiffuser/000-1.png,0,0.566964650505948,0.528490901094392,0.5402607507895251,3,3,3,2,3
+a corgi,Unidiffuser/000-2.png,0,0.537653546121748,0.523182577268263,0.5183662157687661,3,4,3,2,3
+a corgi,Unidiffuser/000-3.png,0,0.3771859891381129,0.435743061950714,0.504956420861143,1,2,2,1,3
+a corgi,Unidiffuser/000-4.png,0,0.609718230492863,0.5965232248800789,0.592535064240142,4,4,4,3,3
+a book cover,Controlnet/006-1.png,6,0.601024120048294,0.543699856313797,0.57866129299966,4,4,4,3,3
+a book cover,Controlnet/006-2.png,6,0.5415904870246611,0.512404013898234,0.514551791110353,3,3,2,2,3
+a book cover,Controlnet/006-3.png,6,0.4875615890393729,0.506170896544628,0.515428809671475,2,3,2,2,3
+a book cover,Controlnet/006-4.png,6,0.6407953887835179,0.5731346742350749,0.6279404044829939,3,3,3,2,3
+a book cover,DALLE/006-1.png,6,0.579512564919931,0.5238080261453559,0.516666721494521,4,4,2,3,3
+a book cover,DALLE/006-2.png,6,0.576882752682538,0.566672829954316,0.56252788052931,3,4,2,3,3
+a book cover,DALLE/006-3.png,6,0.609128976535291,0.596435745474288,0.5949918607976801,3,3,3,3,3
+a book cover,DALLE/006-4.png,6,0.53052292407358,0.545085199527358,0.437938464707604,3,3,3,2,2
+a book cover,Glide/006-1.png,6,0.377996667246715,0.423845787851254,0.529115965539108,3,3,2,2,3
+a book cover,Glide/006-2.png,6,0.427119877957314,0.480267782189991,0.5050501124611,1,3,1,1,2
+a book cover,Glide/006-3.png,6,0.425503547907702,0.43319930214649,0.483252901110051,3,3,3,3,3
+a book cover,Glide/006-4.png,6,0.430997703245299,0.457021986627701,0.525905614283345,2,1,2,3,3
+a book cover,Lafite/006-1.png,6,0.456811166048169,0.535798756459457,0.55004727435265,4,4,4,3,3
+a book cover,Lafite/006-2.png,6,0.428615641819638,0.443955507144106,0.461598080072553,3,3,2,2,3
+a book cover,Lafite/006-3.png,6,0.507598343292069,0.5237796698164501,0.526068500530274,3,3,2,2,3
+a book cover,Lafite/006-4.png,6,0.528583827507843,0.559909795637343,0.605877089770327,2,3,2,3,3
+a book cover,stable-diffusion/006-1.png,6,0.5744866733219429,0.587171807769288,0.593393566777501,3,3,2,2,3
+a book cover,stable-diffusion/006-2.png,6,0.603593358342559,0.520791948449705,0.5031518350231731,3,3,3,3,2
+a book cover,stable-diffusion/006-3.png,6,0.406628831216518,0.447152128074458,0.4438730796557639,4,4,4,3,2
+a book cover,stable-diffusion/006-4.png,6,0.637368504457132,0.603615226654009,0.6135163774230891,3,3,3,2,3
+a book cover,Unidiffuser/006-1.png,6,0.455470300274351,0.436422405550782,0.5350673489500241,3,3,3,3,3
+a book cover,Unidiffuser/006-2.png,6,0.554485086173671,0.537930405325662,0.496234724415214,3,3,2,3,2
+a book cover,Unidiffuser/006-3.png,6,0.380635234627995,0.481689234833405,0.498431261929596,1,1,1,3,3
+a book cover,Unidiffuser/006-4.png,6,0.554030467141289,0.538146612404816,0.5493633488713909,3,3,4,3,3
+A red bus is driving on the road,Controlnet/012-1.png,12,0.566793517414523,0.529758109890697,0.590573449100103,3,3,3,2,3
+A red bus is driving on the road,Controlnet/012-2.png,12,0.6101813552618099,0.514189950664033,0.625591892525835,3,3,3,2,3
+A red bus is driving on the road,Controlnet/012-3.png,12,0.524647058902712,0.488509885232876,0.4412074527435969,2,2,2,3,1
+A red bus is driving on the road,Controlnet/012-4.png,12,0.5982778001906081,0.512351984622292,0.626033465210836,4,4,3,2,3
+A red bus is driving on the road,DALLE/012-1.png,12,0.535154648149347,0.52373840609046,0.627478419749022,4,3,2,3,3
+A red bus is driving on the road,DALLE/012-2.png,12,0.574091853415964,0.614593464295741,0.625181314006986,4,4,4,2,3
+A red bus is driving on the road,DALLE/012-3.png,12,0.590072317194115,0.563844898238302,0.565608376430477,3,3,3,3,3
+A red bus is driving on the road,DALLE/012-4.png,12,0.540548432220372,0.5351480320195889,0.579890191612247,3,3,2,3,3
+A red bus is driving on the road,Glide/012-1.png,12,0.414183658548989,0.520651636729329,0.58364497877801,3,3,3,2,3
+A red bus is driving on the road,Glide/012-2.png,12,0.44544648727685,0.535941138640801,0.542477648752532,2,3,2,3,3
+A red bus is driving on the road,Glide/012-3.png,12,0.460502359268083,0.6144264560745011,0.6107669801164289,2,3,3,3,3
+A red bus is driving on the road,Glide/012-4.png,12,0.45940254428925,0.5189579192978591,0.587386098104743,2,3,3,3,3
+A red bus is driving on the road,Lafite/012-1.png,12,0.482657717083323,0.470786394201726,0.562760847127202,2,2,1,1,2
+A red bus is driving on the road,Lafite/012-2.png,12,0.412259754777725,0.435029584657174,0.489940468071685,2,2,3,2,2
+A red bus is driving on the road,Lafite/012-3.png,12,0.377014576257084,0.386256092473107,0.3916261693202459,2,2,2,1,3
+A red bus is driving on the road,Lafite/012-4.png,12,0.389313404374958,0.389660911526102,0.410851959586984,1,1,2,1,3
+A red bus is driving on the road,stable-diffusion/012-1.png,12,0.61739679600713,0.602659324006189,0.569638944608968,4,4,4,3,3
+A red bus is driving on the road,stable-diffusion/012-2.png,12,0.613039033093565,0.603805982837982,0.591348363287732,4,4,4,3,3
+A red bus is driving on the road,stable-diffusion/012-3.png,12,0.35032342306242,0.3658008083905549,0.4308438908414029,1,1,1,1,2
+A red bus is driving on the road,stable-diffusion/012-4.png,12,0.705224795627758,0.626873647637128,0.67262086075042,4,4,4,3,3
+A red bus is driving on the road,Unidiffuser/012-1.png,12,0.590472578372515,0.5724443352770799,0.571845520919387,2,3,3,3,3
+A red bus is driving on the road,Unidiffuser/012-2.png,12,0.388481264678532,0.456254361202716,0.531295701120559,1,2,2,2,2
+A red bus is driving on the road,Unidiffuser/012-3.png,12,0.48740528775043,0.520062536576098,0.635229297626902,3,3,3,2,3
+A red bus is driving on the road,Unidiffuser/012-4.png,12,0.511817359891688,0.4752766554750859,0.508583485357388,4,4,4,2,3
+A bowl of Chicken Pho,Controlnet/015-1.png,15,0.575326926849508,0.598074476416163,0.54531325351229,3,3,3,2,2
+A bowl of Chicken Pho,Controlnet/015-2.png,15,0.610402250782548,0.644769653117409,0.572976912288998,4,4,4,3,3
+A bowl of Chicken Pho,Controlnet/015-3.png,15,0.600520888559604,0.657142817451325,0.578870719721167,4,4,4,3,1
+A bowl of Chicken Pho,Controlnet/015-4.png,15,0.613981600151597,0.550892180248968,0.568821698629858,4,4,4,3,3
+A bowl of Chicken Pho,DALLE/015-1.png,15,0.6477856385267929,0.647932667297777,0.6019966821749559,4,4,4,3,2
+A bowl of Chicken Pho,DALLE/015-2.png,15,0.542138874488158,0.5593462203108011,0.548331221705081,4,4,4,3,3
+A bowl of Chicken Pho,DALLE/015-3.png,15,0.576936390902698,0.550717825889873,0.5960971750581731,4,4,4,3,3
+A bowl of Chicken Pho,DALLE/015-4.png,15,0.609427426545604,0.63990190466491,0.602177538324841,4,4,4,3,2
+A bowl of Chicken Pho,Glide/015-1.png,15,0.377094126920374,0.487802730875339,0.4831016870807769,1,2,2,3,3
+A bowl of Chicken Pho,Glide/015-2.png,15,0.456615829904041,0.476190683696756,0.517545493875805,2,3,3,3,3
+A bowl of Chicken Pho,Glide/015-3.png,15,0.360329108757142,0.486695526836506,0.466156304274653,1,3,3,2,2
+A bowl of Chicken Pho,Glide/015-4.png,15,0.371704886115769,0.5218044877668919,0.519122428838124,2,3,4,3,3
+A bowl of Chicken Pho,Lafite/015-1.png,15,0.396697041173335,0.389356475036036,0.442953993338427,2,3,4,2,3
+A bowl of Chicken Pho,Lafite/015-2.png,15,0.352955930327317,0.362366068397484,0.419101301345335,2,3,3,1,3
+A bowl of Chicken Pho,Lafite/015-3.png,15,0.413643222139777,0.390511117581147,0.455595129916343,3,2,3,2,2
+A bowl of Chicken Pho,Lafite/015-4.png,15,0.421526323794615,0.401569871674098,0.4647055166733549,3,3,3,2,3
+A bowl of Chicken Pho,stable-diffusion/015-1.png,15,0.4392017890643099,0.443183444779234,0.513238192194886,3,3,3,3,3
+A bowl of Chicken Pho,stable-diffusion/015-2.png,15,0.623798424890212,0.56528579567388,0.560981126392686,3,3,3,3,3
+A bowl of Chicken Pho,stable-diffusion/015-3.png,15,0.579853353450309,0.579642503248592,0.5353635290405451,3,4,4,3,3
+A bowl of Chicken Pho,stable-diffusion/015-4.png,15,0.583554558992737,0.553614524260296,0.557646383001032,3,4,3,2,2
+A bowl of Chicken Pho,Unidiffuser/015-1.png,15,0.5492954483249219,0.543699244902901,0.51868708134219,4,4,4,2,3
+A bowl of Chicken Pho,Unidiffuser/015-2.png,15,0.605387730485096,0.589749009347376,0.57039540312153,2,3,3,2,2
+A bowl of Chicken Pho,Unidiffuser/015-3.png,15,0.354445557017323,0.341535304891631,0.34590580891112,1,1,2,1,2
+A bowl of Chicken Pho,Unidiffuser/015-4.png,15,0.585559023904741,0.5650788602850461,0.526081947723202,4,4,4,3,3
+a grandmother reading a book to her grandson and granddaughter,Controlnet/021-1.png,21,0.4903229136739619,0.4345524579184679,0.405449983346535,2,3,3,2,1
+a grandmother reading a book to her grandson and granddaughter,Controlnet/021-2.png,21,0.5357495661202649,0.477249602839529,0.468439696111898,2,2,2,1,2
+a grandmother reading a book to her grandson and granddaughter,Controlnet/021-3.png,21,0.467329954056687,0.4169662496253499,0.401383309992552,3,3,3,2,2
+a grandmother reading a book to her grandson and granddaughter,Controlnet/021-4.png,21,0.53472893640423,0.4733142949997709,0.458977577213721,3,4,4,2,2
+a grandmother reading a book to her grandson and granddaughter,DALLE/021-1.png,21,0.607582548063682,0.541173286659182,0.530953859053719,3,3,3,2,2
+a grandmother reading a book to her grandson and granddaughter,DALLE/021-2.png,21,0.6475579439485151,0.577285314517608,0.6543467017019551,4,4,3,2,3
+a grandmother reading a book to her grandson and granddaughter,DALLE/021-3.png,21,0.579771253200301,0.596244253202045,0.620071316985266,4,4,4,3,3
+a grandmother reading a book to her grandson and granddaughter,DALLE/021-4.png,21,0.572682568762458,0.5984487279437181,0.600242804219063,3,3,3,2,3
+a grandmother reading a book to her grandson and granddaughter,Glide/021-1.png,21,0.330507440214053,0.40082057605444,0.362863159860107,2,2,2,3,1
+a grandmother reading a book to her grandson and granddaughter,Glide/021-2.png,21,0.334570194087178,0.434284387387453,0.348219763451573,1,2,1,3,1
+a grandmother reading a book to her grandson and granddaughter,Glide/021-3.png,21,0.430516701509731,0.488537344862006,0.41226548673081,2,1,2,3,1
+a grandmother reading a book to her grandson and granddaughter,Glide/021-4.png,21,0.34607607234716,0.355566687966551,0.359754681686441,1,2,1,1,1
+a grandmother reading a book to her grandson and granddaughter,Lafite/021-1.png,21,0.326307420248977,0.311979482237797,0.398397507279411,3,2,2,1,2
+a grandmother reading a book to her grandson and granddaughter,Lafite/021-2.png,21,0.36353662987198,0.325795494052146,0.339716418936226,2,2,1,1,1
+a grandmother reading a book to her grandson and granddaughter,Lafite/021-3.png,21,0.33236006871959,0.284179392186096,0.369857640416345,1,2,1,1,3
+a grandmother reading a book to her grandson and granddaughter,Lafite/021-4.png,21,0.396519208908376,0.33306446922504,0.390824766751962,1,1,2,1,1
+a grandmother reading a book to her grandson and granddaughter,stable-diffusion/021-1.png,21,0.543776517763355,0.538357862799478,0.4305012343512689,3,3,3,1,2
+a grandmother reading a book to her grandson and granddaughter,stable-diffusion/021-2.png,21,0.607594359201249,0.4929469125997219,0.534878045621979,3,4,4,2,3
+a grandmother reading a book to her grandson and granddaughter,stable-diffusion/021-3.png,21,0.443686096941139,0.396168487302166,0.4404801452084719,2,2,2,2,3
+a grandmother reading a book to her grandson and granddaughter,stable-diffusion/021-4.png,21,0.517828341110132,0.514906177567762,0.4655128145425509,3,3,3,1,1
+a grandmother reading a book to her grandson and granddaughter,Unidiffuser/021-1.png,21,0.5014607947663781,0.466925702266203,0.429022490307179,3,3,3,2,2
+a grandmother reading a book to her grandson and granddaughter,Unidiffuser/021-2.png,21,0.461208404709132,0.483110990410967,0.4692859570021,3,3,3,2,2
+a grandmother reading a book to her grandson and granddaughter,Unidiffuser/021-3.png,21,0.347810880949979,0.418719904390112,0.417583004966074,1,2,2,2,2
+a grandmother reading a book to her grandson and granddaughter,Unidiffuser/021-4.png,21,0.417895044774227,0.439840626782861,0.426891283068224,2,3,2,2,1
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,Controlnet/022-1.png,22,0.6125655771310501,0.56023094957888,0.522810885806247,2,2,2,2,2
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,Controlnet/022-2.png,22,0.6172239799169099,0.522791689144543,0.505063963142577,4,3,3,2,2
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,Controlnet/022-3.png,22,0.487594298660916,0.392101811344997,0.3900933853163609,2,3,2,1,1
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,Controlnet/022-4.png,22,0.5811156598909379,0.495746833730239,0.458849625764383,4,4,4,3,3
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,DALLE/022-1.png,22,0.552063827860167,0.5055175666004179,0.472619604654257,4,4,3,3,2
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,DALLE/022-2.png,22,0.545481612565515,0.496510802525404,0.507239675087326,4,4,3,2,2
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,DALLE/022-3.png,22,0.523430384566554,0.5121802376326979,0.500657672379332,4,4,4,2,1
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,DALLE/022-4.png,22,0.542593181311639,0.540504932703199,0.527338642928619,3,2,3,1,2
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,Glide/022-1.png,22,0.406300779862716,0.4321419334444299,0.430182132683748,2,3,3,3,1
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,Glide/022-2.png,22,0.348137089441341,0.426986199668815,0.384213162908592,2,3,3,2,2
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,Glide/022-3.png,22,0.458035373658327,0.463329982400588,0.43997374410808,2,3,3,2,2
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,Glide/022-4.png,22,0.35301973511457,0.445172675264752,0.402777317864178,3,3,3,3,1
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,Lafite/022-1.png,22,0.416212602797589,0.427087070370235,0.436319039261441,2,2,2,2,3
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,Lafite/022-2.png,22,0.3361971173088979,0.389168015607843,0.416054678298899,1,1,1,1,1
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,Lafite/022-3.png,22,0.379210226427822,0.420019225156622,0.427906667970258,1,1,2,1,1
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,Lafite/022-4.png,22,0.404998843443882,0.446053454921936,0.47506499436124,1,2,1,1,2
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,stable-diffusion/022-1.png,22,0.457041184102072,0.4554549606279749,0.3928591582279639,4,4,3,2,2
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,stable-diffusion/022-2.png,22,0.5243672329002981,0.4475496340662859,0.4575500566586549,3,4,4,1,1
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,stable-diffusion/022-3.png,22,0.4011566045349329,0.419205718665262,0.394963216285509,1,2,2,2,2
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,stable-diffusion/022-4.png,22,0.608135810562276,0.619388871935027,0.493102345170919,3,3,3,2,1
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,Unidiffuser/022-1.png,22,0.511008856938164,0.525286221504339,0.470292641898455,2,2,2,2,1
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,Unidiffuser/022-2.png,22,0.619011603330203,0.563481603079912,0.54628644046274,4,4,4,1,2
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,Unidiffuser/022-3.png,22,0.51338156932374,0.510380669775056,0.445273632691234,3,4,2,2,2
+a blue semi-truck and its trailer jumping over a row of motorcycles. there are metal ramps on either side of the motorcycles.,Unidiffuser/022-4.png,22,0.4084557421202139,0.403652803358367,0.421708950379421,2,2,2,2,2
+a pineapple with one beer to its left and two beers on its right,Controlnet/025-1.png,25,0.515529790651314,0.532309040787131,0.4293241059263269,4,4,3,2,1
+a pineapple with one beer to its left and two beers on its right,Controlnet/025-2.png,25,0.6356659769463,0.538181872329685,0.483428841804294,4,4,4,2,2
+a pineapple with one beer to its left and two beers on its right,Controlnet/025-3.png,25,0.550406629209276,0.531632753285447,0.488176883214551,4,4,4,3,2
+a pineapple with one beer to its left and two beers on its right,Controlnet/025-4.png,25,0.620618567915986,0.5895845975937231,0.532575438842981,4,4,4,3,2
+a pineapple with one beer to its left and two beers on its right,DALLE/025-1.png,25,0.612730454378837,0.554141292310539,0.444815911197965,3,3,3,3,2
+a pineapple with one beer to its left and two beers on its right,DALLE/025-2.png,25,0.519767340454609,0.498893452140628,0.464244884427671,3,4,4,3,2
+a pineapple with one beer to its left and two beers on its right,DALLE/025-3.png,25,0.634581827747869,0.610076417168127,0.545181238372024,4,4,4,3,2
+a pineapple with one beer to its left and two beers on its right,DALLE/025-4.png,25,0.592720182795739,0.607658983612788,0.518947748473785,4,4,4,3,2
+a pineapple with one beer to its left and two beers on its right,Glide/025-1.png,25,0.394411921058054,0.4716358915376449,0.4126964250748,2,3,3,2,1
+a pineapple with one beer to its left and two beers on its right,Glide/025-2.png,25,0.39071552788291,0.427447009563408,0.400238883906065,2,3,2,2,2
+a pineapple with one beer to its left and two beers on its right,Glide/025-3.png,25,0.413982070311795,0.50013942269829,0.4355028617123859,2,3,2,3,1
+a pineapple with one beer to its left and two beers on its right,Glide/025-4.png,25,0.432012476910649,0.505365763952705,0.420564128172286,4,4,4,3,1
+a pineapple with one beer to its left and two beers on its right,Lafite/025-1.png,25,0.412198603314523,0.416733944737823,0.398109208815548,3,2,2,2,1
+a pineapple with one beer to its left and two beers on its right,Lafite/025-2.png,25,0.4540046750223589,0.441355512919073,0.448090563821551,2,2,2,1,1
+a pineapple with one beer to its left and two beers on its right,Lafite/025-3.png,25,0.432730858714769,0.403090172441187,0.4061751416555709,1,1,2,1,1
+a pineapple with one beer to its left and two beers on its right,Lafite/025-4.png,25,0.415138983948161,0.353573107460084,0.363598296748347,2,3,2,2,2
+a pineapple with one beer to its left and two beers on its right,stable-diffusion/025-1.png,25,0.3763662743964749,0.360217795017872,0.409038771756065,1,1,3,1,1
+a pineapple with one beer to its left and two beers on its right,stable-diffusion/025-2.png,25,0.580364870920332,0.571391806421511,0.493708367226423,4,4,4,3,2
+a pineapple with one beer to its left and two beers on its right,stable-diffusion/025-3.png,25,0.541215285114941,0.497855119721031,0.485844480814497,3,3,2,2,2
+a pineapple with one beer to its left and two beers on its right,stable-diffusion/025-4.png,25,0.634374926666145,0.61808360497466,0.597463490668525,4,4,4,3,2
+a pineapple with one beer to its left and two beers on its right,Unidiffuser/025-1.png,25,0.558517208982919,0.635734342890102,0.528685670914487,2,2,3,3,2
+a pineapple with one beer to its left and two beers on its right,Unidiffuser/025-2.png,25,0.4086669242159629,0.456941587667198,0.461684685398363,1,2,2,3,2
+a pineapple with one beer to its left and two beers on its right,Unidiffuser/025-3.png,25,0.527113204854778,0.513520876329959,0.464189857089257,3,3,2,2,2
+a pineapple with one beer to its left and two beers on its right,Unidiffuser/025-4.png,25,0.51465909538491,0.54215810127413,0.517752822774599,4,4,4,3,2
+a large white yacht in a calm bay on a sunny day,Controlnet/032-1.png,32,0.572918157716446,0.590858181559627,0.58204082869983,4,4,4,3,3
+a large white yacht in a calm bay on a sunny day,Controlnet/032-2.png,32,0.579784050604027,0.593614648251834,0.603484404217054,3,4,3,2,3
+a large white yacht in a calm bay on a sunny day,Controlnet/032-3.png,32,0.586360006221821,0.571094006640891,0.576861652195407,3,4,4,3,3
+a large white yacht in a calm bay on a sunny day,Controlnet/032-4.png,32,0.575999616410256,0.573328743442255,0.57809172812312,4,4,4,3,2
+a large white yacht in a calm bay on a sunny day,DALLE/032-1.png,32,0.644292270082632,0.6331311417125121,0.660978630094908,4,4,4,3,2
+a large white yacht in a calm bay on a sunny day,DALLE/032-2.png,32,0.52028952780774,0.501081640508014,0.5675520005738101,2,3,2,2,3
+a large white yacht in a calm bay on a sunny day,DALLE/032-3.png,32,0.6918749564016851,0.641456896741892,0.658589551665868,4,4,4,3,3
+a large white yacht in a calm bay on a sunny day,DALLE/032-4.png,32,0.491246347459594,0.429505689312774,0.5276720838254669,4,4,4,2,3
+a large white yacht in a calm bay on a sunny day,Glide/032-1.png,32,0.397640700864909,0.456276146951002,0.498191902644357,3,2,3,3,3
+a large white yacht in a calm bay on a sunny day,Glide/032-2.png,32,0.447474431755044,0.576615082744294,0.639203473665484,2,3,2,3,3
+a large white yacht in a calm bay on a sunny day,Glide/032-3.png,32,0.4015849856588239,0.452102133555277,0.512162296579893,4,4,4,3,2
+a large white yacht in a calm bay on a sunny day,Glide/032-4.png,32,0.42160412291767,0.478568469926199,0.485666677984555,1,3,2,2,3
+a large white yacht in a calm bay on a sunny day,Lafite/032-1.png,32,0.393474579929226,0.380451223360337,0.496944885505364,1,2,1,2,3
+a large white yacht in a calm bay on a sunny day,Lafite/032-2.png,32,0.443433535259102,0.5129432665592479,0.538829619234837,2,2,2,2,3
+a large white yacht in a calm bay on a sunny day,Lafite/032-3.png,32,0.455772513541414,0.469307896162434,0.5825647402644649,2,2,2,2,2
+a large white yacht in a calm bay on a sunny day,Lafite/032-4.png,32,0.395672611748545,0.425282085109567,0.517470168133115,4,4,4,3,3
+a large white yacht in a calm bay on a sunny day,stable-diffusion/032-1.png,32,0.678972990220014,0.613922495909416,0.6525936528952561,4,4,4,3,3
+a large white yacht in a calm bay on a sunny day,stable-diffusion/032-2.png,32,0.400117301343098,0.445007151502696,0.444452566211834,1,1,2,1,3
+a large white yacht in a calm bay on a sunny day,stable-diffusion/032-3.png,32,0.621661757853491,0.618590980113083,0.676999134974954,3,3,2,2,2
+a large white yacht in a calm bay on a sunny day,stable-diffusion/032-4.png,32,0.5676441882181981,0.5877685133332821,0.559491965763768,4,4,4,3,3
+a large white yacht in a calm bay on a sunny day,Unidiffuser/032-1.png,32,0.5146437051813489,0.552561799656215,0.5960738143479319,3,3,3,3,3
+a large white yacht in a calm bay on a sunny day,Unidiffuser/032-2.png,32,0.58513430774327,0.617784525873485,0.6477576071661789,3,4,4,3,3
+a large white yacht in a calm bay on a sunny day,Unidiffuser/032-3.png,32,0.3802076247530259,0.461462202403429,0.450141263324263,2,3,2,2,3
+a large white yacht in a calm bay on a sunny day,Unidiffuser/032-4.png,32,0.601624298689131,0.632808465691095,0.652825148447029,4,4,4,3,3
+a kids' book cover with an illustration of white dog driving a red pickup truck,Controlnet/036-1.png,36,0.582455230412018,0.503179811669241,0.530100081336481,3,4,3,3,2
+a kids' book cover with an illustration of white dog driving a red pickup truck,Controlnet/036-2.png,36,0.493521018920701,0.447473000537861,0.441157123453096,2,2,2,2,1
+a kids' book cover with an illustration of white dog driving a red pickup truck,Controlnet/036-3.png,36,0.4812466508474219,0.403419309366252,0.432800452524847,3,3,3,3,2
+a kids' book cover with an illustration of white dog driving a red pickup truck,Controlnet/036-4.png,36,0.473188037751684,0.41721132102216,0.502287489249008,3,3,3,2,3
+a kids' book cover with an illustration of white dog driving a red pickup truck,DALLE/036-1.png,36,0.570579199024998,0.467488597556851,0.47926215335568,4,4,4,3,2
+a kids' book cover with an illustration of white dog driving a red pickup truck,DALLE/036-2.png,36,0.551960041924512,0.520238320572427,0.605098983109995,4,4,4,3,3
+a kids' book cover with an illustration of white dog driving a red pickup truck,DALLE/036-3.png,36,0.592550710913771,0.6007185850665779,0.5852179680019399,3,3,3,3,3
+a kids' book cover with an illustration of white dog driving a red pickup truck,DALLE/036-4.png,36,0.57018796117745,0.572637539327815,0.521205266925547,3,4,3,3,2
+a kids' book cover with an illustration of white dog driving a red pickup truck,Glide/036-1.png,36,0.465432309092379,0.492916328012991,0.447185500840341,2,3,2,2,2
+a kids' book cover with an illustration of white dog driving a red pickup truck,Glide/036-2.png,36,0.375918080965542,0.454478395822318,0.431809210889404,2,3,2,3,2
+a kids' book cover with an illustration of white dog driving a red pickup truck,Glide/036-3.png,36,0.3945179678156549,0.4197805796642129,0.424570160537751,2,3,3,2,2
+a kids' book cover with an illustration of white dog driving a red pickup truck,Glide/036-4.png,36,0.469716968447292,0.493490392637204,0.473569442231731,2,2,2,2,2
+a kids' book cover with an illustration of white dog driving a red pickup truck,Lafite/036-1.png,36,0.3884252406626959,0.427578494421315,0.503441927790652,2,2,2,1,2
+a kids' book cover with an illustration of white dog driving a red pickup truck,Lafite/036-2.png,36,0.354566999561872,0.355685259960606,0.3826146909120029,2,2,2,1,2
+a kids' book cover with an illustration of white dog driving a red pickup truck,Lafite/036-3.png,36,0.417816581605,0.365835835140401,0.453824065501449,2,2,2,1,3
+a kids' book cover with an illustration of white dog driving a red pickup truck,Lafite/036-4.png,36,0.391262436574162,0.408281423249743,0.487927945491873,2,2,2,1,3
+a kids' book cover with an illustration of white dog driving a red pickup truck,stable-diffusion/036-1.png,36,0.490208871005822,0.511685227877673,0.514803041729289,3,3,3,3,2
+a kids' book cover with an illustration of white dog driving a red pickup truck,stable-diffusion/036-2.png,36,0.385552978447336,0.40347463213286,0.449827774365654,2,3,2,1,1
+a kids' book cover with an illustration of white dog driving a red pickup truck,stable-diffusion/036-3.png,36,0.508779457026782,0.507962929520817,0.555641952699889,4,4,4,3,2
+a kids' book cover with an illustration of white dog driving a red pickup truck,stable-diffusion/036-4.png,36,0.585757708207533,0.513577061215828,0.492878122547756,3,4,4,2,2
+a kids' book cover with an illustration of white dog driving a red pickup truck,Unidiffuser/036-1.png,36,0.394981352267467,0.423170188118469,0.529359338323533,1,2,3,1,2
+a kids' book cover with an illustration of white dog driving a red pickup truck,Unidiffuser/036-2.png,36,0.522457971846198,0.446936079684378,0.518631142010484,4,4,4,2,3
+a kids' book cover with an illustration of white dog driving a red pickup truck,Unidiffuser/036-3.png,36,0.4347998104301689,0.412390925575384,0.5243785236022149,3,3,2,1,3
+a kids' book cover with an illustration of white dog driving a red pickup truck,Unidiffuser/036-4.png,36,0.538751518797702,0.461173427776658,0.507946035201789,4,3,3,2,2
+A bare kitchen has wood cabinets and white appliances,Controlnet/037-1.png,37,0.5722943653035371,0.623077584304488,0.570972978333405,4,4,4,2,2
+A bare kitchen has wood cabinets and white appliances,Controlnet/037-2.png,37,0.541716786025994,0.533778842690814,0.576723015151532,3,3,3,2,3
+A bare kitchen has wood cabinets and white appliances,Controlnet/037-3.png,37,0.615528890366553,0.658893976961222,0.5744506790524541,4,3,3,3,3
+A bare kitchen has wood cabinets and white appliances,Controlnet/037-4.png,37,0.561990522800369,0.594035013551657,0.565586299377564,4,4,4,3,2
+A bare kitchen has wood cabinets and white appliances,DALLE/037-1.png,37,0.554516073898447,0.580979019305526,0.565170762691274,4,4,3,3,3
+A bare kitchen has wood cabinets and white appliances,DALLE/037-2.png,37,0.7066112423281371,0.678259785340356,0.610001473826034,4,4,4,3,3
+A bare kitchen has wood cabinets and white appliances,DALLE/037-3.png,37,0.621435761163794,0.633737033046788,0.676952583513969,4,4,4,3,3
+A bare kitchen has wood cabinets and white appliances,DALLE/037-4.png,37,0.683351799673478,0.672994364403049,0.661789939081592,4,4,4,3,3
+A bare kitchen has wood cabinets and white appliances,Glide/037-1.png,37,0.417334440324956,0.510050773794284,0.5166931767985811,1,2,2,3,2
+A bare kitchen has wood cabinets and white appliances,Glide/037-2.png,37,0.385413752988824,0.469346494045253,0.5040946670833439,2,3,2,1,3
+A bare kitchen has wood cabinets and white appliances,Glide/037-3.png,37,0.40378177975212,0.471233942338253,0.497083491159091,2,2,3,3,2
+A bare kitchen has wood cabinets and white appliances,Glide/037-4.png,37,0.419258832066014,0.442693717717612,0.450204219819378,4,4,4,3,1
+A bare kitchen has wood cabinets and white appliances,Lafite/037-1.png,37,0.418473592971036,0.491957432519477,0.5324048471524759,2,3,3,2,3
+A bare kitchen has wood cabinets and white appliances,Lafite/037-2.png,37,0.38608232128718,0.444457098677366,0.486769095399564,3,3,2,2,2
+A bare kitchen has wood cabinets and white appliances,Lafite/037-3.png,37,0.481676600702448,0.467938401107366,0.4910673304359509,2,2,3,2,3
+A bare kitchen has wood cabinets and white appliances,Lafite/037-4.png,37,0.429305471663963,0.448434793714978,0.494122206594812,1,3,3,3,1
+A bare kitchen has wood cabinets and white appliances,stable-diffusion/037-1.png,37,0.646926571232723,0.597156166974336,0.601060396505106,4,4,4,3,2
+A bare kitchen has wood cabinets and white appliances,stable-diffusion/037-2.png,37,0.616126958885173,0.58749853037825,0.585799692663162,3,3,3,2,2
+A bare kitchen has wood cabinets and white appliances,stable-diffusion/037-3.png,37,0.417057275741205,0.495660667683099,0.52224455678348,2,3,3,2,3
+A bare kitchen has wood cabinets and white appliances,stable-diffusion/037-4.png,37,0.6062578945289591,0.570759504087587,0.555605237132305,3,3,2,3,3
+A bare kitchen has wood cabinets and white appliances,Unidiffuser/037-1.png,37,0.429560083359257,0.576525218273691,0.5747854177588,3,3,3,3,3
+A bare kitchen has wood cabinets and white appliances,Unidiffuser/037-2.png,37,0.539703846943732,0.567255866569155,0.54119878644166,3,3,3,3,3
+A bare kitchen has wood cabinets and white appliances,Unidiffuser/037-3.png,37,0.281442341874107,0.346568392008472,0.414273913984153,1,2,2,2,3
+A bare kitchen has wood cabinets and white appliances,Unidiffuser/037-4.png,37,0.532968371465408,0.554838922590306,0.551588813156205,3,3,3,2,3
+A blue colored dog,Controlnet/040-1.png,40,0.609086544430249,0.594177677444231,0.631965350390825,4,4,4,2,3
+A blue colored dog,Controlnet/040-2.png,40,0.518203499385933,0.498320575688384,0.594418520629822,4,4,4,3,3
+A blue colored dog,Controlnet/040-3.png,40,0.490004643945937,0.4405636718865069,0.509787774266785,4,4,4,3,3
+A blue colored dog,Controlnet/040-4.png,40,0.590174342638466,0.546577442417722,0.46142068134329,4,4,4,3,3
+A blue colored dog,DALLE/040-1.png,40,0.667523628822744,0.6268694759211499,0.503605193137004,4,4,4,3,2
+A blue colored dog,DALLE/040-2.png,40,0.5961630883354,0.6299326720465079,0.48213048281973,4,4,3,2,2
+A blue colored dog,DALLE/040-3.png,40,0.5401708767986301,0.551268831735451,0.416300845670287,3,3,3,3,1
+A blue colored dog,DALLE/040-4.png,40,0.5669428057681111,0.620608161156401,0.419913475098158,3,4,4,3,2
+A blue colored dog,Glide/040-1.png,40,0.4358328812912189,0.408849216261731,0.6443503735276169,2,3,2,2,3
+A blue colored dog,Glide/040-2.png,40,0.419850781268012,0.4708788657153179,0.512610554741054,2,3,3,3,2
+A blue colored dog,Glide/040-3.png,40,0.509793448124865,0.556221776155563,0.5445358682132531,2,3,3,3,3
+A blue colored dog,Glide/040-4.png,40,0.391277596096131,0.47046457628007,0.397178662619305,3,3,2,2,1
+A blue colored dog,Lafite/040-1.png,40,0.328038868800486,0.340195330810577,0.435054819613765,2,2,2,2,2
+A blue colored dog,Lafite/040-2.png,40,0.446304253645726,0.430500481755934,0.478889579188845,4,4,3,2,3
+A blue colored dog,Lafite/040-3.png,40,0.352902271530505,0.390711137052488,0.451646937750597,3,2,2,2,2
+A blue colored dog,Lafite/040-4.png,40,0.3536267736906899,0.421470759843673,0.432974419612831,1,2,2,2,3
+A blue colored dog,stable-diffusion/040-1.png,40,0.630818378644009,0.535374111031789,0.571561365468793,4,4,3,3,3
+A blue colored dog,stable-diffusion/040-2.png,40,0.647456146115369,0.6467066235173501,0.625044836658292,4,4,3,3,3
+A blue colored dog,stable-diffusion/040-3.png,40,0.564172641693215,0.474884864747237,0.454688230402078,4,4,4,3,2
+A blue colored dog,stable-diffusion/040-4.png,40,0.537616917743195,0.536155815303427,0.559322361942632,4,4,4,2,3
+A blue colored dog,Unidiffuser/040-1.png,40,0.571580579003684,0.54165351799005,0.589177758549037,4,4,4,2,3
+A blue colored dog,Unidiffuser/040-2.png,40,0.33839933271412,0.345857321660914,0.374132803696565,3,2,2,1,3
+A blue colored dog,Unidiffuser/040-3.png,40,0.5890260778752741,0.5728955943456571,0.650321397125047,4,4,2,3,3
+A blue colored dog,Unidiffuser/040-4.png,40,0.526045383386734,0.481865045664196,0.58275604456764,3,3,2,3,3
+A photo of a panda made of water.,Controlnet/050-1.png,50,0.593348081236122,0.567589742695083,0.528978109283869,3,3,3,2,3
+A photo of a panda made of water.,Controlnet/050-2.png,50,0.6311183889261069,0.556483169887549,0.502261403535854,2,3,3,3,2
+A photo of a panda made of water.,Controlnet/050-3.png,50,0.577398092078911,0.5390410193004019,0.464971636095046,4,4,3,3,2
+A photo of a panda made of water.,Controlnet/050-4.png,50,0.549645636000188,0.520306435027904,0.469897229328252,4,4,4,2,1
+A photo of a panda made of water.,DALLE/050-1.png,50,0.462694087120222,0.434890526154182,0.548618311504801,1,3,2,3,1
+A photo of a panda made of water.,DALLE/050-2.png,50,0.528633378324787,0.5319468541558691,0.590525235461668,4,3,2,2,3
+A photo of a panda made of water.,DALLE/050-3.png,50,0.480089404893009,0.460336283957888,0.5605016459382199,3,2,2,2,2
+A photo of a panda made of water.,DALLE/050-4.png,50,0.4629065528444709,0.398507231635999,0.4713781106056809,2,3,2,1,2
+A photo of a panda made of water.,Glide/050-1.png,50,0.41752344956067,0.428161525497358,0.399232299499594,2,3,2,2,2
+A photo of a panda made of water.,Glide/050-2.png,50,0.373459321919,0.425484764064023,0.47607437091525,2,3,2,2,2
+A photo of a panda made of water.,Glide/050-3.png,50,0.456350863959909,0.4931535728478829,0.497612299797669,2,3,2,2,3
+A photo of a panda made of water.,Glide/050-4.png,50,0.417143708721457,0.435696425565049,0.408132275727012,2,2,2,3,2
+A photo of a panda made of water.,Lafite/050-1.png,50,0.389852192497244,0.4128779383618999,0.446948226456533,1,1,1,1,1
+A photo of a panda made of water.,Lafite/050-2.png,50,0.407893902088566,0.415383863739546,0.445995911814209,2,2,2,1,1
+A photo of a panda made of water.,Lafite/050-3.png,50,0.358884382702684,0.34870329945945,0.358167987922603,4,4,4,3,1
+A photo of a panda made of water.,Lafite/050-4.png,50,0.369076141544138,0.3961295853551639,0.371902291230725,3,2,3,1,1
+A photo of a panda made of water.,stable-diffusion/050-1.png,50,0.593270387562867,0.611672240314482,0.481688672988392,4,4,4,3,1
+A photo of a panda made of water.,stable-diffusion/050-2.png,50,0.556886704044831,0.550670355087422,0.550551778094162,4,4,4,3,2
+A photo of a panda made of water.,stable-diffusion/050-3.png,50,0.530243211363818,0.5351558801819291,0.427689367957125,3,3,3,3,2
+A photo of a panda made of water.,stable-diffusion/050-4.png,50,0.411342678064638,0.431151992551385,0.40766045618553,4,4,4,3,2
+A photo of a panda made of water.,Unidiffuser/050-1.png,50,0.569656147895293,0.485105730938662,0.395050173808993,4,4,4,3,3
+A photo of a panda made of water.,Unidiffuser/050-2.png,50,0.5577891608366901,0.614852474028299,0.512433676994658,4,4,4,3,2
+A photo of a panda made of water.,Unidiffuser/050-3.png,50,0.476827382511641,0.464218427782578,0.436458132556211,3,3,2,2,3
+A photo of a panda made of water.,Unidiffuser/050-4.png,50,0.368193656896059,0.434352492433236,0.4339142820677489,2,2,2,2,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",Controlnet/051-1.png,51,0.577507627168232,0.505069541087651,0.587344574709302,4,4,4,3,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",Controlnet/051-2.png,51,0.561916988915575,0.519514638238274,0.563946103797017,3,3,3,3,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",Controlnet/051-3.png,51,0.509460023056816,0.459698649293283,0.44592558393699,3,3,4,3,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",Controlnet/051-4.png,51,0.55619591236757,0.494112999687318,0.530542640612714,3,3,3,3,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",DALLE/051-1.png,51,0.6332767363499809,0.625644046255597,0.630215835822781,3,3,3,3,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",DALLE/051-2.png,51,0.611463419814255,0.627074501744183,0.6321961420027999,4,4,4,3,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",DALLE/051-3.png,51,0.530299682244336,0.508982636521625,0.572174545608924,4,4,4,3,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",DALLE/051-4.png,51,0.5334868048854841,0.486944634199299,0.544235020744902,2,3,3,2,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",Glide/051-1.png,51,0.41925933748293,0.363762669564211,0.3692476086750009,2,2,1,2,1
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",Glide/051-2.png,51,0.421723671066957,0.411342140119474,0.354121511538074,2,2,2,2,1
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",Glide/051-3.png,51,0.344195629851832,0.362739586070771,0.357004465015985,3,3,2,3,1
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",Glide/051-4.png,51,0.383773946327604,0.422618290739994,0.383671500508394,4,4,4,3,2
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",Lafite/051-1.png,51,0.472177476016759,0.415778053215866,0.498845588280829,3,4,4,3,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",Lafite/051-2.png,51,0.477557836741227,0.46908695836319,0.494770919608575,2,2,1,2,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",Lafite/051-3.png,51,0.424987565975199,0.393938654859309,0.466696235226538,4,4,4,3,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",Lafite/051-4.png,51,0.482424367597828,0.430098095195297,0.490889353593261,2,2,1,1,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",stable-diffusion/051-1.png,51,0.595393361322601,0.521646776914252,0.583284463454663,4,4,3,3,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",stable-diffusion/051-2.png,51,0.536563427112941,0.498886811748206,0.5187188688579409,3,3,3,3,1
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",stable-diffusion/051-3.png,51,0.528102142072738,0.506060365573768,0.5583858825707609,4,4,3,3,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",stable-diffusion/051-4.png,51,0.545268749900211,0.565279309164271,0.548791979868854,4,4,4,3,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",Unidiffuser/051-1.png,51,0.605338778888799,0.5445513642969749,0.578710162517819,3,3,3,3,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",Unidiffuser/051-2.png,51,0.609193770868381,0.6194867498113831,0.607257274283288,4,4,4,2,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",Unidiffuser/051-3.png,51,0.603037782174129,0.5764642189208931,0.604819080737389,4,4,4,3,3
+"a portrait of a man wearing sunglasses and a business suit, painting in pop art style",Unidiffuser/051-4.png,51,0.387501342920976,0.429184034499807,0.506774303908392,1,2,2,2,3
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,Controlnet/062-1.png,62,0.571106129052233,0.545245680743885,0.510670599442765,3,3,3,2,2
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,Controlnet/062-2.png,62,0.557070522823689,0.497675571560116,0.48081164553945,4,4,4,3,2
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,Controlnet/062-3.png,62,0.493331030131418,0.496762201618476,0.526469321057643,3,3,4,3,3
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,Controlnet/062-4.png,62,0.523735917286384,0.51730153250685,0.45713997056306,4,4,4,3,2
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,DALLE/062-1.png,62,0.555181129510693,0.5066693434253601,0.529554103216975,3,3,2,3,2
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,DALLE/062-2.png,62,0.540323129017968,0.474906943384662,0.514987297594772,3,3,2,2,2
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,DALLE/062-3.png,62,0.559378473555537,0.489816613433078,0.446878506341258,4,4,4,2,3
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,DALLE/062-4.png,62,0.570007081640987,0.503291154327846,0.50704917599793,4,4,4,3,2
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,Glide/062-1.png,62,0.504615153924714,0.499094847115577,0.502600408458689,2,3,2,3,2
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,Glide/062-2.png,62,0.399093289241968,0.4966300007156159,0.472996240516468,3,3,4,3,2
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,Glide/062-3.png,62,0.4402280515156049,0.5627568697241739,0.567269114133238,3,3,3,3,2
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,Glide/062-4.png,62,0.422714082863089,0.506754418234605,0.498072130949909,2,3,2,2,3
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,Lafite/062-1.png,62,0.460921628535958,0.504382301619777,0.529194867506143,4,4,4,3,3
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,Lafite/062-2.png,62,0.4786068816830749,0.407728054855018,0.49508277325209,2,2,2,1,2
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,Lafite/062-3.png,62,0.4714693549793189,0.524359004521153,0.514061269533211,2,2,3,2,3
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,Lafite/062-4.png,62,0.4425412078015809,0.454326428487945,0.498117891713496,3,3,3,3,2
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,stable-diffusion/062-1.png,62,0.617778403982819,0.545888765714061,0.552469974363703,4,4,4,2,1
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,stable-diffusion/062-2.png,62,0.6524232329395031,0.587333458469299,0.63410679447385,4,4,4,3,2
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,stable-diffusion/062-3.png,62,0.44296737265584,0.369279053324431,0.414625676353993,2,2,2,1,1
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,stable-diffusion/062-4.png,62,0.6663463068697131,0.63600568319663,0.526202459801561,4,4,4,2,3
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,Unidiffuser/062-1.png,62,0.545072771252034,0.463621952772368,0.4636047713991,3,3,2,2,2
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,Unidiffuser/062-2.png,62,0.483261853255337,0.433645518728713,0.4646133703465049,3,2,3,2,2
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,Unidiffuser/062-3.png,62,0.555420972984757,0.540611286687515,0.50532405238677,4,4,3,2,2
+a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.,Unidiffuser/062-4.png,62,0.4688443205899619,0.417567401174624,0.4317632237075069,2,2,2,2,3
+Four cats surrounding a dog,Controlnet/070-1.png,70,0.468707818046886,0.43370337109106,0.435272633423409,4,3,4,3,2
+Four cats surrounding a dog,Controlnet/070-2.png,70,0.5259428087566149,0.44587684110182,0.3560931175624,4,4,4,3,1
+Four cats surrounding a dog,Controlnet/070-3.png,70,0.5424808535050549,0.458175478504411,0.411585519393116,3,3,3,2,1
+Four cats surrounding a dog,Controlnet/070-4.png,70,0.544506071113682,0.546760579683897,0.425305247325173,3,4,4,2,2
+Four cats surrounding a dog,DALLE/070-1.png,70,0.563336596495066,0.562214909077811,0.516158270662584,3,3,3,2,2
+Four cats surrounding a dog,DALLE/070-2.png,70,0.596570808552753,0.5855569896849989,0.580632110603172,3,3,3,2,2
+Four cats surrounding a dog,DALLE/070-3.png,70,0.50435002192554,0.418448481836046,0.4177052059739259,4,3,4,2,2
+Four cats surrounding a dog,DALLE/070-4.png,70,0.549612121309537,0.525098960833787,0.538901043579167,4,4,4,2,2
+Four cats surrounding a dog,Glide/070-1.png,70,0.4062013318059509,0.451417718878617,0.415870053811864,2,2,3,3,1
+Four cats surrounding a dog,Glide/070-2.png,70,0.386024036264845,0.4279052077617409,0.403141495965181,2,2,2,2,1
+Four cats surrounding a dog,Glide/070-3.png,70,0.359709961290412,0.406571530764497,0.374552398210029,2,3,2,2,1
+Four cats surrounding a dog,Glide/070-4.png,70,0.3949949609861869,0.426863046601083,0.446028572077316,1,2,2,2,2
+Four cats surrounding a dog,Lafite/070-1.png,70,0.357634840567121,0.381947794023956,0.353381645460707,3,1,2,2,1
+Four cats surrounding a dog,Lafite/070-2.png,70,0.412169801470286,0.455416381049781,0.4015236823876539,1,1,1,1,1
+Four cats surrounding a dog,Lafite/070-3.png,70,0.345971774062395,0.388962467113755,0.360314031733533,2,2,1,1,1
+Four cats surrounding a dog,Lafite/070-4.png,70,0.3844394025156299,0.391916817612585,0.4083758479922669,1,1,2,1,1
+Four cats surrounding a dog,stable-diffusion/070-1.png,70,0.492201758792428,0.444237961639229,0.408443942392638,3,3,3,2,2
+Four cats surrounding a dog,stable-diffusion/070-2.png,70,0.452019244532767,0.4011070907270009,0.408688815145959,3,4,2,2,2
+Four cats surrounding a dog,stable-diffusion/070-3.png,70,0.484549789422746,0.514507423070826,0.465084695490775,2,2,2,2,2
+Four cats surrounding a dog,stable-diffusion/070-4.png,70,0.5550184769343101,0.525808864078771,0.442072133505464,3,4,3,2,2
+Four cats surrounding a dog,Unidiffuser/070-1.png,70,0.631210331515033,0.509194115522584,0.4912425527769549,2,2,3,1,2
+Four cats surrounding a dog,Unidiffuser/070-2.png,70,0.507191725562012,0.442951379060077,0.4630590407558789,3,3,2,2,2
+Four cats surrounding a dog,Unidiffuser/070-3.png,70,0.451057992939725,0.425370037717553,0.414193207231442,2,3,3,2,2
+Four cats surrounding a dog,Unidiffuser/070-4.png,70,0.426290056098898,0.414312179564547,0.440189918717853,2,2,2,2,2
+ten red apples,Controlnet/074-1.png,74,0.5189681389043119,0.39367594887394,0.411797989449014,3,3,3,3,2
+ten red apples,Controlnet/074-2.png,74,0.641369086274984,0.637406507882557,0.526621601782346,3,4,4,3,2
+ten red apples,Controlnet/074-3.png,74,0.548273724125986,0.477865627139816,0.459650865037413,3,3,2,3,1
+ten red apples,Controlnet/074-4.png,74,0.485260940518763,0.51131102882152,0.407433817549103,4,4,4,3,2
+ten red apples,DALLE/074-1.png,74,0.64639501844599,0.631045387732915,0.526591001311539,3,4,2,3,2
+ten red apples,DALLE/074-2.png,74,0.654142652636604,0.608549735128729,0.556650651385218,4,4,4,3,2
+ten red apples,DALLE/074-3.png,74,0.601754968808393,0.539303120644728,0.5056065530067579,3,4,3,2,2
+ten red apples,DALLE/074-4.png,74,0.6717567956850821,0.67931168944446,0.552492312544101,4,4,4,3,2
+ten red apples,Glide/074-1.png,74,0.4224894293312269,0.493440805289822,0.522170665271418,2,3,2,2,2
+ten red apples,Glide/074-2.png,74,0.502993803594989,0.517529372932232,0.343052611809615,4,3,3,3,1
+ten red apples,Glide/074-3.png,74,0.499395375914232,0.561156447696387,0.4453169507255159,3,3,2,3,2
+ten red apples,Glide/074-4.png,74,0.464875205270485,0.4728462131346729,0.522538272539579,3,3,3,3,2
+ten red apples,Lafite/074-1.png,74,0.397438776092388,0.365910851861786,0.419885478427301,2,2,2,2,2
+ten red apples,Lafite/074-2.png,74,0.362317154198054,0.363496154078692,0.331305026048211,1,2,1,1,2
+ten red apples,Lafite/074-3.png,74,0.463271473590683,0.46396609703966,0.4377937548973329,2,3,1,1,2
+ten red apples,Lafite/074-4.png,74,0.437244922936565,0.4028270112586199,0.458558196520185,4,4,2,1,2
+ten red apples,stable-diffusion/074-1.png,74,0.6549447117291579,0.562699388564913,0.48259634461827,4,4,4,3,3
+ten red apples,stable-diffusion/074-2.png,74,0.704870784659485,0.671917372807348,0.571798452421961,4,4,4,3,2
+ten red apples,stable-diffusion/074-3.png,74,0.580472182598513,0.5679322507092199,0.545499004258098,3,3,3,3,1
+ten red apples,stable-diffusion/074-4.png,74,0.467384475177588,0.5198097506867569,0.491967311483756,3,3,2,2,2
+ten red apples,Unidiffuser/074-1.png,74,0.511861434109386,0.534428133176785,0.464426597397197,3,3,2,2,2
+ten red apples,Unidiffuser/074-2.png,74,0.413638912340864,0.418053716871216,0.485891541094022,1,1,1,1,1
+ten red apples,Unidiffuser/074-3.png,74,0.541681834631924,0.536933168085837,0.510541000455522,4,4,3,2,3
+ten red apples,Unidiffuser/074-4.png,74,0.558571335901983,0.596200869087133,0.552998278731994,3,3,3,2,3
+Times Square with thousands of dogs running around,Controlnet/079-1.png,79,0.522836251590415,0.506958595925402,0.496021514040235,4,4,4,2,3
+Times Square with thousands of dogs running around,Controlnet/079-2.png,79,0.4643310592286749,0.443364398421736,0.402876137641275,3,3,3,2,3
+Times Square with thousands of dogs running around,Controlnet/079-3.png,79,0.50324372908624,0.4206449298560699,0.537941802564596,2,2,2,2,1
+Times Square with thousands of dogs running around,Controlnet/079-4.png,79,0.50219491994828,0.402977953147521,0.477580642092216,3,3,3,2,3
+Times Square with thousands of dogs running around,DALLE/079-1.png,79,0.443963660174679,0.479102082587397,0.416050713412479,3,2,2,1,2
+Times Square with thousands of dogs running around,DALLE/079-2.png,79,0.573131857146437,0.471714051615891,0.511415283737019,4,4,4,1,3
+Times Square with thousands of dogs running around,DALLE/079-3.png,79,0.5080170789550781,0.463963733379829,0.524535518488223,4,4,4,2,3
+Times Square with thousands of dogs running around,DALLE/079-4.png,79,0.565824169709047,0.52114197031006,0.532477683808547,3,3,3,2,2
+Times Square with thousands of dogs running around,Glide/079-1.png,79,0.407591340697983,0.414607194554607,0.388004505600991,1,2,2,1,1
+Times Square with thousands of dogs running around,Glide/079-2.png,79,0.399348443011932,0.42780382988996,0.385033288775171,1,1,1,1,1
+Times Square with thousands of dogs running around,Glide/079-3.png,79,0.415154452424868,0.460216986363376,0.445446954750443,1,1,1,1,2
+Times Square with thousands of dogs running around,Glide/079-4.png,79,0.3409264332067859,0.3655905084379139,0.3746393224252229,3,2,2,3,2
+Times Square with thousands of dogs running around,Lafite/079-1.png,79,0.401325052573289,0.41454062314471,0.461306309440394,1,1,3,1,3
+Times Square with thousands of dogs running around,Lafite/079-2.png,79,0.403418360906444,0.394046305849325,0.4522098147350529,2,2,2,1,3
+Times Square with thousands of dogs running around,Lafite/079-3.png,79,0.369923543102227,0.392129392457161,0.488079164618252,3,3,2,3,3
+Times Square with thousands of dogs running around,Lafite/079-4.png,79,0.391174224866179,0.408219479365693,0.425342864528919,1,1,1,1,3
+Times Square with thousands of dogs running around,stable-diffusion/079-1.png,79,0.530192086455357,0.495255251887476,0.499124765794102,3,4,4,3,3
+Times Square with thousands of dogs running around,stable-diffusion/079-2.png,79,0.55265839958762,0.5005247075332381,0.448018712105734,3,3,4,2,2
+Times Square with thousands of dogs running around,stable-diffusion/079-3.png,79,0.454299120293766,0.417201325234224,0.5155879090746059,2,2,4,2,3
+Times Square with thousands of dogs running around,stable-diffusion/079-4.png,79,0.441085916934608,0.388137047339572,0.520555069150162,3,3,3,2,3
+Times Square with thousands of dogs running around,Unidiffuser/079-1.png,79,0.376276426472287,0.438166130603687,0.4542763994208429,2,2,3,2,3
+Times Square with thousands of dogs running around,Unidiffuser/079-2.png,79,0.42484099098639,0.39735715261743,0.481107217543978,1,2,3,2,1
+Times Square with thousands of dogs running around,Unidiffuser/079-3.png,79,0.347355448746409,0.3738747112014179,0.408429959194244,1,2,1,1,2
+Times Square with thousands of dogs running around,Unidiffuser/079-4.png,79,0.534145801445403,0.487119727225405,0.547352497407219,4,4,4,3,3
+an overhead view of a pickup truck with boxes in its flatbed,Controlnet/082-1.png,82,0.51623978599303,0.530543837588233,0.4298487051597079,3,3,2,2,3
+an overhead view of a pickup truck with boxes in its flatbed,Controlnet/082-2.png,82,0.543347722487204,0.497648539729788,0.5442510786296451,3,3,3,2,2
+an overhead view of a pickup truck with boxes in its flatbed,Controlnet/082-3.png,82,0.64765727064472,0.5687478687868159,0.5598869325600639,4,3,3,2,2
+an overhead view of a pickup truck with boxes in its flatbed,Controlnet/082-4.png,82,0.6003990299851281,0.565390389164915,0.496661233996615,4,4,4,3,2
+an overhead view of a pickup truck with boxes in its flatbed,DALLE/082-1.png,82,0.5851755622581291,0.565117689033656,0.5850141085555439,4,4,3,3,3
+an overhead view of a pickup truck with boxes in its flatbed,DALLE/082-2.png,82,0.6098850503553269,0.630746249389571,0.640082326800859,4,4,4,2,2
+an overhead view of a pickup truck with boxes in its flatbed,DALLE/082-3.png,82,0.608801097357386,0.594765071367939,0.565509234987722,4,4,3,3,3
+an overhead view of a pickup truck with boxes in its flatbed,DALLE/082-4.png,82,0.568322596906197,0.5262840451924999,0.557994452881706,3,4,3,3,3
+an overhead view of a pickup truck with boxes in its flatbed,Glide/082-1.png,82,0.349730684189197,0.419709594870004,0.454800683068335,4,4,4,3,2
+an overhead view of a pickup truck with boxes in its flatbed,Glide/082-2.png,82,0.365453887806808,0.421053835248433,0.4162196283201579,2,2,2,2,2
+an overhead view of a pickup truck with boxes in its flatbed,Glide/082-3.png,82,0.358182645915058,0.380310755271073,0.4217103412377049,1,2,2,1,1
+an overhead view of a pickup truck with boxes in its flatbed,Glide/082-4.png,82,0.405427250626024,0.3980564848088,0.391557705745118,1,2,2,1,1
+an overhead view of a pickup truck with boxes in its flatbed,Lafite/082-1.png,82,0.425461514756183,0.441817260267831,0.4557946105462679,1,1,3,1,1
+an overhead view of a pickup truck with boxes in its flatbed,Lafite/082-2.png,82,0.425019729845254,0.4581113701293929,0.417625424958167,2,2,3,1,1
+an overhead view of a pickup truck with boxes in its flatbed,Lafite/082-3.png,82,0.338584520205607,0.394350298525651,0.338992663942799,1,3,2,2,1
+an overhead view of a pickup truck with boxes in its flatbed,Lafite/082-4.png,82,0.400983916080972,0.420228573334143,0.400708089122571,2,1,2,1,2
+an overhead view of a pickup truck with boxes in its flatbed,stable-diffusion/082-1.png,82,0.606326875383949,0.636386382187486,0.60039858080272,3,3,3,2,3
+an overhead view of a pickup truck with boxes in its flatbed,stable-diffusion/082-2.png,82,0.549937026540035,0.503579254517227,0.5166401060607619,3,3,3,2,2
+an overhead view of a pickup truck with boxes in its flatbed,stable-diffusion/082-3.png,82,0.6062277228373361,0.574837247729854,0.6104276957005009,4,4,4,3,3
+an overhead view of a pickup truck with boxes in its flatbed,stable-diffusion/082-4.png,82,0.411609531814137,0.40812802843373,0.380585268091744,1,2,2,1,1
+an overhead view of a pickup truck with boxes in its flatbed,Unidiffuser/082-1.png,82,0.571719878325457,0.483217872800045,0.525243063981662,4,4,3,1,3
+an overhead view of a pickup truck with boxes in its flatbed,Unidiffuser/082-2.png,82,0.5466945931307621,0.475063041688428,0.538883202586835,4,4,4,1,3
+an overhead view of a pickup truck with boxes in its flatbed,Unidiffuser/082-3.png,82,0.594434664393816,0.519079351150054,0.556340695814878,4,4,2,1,3
+an overhead view of a pickup truck with boxes in its flatbed,Unidiffuser/082-4.png,82,0.512756429632145,0.4713403970489069,0.482398644533811,3,3,3,2,3
+a closet without clothes,Controlnet/093-1.png,93,0.649643325365418,0.572718323131906,0.450694108138899,4,4,4,3,2
+a closet without clothes,Controlnet/093-2.png,93,0.554774618097653,0.556519654314664,0.404145384974807,4,4,4,3,1
+a closet without clothes,Controlnet/093-3.png,93,0.572668077709815,0.54966847507899,0.425911249648722,4,3,2,2,2
+a closet without clothes,Controlnet/093-4.png,93,0.5860338148751191,0.560661181917871,0.32961547628539,4,4,4,3,2
+a closet without clothes,DALLE/093-1.png,93,0.662849940508578,0.560231346063363,0.611603237954242,4,4,4,2,3
+a closet without clothes,DALLE/093-2.png,93,0.511340875197146,0.501200667939588,0.527188556285966,4,4,4,3,3
+a closet without clothes,DALLE/093-3.png,93,0.528288314687655,0.545104846054598,0.516703718209576,4,4,3,3,3
+a closet without clothes,DALLE/093-4.png,93,0.595142503193409,0.661111224124917,0.6422695080544559,4,4,2,3,3
+a closet without clothes,Glide/093-1.png,93,0.3518684484473129,0.384740699424469,0.4368733839969039,1,1,1,1,1
+a closet without clothes,Glide/093-2.png,93,0.440999439690818,0.505023423513347,0.5132139599334851,2,1,1,3,3
+a closet without clothes,Glide/093-3.png,93,0.373390079925276,0.452958438006378,0.4337105422394839,1,2,3,1,1
+a closet without clothes,Glide/093-4.png,93,0.410141097223619,0.417300364483159,0.424673364320937,2,2,3,3,1
+a closet without clothes,Lafite/093-1.png,93,0.346388940144358,0.386437901876877,0.324466404822669,1,2,2,2,2
+a closet without clothes,Lafite/093-2.png,93,0.440606540446266,0.395241544406963,0.421358005560079,2,2,3,2,2
+a closet without clothes,Lafite/093-3.png,93,0.426164839742039,0.439063769196237,0.4006182042732619,2,2,2,2,2
+a closet without clothes,Lafite/093-4.png,93,0.434697639385707,0.448178994409173,0.400827495243901,2,1,2,1,2
+a closet without clothes,stable-diffusion/093-1.png,93,0.4874437049073969,0.44672813572249,0.445065046508304,2,2,2,2,2
+a closet without clothes,stable-diffusion/093-2.png,93,0.471785081350616,0.565865216037747,0.422554051794613,3,4,4,3,1
+a closet without clothes,stable-diffusion/093-3.png,93,0.50988982864927,0.514569958488959,0.3801695338188189,4,4,4,3,1
+a closet without clothes,stable-diffusion/093-4.png,93,0.568859774089554,0.528961300989121,0.385228378644739,3,4,4,3,2
+a closet without clothes,Unidiffuser/093-1.png,93,0.413383597105814,0.374064343311108,0.416411066881579,2,3,3,1,1
+a closet without clothes,Unidiffuser/093-2.png,93,0.494605010292078,0.521550163980538,0.404997922179449,4,4,4,3,1
+a closet without clothes,Unidiffuser/093-3.png,93,0.3729794186582609,0.4245824656579159,0.476441867500769,2,3,2,3,3
+a closet without clothes,Unidiffuser/093-4.png,93,0.329885491315962,0.336348616392576,0.338804229704648,1,1,1,1,1
+a plate that has no bananas on it. there is a glass without orange juice next to it.,Controlnet/095-1.png,95,0.519703646300026,0.506260819384506,0.457915651165648,3,4,3,2,2
+a plate that has no bananas on it. there is a glass without orange juice next to it.,Controlnet/095-2.png,95,0.59833045877854,0.478245020949868,0.457581229772695,4,4,3,2,2
+a plate that has no bananas on it. there is a glass without orange juice next to it.,Controlnet/095-3.png,95,0.569532652459078,0.61356918211836,0.520626534848839,4,4,4,3,3
+a plate that has no bananas on it. there is a glass without orange juice next to it.,Controlnet/095-4.png,95,0.533231435057802,0.510633418484716,0.471944174759709,4,3,3,2,2
+a plate that has no bananas on it. there is a glass without orange juice next to it.,DALLE/095-1.png,95,0.589725665956446,0.525517072341402,0.3782282335726419,4,4,4,3,2
+a plate that has no bananas on it. there is a glass without orange juice next to it.,DALLE/095-2.png,95,0.564128342613087,0.556018388460211,0.40543249691661,3,3,2,3,2
+a plate that has no bananas on it. there is a glass without orange juice next to it.,DALLE/095-3.png,95,0.659929481162646,0.605435759545138,0.461703276175029,4,4,4,3,1
+a plate that has no bananas on it. there is a glass without orange juice next to it.,DALLE/095-4.png,95,0.526248261004945,0.501093529747783,0.422159186805371,4,4,4,3,1
+a plate that has no bananas on it. there is a glass without orange juice next to it.,Glide/095-1.png,95,0.4416017179402209,0.435314173969946,0.417383914959545,2,3,2,2,2
+a plate that has no bananas on it. there is a glass without orange juice next to it.,Glide/095-2.png,95,0.397339224652559,0.439661056612931,0.434410783784239,2,2,2,3,3
+a plate that has no bananas on it. there is a glass without orange juice next to it.,Glide/095-3.png,95,0.3881146953948999,0.393221286728131,0.401610389001994,2,3,2,1,2
+a plate that has no bananas on it. there is a glass without orange juice next to it.,Glide/095-4.png,95,0.358965831401297,0.424330589708883,0.432326369985565,4,4,4,3,1
+a plate that has no bananas on it. there is a glass without orange juice next to it.,Lafite/095-1.png,95,0.3906700674307529,0.405971654839622,0.351780793446592,1,1,1,1,1
+a plate that has no bananas on it. there is a glass without orange juice next to it.,Lafite/095-2.png,95,0.390682698947487,0.323602303204687,0.319224815946462,1,1,1,1,1
+a plate that has no bananas on it. there is a glass without orange juice next to it.,Lafite/095-3.png,95,0.410740746149643,0.385617842452212,0.3771600382169059,1,1,1,1,1
+a plate that has no bananas on it. there is a glass without orange juice next to it.,Lafite/095-4.png,95,0.399408650250812,0.384245327619007,0.3408865718916929,1,1,1,1,1
+a plate that has no bananas on it. there is a glass without orange juice next to it.,stable-diffusion/095-1.png,95,0.616088038453963,0.575700659005163,0.474667969179846,4,4,4,3,2
+a plate that has no bananas on it. there is a glass without orange juice next to it.,stable-diffusion/095-2.png,95,0.400182031219192,0.40287833527307,0.4700334181057179,2,2,2,1,2
+a plate that has no bananas on it. there is a glass without orange juice next to it.,stable-diffusion/095-3.png,95,0.552376501708538,0.590789803658279,0.362016091781706,4,4,4,3,2
+a plate that has no bananas on it. there is a glass without orange juice next to it.,stable-diffusion/095-4.png,95,0.623034448406426,0.630225497172742,0.510569732330295,4,3,3,3,2
+a plate that has no bananas on it. there is a glass without orange juice next to it.,Unidiffuser/095-1.png,95,0.576697693762766,0.505887902698426,0.454046949308832,3,4,3,2,1
+a plate that has no bananas on it. there is a glass without orange juice next to it.,Unidiffuser/095-2.png,95,0.496584934875229,0.468020659612456,0.4293206556957439,4,4,4,2,1
+a plate that has no bananas on it. there is a glass without orange juice next to it.,Unidiffuser/095-3.png,95,0.3627815553146309,0.402669802737192,0.436484392453118,2,2,2,2,2
+a plate that has no bananas on it. there is a glass without orange juice next to it.,Unidiffuser/095-4.png,95,0.45350021009553,0.47709728484081,0.418940520528945,3,3,3,3,3

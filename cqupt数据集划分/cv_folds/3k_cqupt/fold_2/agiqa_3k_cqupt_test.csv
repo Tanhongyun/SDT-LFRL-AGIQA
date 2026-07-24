@@ -1,0 +1,599 @@
+﻿prompt,image_name,index,quality_score,std_quality,mos_align,std_align
+face shot of a woman,AttnGAN_normal_010.jpg,10,1.311956077,0.754244761,0.178657573,0.569770583
+face shot of a woman,DALLE2_normal_010.jpg,10,2.841733922,0.448757939,3.159306031,1.317152981
+face shot of a woman,glide_normal_010.jpg,10,1.106599613,0.8161563,0.341602936,0.341917555
+face shot of a woman,midjourney_lowstep_010.jpg,10,3.066652656,0.426446392,3.592509994,0.774877561
+face shot of a woman,midjourney_normal_010.jpg,10,4.172725551,0.769329252,4.286204297,0.549834454
+face shot of a woman,sd1.5_highcorr_010.jpg,10,0.887752418,0.543146071,1.460690493,1.184797491
+face shot of a woman,sd1.5_lowcorr_010.jpg,10,2.897434093,0.646565153,3.763463406,0.654049046
+face shot of a woman,sd1.5_lowstep_010.jpg,10,3.659493494,0.386315776,3.915003482,0.423033914
+face shot of a woman,sd1.5_normal_010.jpg,10,2.83450926,0.59033734,3.576346344,1.019465776
+face shot of a woman,xl2.2_normal_010.jpg,10,3.931077949,0.428812245,3.814814682,0.349437528
+goddess of mystic unity,AttnGAN_normal_024.jpg,24,0.979308463,0.692335046,0.310309712,0.508539438
+goddess of mystic unity,DALLE2_normal_024.jpg,24,2.790423236,0.888633917,2.701605789,1.527958588
+goddess of mystic unity,glide_normal_024.jpg,24,1.312728533,0.589689332,0.528272961,0.794562287
+goddess of mystic unity,midjourney_lowstep_024.jpg,24,2.886258786,0.31954806,3.4459796,0.415966744
+goddess of mystic unity,midjourney_normal_024.jpg,24,4.255753145,0.330675853,4.014160821,0.314817977
+goddess of mystic unity,sd1.5_highcorr_024.jpg,24,3.010422973,0.736941498,3.432908534,0.578376817
+goddess of mystic unity,sd1.5_lowcorr_024.jpg,24,2.674859949,0.468550548,3.006960745,0.805281669
+goddess of mystic unity,sd1.5_lowstep_024.jpg,24,3.193169444,0.372102935,3.524109368,0.753193782
+goddess of mystic unity,sd1.5_normal_024.jpg,24,3.108824919,0.249741309,3.535509472,0.608158043
+goddess of mystic unity,xl2.2_normal_024.jpg,24,3.44620302,0.427607331,3.854712392,0.307186015
+maroon to black gradient,AttnGAN_normal_028.jpg,28,1.527555519,0.734475663,0.686697692,0.609546191
+maroon to black gradient,DALLE2_normal_028.jpg,28,1.104874015,0.746620722,1.809261893,1.138048759
+maroon to black gradient,glide_normal_028.jpg,28,1.310287954,0.46841795,1.209905872,0.624367824
+maroon to black gradient,midjourney_lowstep_028.jpg,28,1.877457019,0.671840807,1.482013745,1.369323381
+maroon to black gradient,midjourney_normal_028.jpg,28,2.546528083,0.8602909,2.338498523,1.716534757
+maroon to black gradient,sd1.5_highcorr_028.jpg,28,0.713190373,0.890613963,1.152883399,1.316564835
+maroon to black gradient,sd1.5_lowcorr_028.jpg,28,0.577009925,1.167318011,0.642169337,0.716782899
+maroon to black gradient,sd1.5_lowstep_028.jpg,28,1.313948351,0.482293295,1.920999368,1.261267856
+maroon to black gradient,sd1.5_normal_028.jpg,28,2.903508628,0.656135352,1.229744947,1.220082233
+maroon to black gradient,xl2.2_normal_028.jpg,28,3.908627165,0.417020503,2.199589058,1.653672054
+legendary river of slugs,AttnGAN_normal_029.jpg,29,0.747278376,0.747544955,0.530505137,0.639145334
+legendary river of slugs,DALLE2_normal_029.jpg,29,3.127756575,0.701500633,1.846024102,1.411717257
+legendary river of slugs,glide_normal_029.jpg,29,0.612055936,0.242380104,1.225743967,1.106163576
+legendary river of slugs,midjourney_lowstep_029.jpg,29,1.267302782,0.580181528,2.589300817,0.982882993
+legendary river of slugs,midjourney_normal_029.jpg,29,3.593502309,0.688805336,3.422276555,0.836900578
+legendary river of slugs,sd1.5_highcorr_029.jpg,29,3.307841757,0.973647671,2.956517697,0.862643902
+legendary river of slugs,sd1.5_lowcorr_029.jpg,29,3.208047473,0.894120113,2.35091786,1.515254285
+legendary river of slugs,sd1.5_lowstep_029.jpg,29,2.742340814,0.843031869,2.824865559,1.49280996
+legendary river of slugs,sd1.5_normal_029.jpg,29,2.974361596,0.535464952,1.934023105,0.881262156
+legendary river of slugs,xl2.2_normal_029.jpg,29,3.507430325,0.903631583,2.917022056,1.333162974
+brand logo fruit company,AttnGAN_normal_030.jpg,30,1.014269206,0.559228261,0.605682672,0.678309106
+brand logo fruit company,DALLE2_normal_030.jpg,30,3.034849246,1.025747232,3.180285613,0.777579257
+brand logo fruit company,glide_normal_030.jpg,30,0.986154364,0.348167326,1.164287781,0.538881024
+brand logo fruit company,midjourney_lowstep_030.jpg,30,1.834018423,0.695191613,2.616373046,0.925985584
+brand logo fruit company,midjourney_normal_030.jpg,30,2.433989441,0.536688873,2.988713021,0.704842281
+brand logo fruit company,sd1.5_highcorr_030.jpg,30,2.83450926,0.533069673,3.280058289,0.920527596
+brand logo fruit company,sd1.5_lowcorr_030.jpg,30,2.39306082,0.714935726,2.851195987,0.6482781
+brand logo fruit company,sd1.5_lowstep_030.jpg,30,2.86026573,0.94445038,3.055730638,0.810084084
+brand logo fruit company,sd1.5_normal_030.jpg,30,2.736106345,0.555075352,3.247078147,0.689118541
+brand logo fruit company,xl2.2_normal_030.jpg,30,2.912021026,0.422026357,2.817302903,0.767429826
+black mickey mouse skull,AttnGAN_normal_031.jpg,31,0.821435934,0.354271932,0.742358137,0.980585945
+black mickey mouse skull,DALLE2_normal_031.jpg,31,1.977251303,1.140480122,2.495735212,0.93269573
+black mickey mouse skull,glide_normal_031.jpg,31,1.328588457,0.54927107,0.915909549,0.742299026
+black mickey mouse skull,midjourney_lowstep_031.jpg,31,3.389757837,0.321436009,2.951467196,0.533848304
+black mickey mouse skull,midjourney_normal_031.jpg,31,4.37231412,0.756369971,3.825421812,0.967820386
+black mickey mouse skull,sd1.5_highcorr_031.jpg,31,2.92075847,0.561490012,3.031176323,0.711475471
+black mickey mouse skull,sd1.5_lowcorr_031.jpg,31,2.426325581,0.736445946,1.916465803,1.581185354
+black mickey mouse skull,sd1.5_lowstep_031.jpg,31,0.620661421,0.217660999,2.315698314,1.462896946
+black mickey mouse skull,sd1.5_normal_031.jpg,31,2.851759102,0.698872865,2.74673979,0.746797429
+black mickey mouse skull,xl2.2_normal_031.jpg,31,3.727517958,0.334557438,0.564086878,0.635111809
+gnome warfare at walmart,AttnGAN_normal_036.jpg,36,1.116526892,0.196692972,0.468583101,0.56108141
+gnome warfare at walmart,DALLE2_normal_036.jpg,36,2.506762262,0.633179291,1.62084518,1.25875967
+gnome warfare at walmart,glide_normal_036.jpg,36,1.558020951,0.799588025,0.554208182,0.625545276
+gnome warfare at walmart,midjourney_lowstep_036.jpg,36,1.916425889,0.200288738,2.342844724,1.00542466
+gnome warfare at walmart,midjourney_normal_036.jpg,36,3.196755943,0.547887298,2.971918712,0.763404796
+gnome warfare at walmart,sd1.5_highcorr_036.jpg,36,2.701232452,0.388189715,1.996643532,0.848162574
+gnome warfare at walmart,sd1.5_lowcorr_036.jpg,36,3.106014094,0.677009032,1.958245193,1.414878401
+gnome warfare at walmart,sd1.5_lowstep_036.jpg,36,2.703383915,0.302327474,1.982792998,0.892086408
+gnome warfare at walmart,sd1.5_normal_036.jpg,36,2.731010208,0.636159344,2.580818479,0.782890585
+gnome warfare at walmart,xl2.2_normal_036.jpg,36,3.583898292,0.453484735,2.976297746,1.006300653
+scottish highlands at dawn,AttnGAN_normal_048.jpg,48,0.735230234,0.326858888,0.519696217,0.534904966
+scottish highlands at dawn,DALLE2_normal_048.jpg,48,3.259652507,0.433340294,3.572455852,0.420171213
+scottish highlands at dawn,glide_normal_048.jpg,48,2.630872609,0.887937929,2.452499565,1.279408958
+scottish highlands at dawn,midjourney_lowstep_048.jpg,48,1.713269529,0.623011002,2.486006301,1.05307304
+scottish highlands at dawn,midjourney_normal_048.jpg,48,3.797638542,1.082493276,3.50130916,0.850781365
+scottish highlands at dawn,sd1.5_highcorr_048.jpg,48,4.039711731,0.409328398,3.93726766,0.725572118
+scottish highlands at dawn,sd1.5_lowcorr_048.jpg,48,3.572719808,0.605618532,3.455708742,0.836237302
+scottish highlands at dawn,sd1.5_lowstep_048.jpg,48,3.316649193,0.842205713,3.336157521,0.638051125
+scottish highlands at dawn,sd1.5_normal_048.jpg,48,3.944657172,0.221794793,3.93726766,0.639162304
+scottish highlands at dawn,xl2.2_normal_048.jpg,48,3.657064334,0.47548068,3.273307074,1.223685853
+portrait of evil alchemist,AttnGAN_normal_049.jpg,49,0.649658335,0.525468227,0.288039227,0.239239529
+portrait of evil alchemist,DALLE2_normal_049.jpg,49,2.625914149,0.978664452,3.483126252,1.085315278
+portrait of evil alchemist,glide_normal_049.jpg,49,2.02640351,0.50032836,0.571482359,0.594629404
+portrait of evil alchemist,midjourney_lowstep_049.jpg,49,2.472262578,0.565429931,3.173394589,0.687710414
+portrait of evil alchemist,midjourney_normal_049.jpg,49,3.92737756,0.522641898,3.708798973,1.474879694
+portrait of evil alchemist,sd1.5_highcorr_049.jpg,49,3.559002625,0.743401157,3.505237211,0.540817857
+portrait of evil alchemist,sd1.5_lowcorr_049.jpg,49,1.463287163,0.573066265,2.181720144,0.902243796
+portrait of evil alchemist,sd1.5_lowstep_049.jpg,49,3.288125226,0.430748807,3.604391931,0.547669416
+portrait of evil alchemist,sd1.5_normal_049.jpg,49,2.940135868,0.354424696,2.885703528,1.259086075
+portrait of evil alchemist,xl2.2_normal_049.jpg,49,2.896939758,0.472623029,3.584646223,0.52054444
+logo design of a full moon,AttnGAN_normal_050.jpg,50,2.010516065,0.557545506,0.178657573,0.574420866
+logo design of a full moon,DALLE2_normal_050.jpg,50,2.825502717,0.713531868,3.10133505,0.755226678
+logo design of a full moon,glide_normal_050.jpg,50,1.154843415,0.284550484,1.916694664,1.140091776
+logo design of a full moon,midjourney_lowstep_050.jpg,50,1.901333455,0.670623233,2.068271365,1.015345111
+logo design of a full moon,midjourney_normal_050.jpg,50,3.058356047,1.006463942,2.548396068,1.17504019
+logo design of a full moon,sd1.5_highcorr_050.jpg,50,2.632073999,0.914094703,1.775520954,1.167082385
+logo design of a full moon,sd1.5_lowcorr_050.jpg,50,3.482963598,0.715445511,4.004060194,0.605967927
+logo design of a full moon,sd1.5_lowstep_050.jpg,50,2.580492981,0.473130473,2.963619274,0.847535668
+logo design of a full moon,sd1.5_normal_050.jpg,50,2.852156791,0.560566444,3.130750884,0.450949921
+logo design of a full moon,xl2.2_normal_050.jpg,50,3.210551263,0.765538101,3.386001822,0.383351038
+hanging gardens of babylon,AttnGAN_normal_051.jpg,51,1.062470367,0.623660348,0.981735619,0.76164381
+hanging gardens of babylon,DALLE2_normal_051.jpg,51,2.927618961,0.96837507,2.139899198,1.298750507
+hanging gardens of babylon,glide_normal_051.jpg,51,1.428382741,0.578207009,1.60050067,1.386441329
+hanging gardens of babylon,midjourney_lowstep_051.jpg,51,2.323921604,0.648105458,3.369510326,0.622170435
+hanging gardens of babylon,midjourney_normal_051.jpg,51,3.878442297,0.288003288,3.847029211,0.318315498
+hanging gardens of babylon,sd1.5_highcorr_051.jpg,51,3.645914271,0.477898507,3.514248281,1.056068743
+hanging gardens of babylon,sd1.5_lowcorr_051.jpg,51,3.630412823,0.479711494,3.055730638,0.810248273
+hanging gardens of babylon,sd1.5_lowstep_051.jpg,51,3.34717137,0.596652105,3.581040815,0.700610184
+hanging gardens of babylon,sd1.5_normal_051.jpg,51,3.279275256,0.519982969,3.592172903,0.418834137
+hanging gardens of babylon,xl2.2_normal_051.jpg,51,3.165054602,0.856642388,3.478508951,0.688891256
+a small ocean full of life,AttnGAN_normal_055.jpg,55,1.161804194,0.315363014,0.504397017,0.663185181
+a small ocean full of life,DALLE2_normal_055.jpg,55,3.001476926,0.585732885,2.963882471,0.873890113
+a small ocean full of life,glide_normal_055.jpg,55,1.614577211,0.44124668,3.082998995,0.85463265
+a small ocean full of life,midjourney_lowstep_055.jpg,55,1.977251303,0.697641955,1.495178959,1.12967246
+a small ocean full of life,midjourney_normal_055.jpg,55,3.502054974,0.668823758,3.080115584,1.037816116
+a small ocean full of life,sd1.5_highcorr_055.jpg,55,3.39100366,0.341050285,3.720100101,0.5539138
+a small ocean full of life,sd1.5_lowcorr_055.jpg,55,3.386504205,0.491298606,3.813376788,0.51800485
+a small ocean full of life,sd1.5_lowstep_055.jpg,55,3.108253189,0.953067966,3.167161119,1.166571625
+a small ocean full of life,sd1.5_normal_055.jpg,55,2.058266369,0.644567027,2.711185223,0.844196893
+a small ocean full of life,xl2.2_normal_055.jpg,55,2.654631009,1.150592532,3.247078147,0.973165871
+barak obama as master chief,AttnGAN_normal_059.jpg,59,0.753539821,0.355756524,0.441791736,0.296513671
+barak obama as master chief,glide_normal_059.jpg,59,0.635396352,0.176931204,0.288039227,0.211923591
+barak obama as master chief,midjourney_lowstep_059.jpg,59,3.407636041,0.597186436,3.627943604,0.89618239
+barak obama as master chief,midjourney_normal_059.jpg,59,3.208047473,0.533691262,2.890691628,1.046454853
+barak obama as master chief,sd1.5_highcorr_059.jpg,59,3.837774272,0.264782207,3.895028099,0.451062094
+barak obama as master chief,sd1.5_lowcorr_059.jpg,59,3.27751397,0.286821834,3.626710307,0.419388643
+barak obama as master chief,sd1.5_lowstep_059.jpg,59,2.782759734,0.481363463,3.173394589,0.735349604
+barak obama as master chief,sd1.5_normal_059.jpg,59,2.926215464,0.344658378,3.158021435,0.807738085
+barak obama as master chief,xl2.2_normal_059.jpg,59,3.835000098,0.704624045,3.5526433,0.418555939
+"a yellow rendition of venom, sci-fi style",AttnGAN_normal_061.jpg,61,0.678182301,0.409283535,0.409963958,0.28187264
+"a yellow rendition of venom, sci-fi style",DALLE2_normal_061.jpg,61,1.815542197,0.590795755,2.486699878,0.790906117
+"a yellow rendition of venom, sci-fi style",glide_normal_061.jpg,61,1.494912264,0.667057786,1.231874682,0.530558064
+"a yellow rendition of venom, sci-fi style",midjourney_lowstep_061.jpg,61,3.165054602,0.626977397,3.706511037,0.514244187
+"a yellow rendition of venom, sci-fi style",midjourney_normal_061.jpg,61,2.994111578,0.984666704,3.62556917,0.516253325
+"a yellow rendition of venom, sci-fi style",sd1.5_highcorr_061.jpg,61,2.774693831,0.722920973,2.836266121,0.718025029
+"a yellow rendition of venom, sci-fi style",sd1.5_lowcorr_061.jpg,61,2.576017007,0.791252523,2.732709062,1.084038937
+"a yellow rendition of venom, sci-fi style",sd1.5_lowstep_061.jpg,61,2.871898573,0.572156501,3.135757257,0.198365644
+"a yellow rendition of venom, sci-fi style",sd1.5_normal_061.jpg,61,2.14357511,0.835865144,2.548396068,1.29137607
+"a yellow rendition of venom, sci-fi style",xl2.2_normal_061.jpg,61,3.235341707,0.970120249,3.364507908,0.797693524
+"monsters playing board games, baroque style",AttnGAN_normal_064.jpg,64,0.935417685,0.635748859,1.184861428,0.861777552
+"monsters playing board games, baroque style",DALLE2_normal_064.jpg,64,2.545997226,0.420468896,3.169153524,0.4860513
+"monsters playing board games, baroque style",glide_normal_064.jpg,64,1.149675658,0.382144021,1.536125842,0.796046179
+"monsters playing board games, baroque style",midjourney_lowstep_064.jpg,64,1.972017159,0.848402628,3.066730889,0.678979312
+"monsters playing board games, baroque style",midjourney_normal_064.jpg,64,3.938212751,0.428877216,3.729311245,0.400158366
+"monsters playing board games, baroque style",sd1.5_highcorr_064.jpg,64,2.657997659,0.669047612,2.479686745,0.229075464
+"monsters playing board games, baroque style",sd1.5_lowcorr_064.jpg,64,2.426325581,0.449314086,2.508900426,0.54554126
+"monsters playing board games, baroque style",sd1.5_lowstep_064.jpg,64,2.760431848,0.698141268,3.531237092,0.804110642
+"monsters playing board games, baroque style",sd1.5_normal_064.jpg,64,2.518413241,0.254873902,2.999704571,0.750853424
+"monsters playing board games, baroque style",xl2.2_normal_064.jpg,64,3.837774272,0.230753835,3.882612824,0.603967843
+"an environmental concept art, anime style",AttnGAN_normal_065.jpg,65,1.388190702,0.478764802,1.077419679,0.746786189
+"an environmental concept art, anime style",DALLE2_normal_065.jpg,65,1.791832549,0.331856324,2.864560271,0.672598229
+"an environmental concept art, anime style",glide_normal_065.jpg,65,1.644270161,0.750119945,1.289002558,0.633327284
+"an environmental concept art, anime style",midjourney_lowstep_065.jpg,65,1.904712856,0.486211786,2.519261818,1.08271376
+"an environmental concept art, anime style",midjourney_normal_065.jpg,65,4.488740784,0.852978805,3.891247881,0.561549883
+"an environmental concept art, anime style",sd1.5_highcorr_065.jpg,65,2.994111578,0.822401806,3.158021435,1.092773732
+"an environmental concept art, anime style",sd1.5_lowcorr_065.jpg,65,2.203182133,0.66245011,2.856177525,0.814933094
+"an environmental concept art, anime style",sd1.5_lowstep_065.jpg,65,3.059933495,0.699048522,3.421504833,0.564373714
+"an environmental concept art, anime style",sd1.5_normal_065.jpg,65,3.188291344,0.439853365,3.40931236,0.341160493
+"an environmental concept art, anime style",xl2.2_normal_065.jpg,65,3.718303223,0.560614965,4.006765574,0.226592887
+"synthwave astronaut tabby cat, baroque style",AttnGAN_normal_069.jpg,69,1.116526892,0.546724078,0.564086878,0.561682749
+"synthwave astronaut tabby cat, baroque style",DALLE2_normal_069.jpg,69,3.259652507,0.624191314,3.465014103,0.342307315
+"synthwave astronaut tabby cat, baroque style",glide_normal_069.jpg,69,1.785560751,0.641949575,2.122737165,0.955360435
+"synthwave astronaut tabby cat, baroque style",midjourney_lowstep_069.jpg,69,3.093635734,0.652367095,3.417262215,0.786285678
+"synthwave astronaut tabby cat, baroque style",midjourney_normal_069.jpg,69,3.856710319,0.900860721,3.733265315,0.582633591
+"synthwave astronaut tabby cat, baroque style",sd1.5_highcorr_069.jpg,69,2.869848764,0.730790855,3.239106761,0.692906121
+"synthwave astronaut tabby cat, baroque style",sd1.5_lowcorr_069.jpg,69,3.270286787,0.474447757,3.311510172,0.366984563
+"synthwave astronaut tabby cat, baroque style",sd1.5_lowstep_069.jpg,69,2.92680752,0.395842556,3.237018522,0.4639974
+"synthwave astronaut tabby cat, baroque style",sd1.5_normal_069.jpg,69,3.169097903,0.441855523,1.877263811,0.65958608
+"synthwave astronaut tabby cat, baroque style",xl2.2_normal_069.jpg,69,3.421003889,0.698975222,3.363018944,0.442720824
+"grumpy minions sitting in a bar, anime style",AttnGAN_normal_085.jpg,85,0.776328629,0.259128152,0.232521964,0.459285357
+"grumpy minions sitting in a bar, anime style",DALLE2_normal_085.jpg,85,2.239848985,0.414425311,3.497739298,0.853688125
+"grumpy minions sitting in a bar, anime style",glide_normal_085.jpg,85,1.464106675,0.404317808,1.095887156,0.887489974
+"grumpy minions sitting in a bar, anime style",midjourney_lowstep_085.jpg,85,2.23273847,0.509239625,2.031562891,1.05913564
+"grumpy minions sitting in a bar, anime style",midjourney_normal_085.jpg,85,4.039711731,0.897644529,2.924247568,1.186098851
+"grumpy minions sitting in a bar, anime style",sd1.5_highcorr_085.jpg,85,3.150997182,0.940823309,3.387308117,0.31574907
+"grumpy minions sitting in a bar, anime style",sd1.5_lowcorr_085.jpg,85,2.912021026,0.329460818,2.589300817,0.847445473
+"grumpy minions sitting in a bar, anime style",sd1.5_lowstep_085.jpg,85,0.402281536,0.819661468,0.637168837,0.649431079
+"grumpy minions sitting in a bar, anime style",sd1.5_normal_085.jpg,85,3.041723666,0.87738985,2.680048206,1.130166611
+"grumpy minions sitting in a bar, anime style",xl2.2_normal_085.jpg,85,3.482963598,0.756091586,3.080096813,1.209459766
+"a space shuttle flying in space, abstract style",AttnGAN_normal_088.jpg,88,1.22513052,0.413156708,1.02748653,0.685047874
+"a space shuttle flying in space, abstract style",DALLE2_normal_088.jpg,88,3.334754679,0.773188707,3.517088733,0.262245683
+"a space shuttle flying in space, abstract style",glide_normal_088.jpg,88,1.086342024,0.711934289,2.139899198,1.127248295
+"a space shuttle flying in space, abstract style",midjourney_lowstep_088.jpg,88,1.946610757,0.615916575,3.142688856,1.034744675
+"a space shuttle flying in space, abstract style",midjourney_normal_088.jpg,88,3.643633817,0.66297103,3.212187972,0.681037795
+"a space shuttle flying in space, abstract style",sd1.5_highcorr_088.jpg,88,3.016410807,0.691599545,2.752822796,0.941943519
+"a space shuttle flying in space, abstract style",sd1.5_lowcorr_088.jpg,88,2.545997226,0.607744007,2.556888633,0.947716349
+"a space shuttle flying in space, abstract style",sd1.5_lowstep_088.jpg,88,2.188089699,0.526953369,2.987495218,0.506771856
+"a space shuttle flying in space, abstract style",sd1.5_normal_088.jpg,88,1.933236823,0.31146248,2.092525257,0.609445663
+"a space shuttle flying in space, abstract style",xl2.2_normal_088.jpg,88,2.284650629,0.662398361,2.144474319,0.738508841
+"photo of tony danza eating chili, abstract style",AttnGAN_normal_093.jpg,93,1.478164096,0.644720816,0.696883506,0.501431398
+"photo of tony danza eating chili, abstract style",DALLE2_normal_093.jpg,93,2.476240979,0.57620571,3.227706657,0.587682229
+"photo of tony danza eating chili, abstract style",glide_normal_093.jpg,93,0.986154364,0.43733238,1.050286739,0.483895995
+"photo of tony danza eating chili, abstract style",midjourney_lowstep_093.jpg,93,3.116981428,0.903665277,2.702148916,0.711977881
+"photo of tony danza eating chili, abstract style",midjourney_normal_093.jpg,93,3.956504603,1.006628303,3.588447963,0.635718282
+"photo of tony danza eating chili, abstract style",sd1.5_highcorr_093.jpg,93,2.986543045,0.505309462,2.355533995,0.683890224
+"photo of tony danza eating chili, abstract style",sd1.5_lowcorr_093.jpg,93,3.150815738,0.488077234,2.330703444,0.989466456
+"photo of tony danza eating chili, abstract style",sd1.5_lowstep_093.jpg,93,2.351513684,0.66449215,2.154163679,0.826343689
+"photo of tony danza eating chili, abstract style",sd1.5_normal_093.jpg,93,2.776844014,0.98511615,2.7906625,0.871787195
+"photo of tony danza eating chili, abstract style",xl2.2_normal_093.jpg,93,3.531316317,0.495127609,2.820363609,0.600809989
+"moon sea with stars and galaxies, anime style",AttnGAN_normal_095.jpg,95,1.020469898,0.531171361,0.422156431,0.494782666
+"moon sea with stars and galaxies, anime style",DALLE2_normal_095.jpg,95,3.048428469,0.787819464,3.52538037,0.737317353
+"moon sea with stars and galaxies, anime style",glide_normal_095.jpg,95,0.641923698,0.556188949,1.461634192,1.012561195
+"moon sea with stars and galaxies, anime style",midjourney_lowstep_095.jpg,95,3.074195478,0.522327485,3.470274726,0.471474378
+"moon sea with stars and galaxies, anime style",midjourney_normal_095.jpg,95,3.572719808,0.510375084,3.615310202,0.663759053
+"moon sea with stars and galaxies, anime style",sd1.5_highcorr_095.jpg,95,3.124885569,0.378838377,3.114500264,0.940548081
+"moon sea with stars and galaxies, anime style",sd1.5_lowcorr_095.jpg,95,2.903508628,0.764851076,3.469682644,0.741319952
+"moon sea with stars and galaxies, anime style",sd1.5_lowstep_095.jpg,95,3.145505394,0.757041718,3.080115584,0.815425236
+"moon sea with stars and galaxies, anime style",sd1.5_normal_095.jpg,95,2.92075847,0.63431255,3.173394589,0.391492563
+"moon sea with stars and galaxies, anime style",xl2.2_normal_095.jpg,95,2.912636241,0.880256397,3.325002769,0.270443062
+"a small garden buzzing with bees, anime style",AttnGAN_normal_100.jpg,100,1.178897031,0.633309209,1.02123126,0.925723273
+"a small garden buzzing with bees, anime style",DALLE2_normal_100.jpg,100,2.248459435,0.501948358,3.274006549,0.23328333
+"a small garden buzzing with bees, anime style",glide_normal_100.jpg,100,1.358005834,0.806326564,1.411682898,0.815104534
+"a small garden buzzing with bees, anime style",midjourney_lowstep_100.jpg,100,1.295323696,0.714997482,2.219265721,0.91839975
+"a small garden buzzing with bees, anime style",midjourney_normal_100.jpg,100,3.903999466,0.762064063,3.611900911,0.796702028
+"a small garden buzzing with bees, anime style",sd1.5_highcorr_100.jpg,100,2.410204999,0.387821818,2.47896401,0.805884317
+"a small garden buzzing with bees, anime style",sd1.5_lowcorr_100.jpg,100,3.138913035,0.53338824,2.736797804,0.966829773
+"a small garden buzzing with bees, anime style",sd1.5_lowstep_100.jpg,100,3.091620808,0.641526015,3.009178553,0.621283601
+"a small garden buzzing with bees, anime style",sd1.5_normal_100.jpg,100,2.701159713,0.700532236,3.489909055,0.402954605
+"a small garden buzzing with bees, anime style",xl2.2_normal_100.jpg,100,3.135881857,0.304981488,3.882612824,0.399310051
+"a giant rock floating in the air, abstract style",AttnGAN_normal_103.jpg,103,0.929924681,0.291859613,0.78808434,0.688698947
+"a giant rock floating in the air, abstract style",DALLE2_normal_103.jpg,103,3.162256259,0.78356873,3.1259885,0.681765755
+"a giant rock floating in the air, abstract style",glide_normal_103.jpg,103,0.45479692,0.254632895,1.721981963,0.869123171
+"a giant rock floating in the air, abstract style",midjourney_lowstep_103.jpg,103,1.48681785,0.697328904,3.158021435,0.530670701
+"a giant rock floating in the air, abstract style",midjourney_normal_103.jpg,103,2.821971923,0.417819862,3.548579908,0.575292504
+"a giant rock floating in the air, abstract style",sd1.5_highcorr_103.jpg,103,1.590623463,0.378844548,2.133296646,0.438013678
+"a giant rock floating in the air, abstract style",sd1.5_lowcorr_103.jpg,103,3.257944615,0.674756139,2.785369917,0.891633127
+"a giant rock floating in the air, abstract style",sd1.5_lowstep_103.jpg,103,0.676891105,0.549546942,1.460690493,1.059285728
+"a giant rock floating in the air, abstract style",sd1.5_normal_103.jpg,103,2.716324886,0.355940919,1.841449895,0.700515704
+"a giant rock floating in the air, abstract style",xl2.2_normal_103.jpg,103,2.803217798,0.610697304,3.482467199,0.523919182
+"spritesheet game asset vector art, realistic style",AttnGAN_normal_107.jpg,107,1.014269206,0.583958032,0.856484966,0.597655792
+"spritesheet game asset vector art, realistic style",DALLE2_normal_107.jpg,107,2.713760366,0.440479774,2.971918712,0.213385477
+"spritesheet game asset vector art, realistic style",glide_normal_107.jpg,107,1.056157156,0.525501471,1.578814508,1.183469649
+"spritesheet game asset vector art, realistic style",midjourney_lowstep_107.jpg,107,2.48951242,0.576377002,2.699333701,0.789405695
+"spritesheet game asset vector art, realistic style",midjourney_normal_107.jpg,107,2.931575646,0.585183079,3.17765537,0.524333997
+"spritesheet game asset vector art, realistic style",sd1.5_highcorr_107.jpg,107,2.701232452,0.561306758,2.54579025,1.03244652
+"spritesheet game asset vector art, realistic style",sd1.5_lowcorr_107.jpg,107,2.377839033,0.987196057,2.885703528,0.627325418
+"spritesheet game asset vector art, realistic style",sd1.5_lowstep_107.jpg,107,2.957803829,0.470691892,2.891991441,0.620136906
+"spritesheet game asset vector art, realistic style",sd1.5_normal_107.jpg,107,2.85831935,0.573974455,2.835190856,0.982562334
+"spritesheet game asset vector art, realistic style",xl2.2_normal_107.jpg,107,3.235341707,0.554705545,2.794502694,1.079455403
+"portrait of a dancing eagle woman, abstract style",AttnGAN_normal_108.jpg,108,0.678279008,0.790858843,0.696426448,0.597760319
+"portrait of a dancing eagle woman, abstract style",DALLE2_normal_108.jpg,108,1.619473192,0.837949082,1.87306074,1.423172588
+"portrait of a dancing eagle woman, abstract style",glide_normal_108.jpg,108,2.138862877,0.502916652,1.608891849,0.790658744
+"portrait of a dancing eagle woman, abstract style",midjourney_lowstep_108.jpg,108,3.224679853,0.958140586,3.27248283,0.664463679
+"portrait of a dancing eagle woman, abstract style",midjourney_normal_108.jpg,108,4.093747728,0.678018268,3.469682644,0.473781805
+"portrait of a dancing eagle woman, abstract style",sd1.5_highcorr_108.jpg,108,2.988623579,1.203449631,2.568031711,1.427273358
+"portrait of a dancing eagle woman, abstract style",sd1.5_lowcorr_108.jpg,108,1.747030906,0.879954158,2.430025645,1.264995298
+"portrait of a dancing eagle woman, abstract style",sd1.5_lowstep_108.jpg,108,2.586734895,0.675678523,2.991040101,1.211330807
+"portrait of a dancing eagle woman, abstract style",sd1.5_normal_108.jpg,108,2.625770283,0.940302498,2.987495218,0.81558232
+"portrait of a dancing eagle woman, abstract style",xl2.2_normal_108.jpg,108,2.975194143,0.764258359,3.061839408,0.76067896
+"photograph of beautiful landscape, baroque style",AttnGAN_normal_109.jpg,109,1.104874015,0.406617329,0.54290384,0.653092562
+"photograph of beautiful landscape, baroque style",DALLE2_normal_109.jpg,109,3.058757207,0.909877896,3.090433934,0.887605707
+"photograph of beautiful landscape, baroque style",glide_normal_109.jpg,109,1.567824332,0.555968835,1.796846618,1.050983296
+"photograph of beautiful landscape, baroque style",midjourney_lowstep_109.jpg,109,3.001476926,0.298063771,3.174942147,0.425878247
+"photograph of beautiful landscape, baroque style",midjourney_normal_109.jpg,109,3.561501185,0.550646833,3.536641936,0.406595423
+"photograph of beautiful landscape, baroque style",sd1.5_highcorr_109.jpg,109,3.359435142,0.475345828,3.665354297,0.449410182
+"photograph of beautiful landscape, baroque style",sd1.5_lowcorr_109.jpg,109,3.756916035,1.083402033,3.720100101,1.054525458
+"photograph of beautiful landscape, baroque style",sd1.5_lowstep_109.jpg,109,3.744508689,0.416114511,3.653161823,0.729514112
+"photograph of beautiful landscape, baroque style",sd1.5_normal_109.jpg,109,3.455854147,0.614308301,3.441138159,0.707427718
+"photograph of beautiful landscape, baroque style",xl2.2_normal_109.jpg,109,3.537280489,0.575150517,3.703493793,0.587766095
+"painted portrait of intense woman, anime style",AttnGAN_normal_110.jpg,110,0.779719895,0.71599579,0.231318429,0.609472893
+"painted portrait of intense woman, anime style",DALLE2_normal_110.jpg,110,2.251322245,0.841685076,2.805902798,0.887255671
+"painted portrait of intense woman, anime style",glide_normal_110.jpg,110,0.229783115,1.008224322,0.388286871,0.514066765
+"painted portrait of intense woman, anime style",midjourney_lowstep_110.jpg,110,3.39100366,0.778064364,3.548952321,0.703001786
+"painted portrait of intense woman, anime style",midjourney_normal_110.jpg,110,3.9689969,0.434139214,3.321758438,0.759495466
+"painted portrait of intense woman, anime style",sd1.5_highcorr_110.jpg,110,2.442957962,0.432635852,2.785369917,0.628746866
+"painted portrait of intense woman, anime style",sd1.5_lowcorr_110.jpg,110,2.043565984,0.525573362,2.27858641,0.775822009
+"painted portrait of intense woman, anime style",sd1.5_lowstep_110.jpg,110,2.7089479,0.562640047,2.545756544,0.647984848
+"painted portrait of intense woman, anime style",sd1.5_normal_110.jpg,110,2.423784221,0.661641013,2.890851301,0.431622988
+"painted portrait of intense woman, anime style",xl2.2_normal_110.jpg,110,3.972998834,0.77338241,3.659307,0.355395237
+"epic colourful scene from a dream, abstract style",AttnGAN_normal_113.jpg,113,0.879514179,0.769726539,0.731596555,0.450480551
+"epic colourful scene from a dream, abstract style",DALLE2_normal_113.jpg,113,0.889332048,0.577938545,1.44367974,0.456340619
+"epic colourful scene from a dream, abstract style",glide_normal_113.jpg,113,0.298444431,0.273761388,2.41761037,1.472143015
+"epic colourful scene from a dream, abstract style",midjourney_lowstep_113.jpg,113,0.977683949,0.756180393,2.568031711,1.127569438
+"epic colourful scene from a dream, abstract style",midjourney_normal_113.jpg,113,3.401488261,0.590802517,3.73689006,0.500353722
+"epic colourful scene from a dream, abstract style",sd1.5_highcorr_113.jpg,113,0.64666085,0.724729776,1.705822381,0.893907526
+"epic colourful scene from a dream, abstract style",sd1.5_lowcorr_113.jpg,113,3.150815738,1.002826357,3.820536448,0.38622845
+"epic colourful scene from a dream, abstract style",sd1.5_lowstep_113.jpg,113,1.079441167,0.57578861,3.046700546,1.260452188
+"epic colourful scene from a dream, abstract style",sd1.5_normal_113.jpg,113,2.66201084,0.984634049,3.1259885,0.904725988
+"epic colourful scene from a dream, abstract style",xl2.2_normal_113.jpg,113,2.586734895,0.977837348,3.380663214,0.480103284
+"donut glazed with white chocolate, baroque style",AttnGAN_normal_114.jpg,114,1.038703499,0.533338568,0.631037248,0.885547035
+"donut glazed with white chocolate, baroque style",DALLE2_normal_114.jpg,114,2.837204233,0.711862584,2.790068621,0.80525371
+"donut glazed with white chocolate, baroque style",glide_normal_114.jpg,114,1.448560438,0.379723617,2.402534584,0.489732639
+"donut glazed with white chocolate, baroque style",midjourney_lowstep_114.jpg,114,2.420513052,0.934810359,3.493385689,0.395661902
+"donut glazed with white chocolate, baroque style",midjourney_normal_114.jpg,114,3.430745058,0.737115378,3.40931236,0.532222314
+"donut glazed with white chocolate, baroque style",sd1.5_highcorr_114.jpg,114,3.893534731,0.48797569,3.118812912,0.731200886
+"donut glazed with white chocolate, baroque style",sd1.5_lowcorr_114.jpg,114,3.091080213,0.566032177,2.703161695,0.551671285
+"donut glazed with white chocolate, baroque style",sd1.5_lowstep_114.jpg,114,3.421003889,0.449611039,3.683010044,0.479935145
+"donut glazed with white chocolate, baroque style",sd1.5_normal_114.jpg,114,3.031344688,0.464676776,3.174942147,0.637571547
+"donut glazed with white chocolate, baroque style",xl2.2_normal_114.jpg,114,3.472753415,0.398648605,3.481534167,0.87555236
+"chinese demon god character design, top view",AttnGAN_normal_122.jpg,122,1.1267749,0.730391994,0.672723404,0.802221475
+"chinese demon god character design, top view",DALLE2_normal_122.jpg,122,1.961760789,1.252515082,2.092525257,1.360204547
+"chinese demon god character design, top view",glide_normal_122.jpg,122,1.328588457,0.612021554,2.034952727,1.208356226
+"chinese demon god character design, top view",midjourney_lowstep_122.jpg,122,3.007007681,0.515410263,3.374870467,0.699379452
+"chinese demon god character design, top view",midjourney_normal_122.jpg,122,3.387909038,0.582215558,3.291606502,0.969510924
+"chinese demon god character design, top view",sd1.5_highcorr_122.jpg,122,0.331720329,0.164938718,1.089357651,0.891027716
+"chinese demon god character design, top view",sd1.5_lowcorr_122.jpg,122,3.041723666,0.844090638,3.351474113,0.650915208
+"chinese demon god character design, top view",sd1.5_lowstep_122.jpg,122,2.842135098,0.668887702,3.404134969,0.553780594
+"chinese demon god character design, top view",sd1.5_normal_122.jpg,122,2.996365552,0.732795705,2.70330186,0.853829344
+"chinese demon god character design, top view",xl2.2_normal_122.jpg,122,3.610752151,0.525088718,3.374870467,0.589255789
+"a biomechanical orchid heart fusion, close-up",AttnGAN_normal_134.jpg,134,1.646853146,0.676823078,1.084487051,0.831167112
+"a biomechanical orchid heart fusion, close-up",DALLE2_normal_134.jpg,134,0.902911271,0.528971723,1.276698406,0.893498483
+"a biomechanical orchid heart fusion, close-up",glide_normal_134.jpg,134,1.478164096,0.536704269,1.996495394,0.771233708
+"a biomechanical orchid heart fusion, close-up",midjourney_lowstep_134.jpg,134,1.212161793,0.744978468,1.890135375,1.113430708
+"a biomechanical orchid heart fusion, close-up",midjourney_normal_134.jpg,134,2.746509754,0.608978207,3.035247107,1.144709116
+"a biomechanical orchid heart fusion, close-up",sd1.5_highcorr_134.jpg,134,2.96825071,1.201532224,2.78310259,0.861442985
+"a biomechanical orchid heart fusion, close-up",sd1.5_lowcorr_134.jpg,134,3.00308113,0.845032166,2.71292186,1.050939945
+"a biomechanical orchid heart fusion, close-up",sd1.5_lowstep_134.jpg,134,2.917313663,1.389773395,2.653379023,1.28374806
+"a biomechanical orchid heart fusion, close-up",sd1.5_normal_134.jpg,134,3.150815738,0.763457447,2.61625477,1.024163486
+"a biomechanical orchid heart fusion, close-up",xl2.2_normal_134.jpg,134,3.347801074,0.498134063,3.524109368,0.617234554
+"cute great old ones sitting in a bar, warm color",AttnGAN_normal_140.jpg,140,0.780698266,0.636568211,0.809150671,0.898241166
+"cute great old ones sitting in a bar, warm color",DALLE2_normal_140.jpg,140,3.319686232,0.50937099,2.86290332,1.04960063
+"cute great old ones sitting in a bar, warm color",glide_normal_140.jpg,140,1.388617757,0.527942727,0.729132965,0.658686852
+"cute great old ones sitting in a bar, warm color",midjourney_lowstep_140.jpg,140,1.540771109,0.67272521,2.817848923,0.444241977
+"cute great old ones sitting in a bar, warm color",midjourney_normal_140.jpg,140,3.917498726,0.535288372,3.792550504,0.517406117
+"cute great old ones sitting in a bar, warm color",sd1.5_highcorr_140.jpg,140,3.265696033,0.265856405,1.510472273,1.028170478
+"cute great old ones sitting in a bar, warm color",sd1.5_lowcorr_140.jpg,140,2.39306082,0.846976622,3.180326333,0.845804481
+"cute great old ones sitting in a bar, warm color",sd1.5_lowstep_140.jpg,140,3.507430325,0.526371039,1.679491953,0.718834646
+"cute great old ones sitting in a bar, warm color",sd1.5_normal_140.jpg,140,2.671047584,0.420442844,3.262068577,0.465174541
+"cute great old ones sitting in a bar, warm color",xl2.2_normal_140.jpg,140,3.197799919,0.364794616,1.432547651,0.810657653
+"portrait of squids swarming the ocean, elevation view",AttnGAN_normal_143.jpg,143,0.735230234,0.365980305,0.653813422,0.536947976
+"portrait of squids swarming the ocean, elevation view",DALLE2_normal_143.jpg,143,1.463652872,0.501326651,1.805635978,0.501890153
+"portrait of squids swarming the ocean, elevation view",glide_normal_143.jpg,143,2.166977719,0.614305072,1.255488616,0.66933851
+"portrait of squids swarming the ocean, elevation view",midjourney_lowstep_143.jpg,143,1.731197672,0.713435659,1.688692578,1.096883662
+"portrait of squids swarming the ocean, elevation view",midjourney_normal_143.jpg,143,2.903508628,0.715033285,3.4459796,0.253458407
+"portrait of squids swarming the ocean, elevation view",sd1.5_highcorr_143.jpg,143,1.956105243,0.517525479,1.883753543,0.832936621
+"portrait of squids swarming the ocean, elevation view",sd1.5_lowcorr_143.jpg,143,2.600314118,0.808938022,2.968775923,0.672392872
+"portrait of squids swarming the ocean, elevation view",sd1.5_lowstep_143.jpg,143,2.851759102,0.894127491,2.166015202,0.550344023
+"portrait of squids swarming the ocean, elevation view",sd1.5_normal_143.jpg,143,2.309898917,1.086186803,1.890135375,0.861333496
+"portrait of squids swarming the ocean, elevation view",xl2.2_normal_143.jpg,143,3.024480393,0.675445922,2.680501651,0.718605819
+"bill gates and jason statham fight m , hyper detail",AttnGAN_normal_147.jpg,147,1.230273953,0.621344636,0.577911226,0.754104312
+"bill gates and jason statham fight m , hyper detail",glide_normal_147.jpg,147,1.048993865,0.437124392,0.56846611,0.274266954
+"bill gates and jason statham fight m , hyper detail",midjourney_lowstep_147.jpg,147,2.757389397,0.648647191,2.258697793,0.634811859
+"bill gates and jason statham fight m , hyper detail",midjourney_normal_147.jpg,147,3.939872222,0.686213821,2.508900426,0.860756441
+"bill gates and jason statham fight m , hyper detail",sd1.5_highcorr_147.jpg,147,2.771446817,0.605996792,3.079505301,0.946566129
+"bill gates and jason statham fight m , hyper detail",sd1.5_lowcorr_147.jpg,147,2.478791084,0.564328295,1.548541117,0.701366909
+"bill gates and jason statham fight m , hyper detail",sd1.5_lowstep_147.jpg,147,2.478101113,0.616176591,1.432547651,0.929152242
+"bill gates and jason statham fight m , hyper detail",sd1.5_normal_147.jpg,147,3.131243411,0.627204933,1.787713427,0.752952995
+"bill gates and jason statham fight m , hyper detail",xl2.2_normal_147.jpg,147,4.205990313,0.865700504,2.087613583,0.924420663
+"a female hand holding a red fresh apple, long-shot",AttnGAN_normal_165.jpg,165,1.197015678,0.272404007,0.685483402,0.991186492
+"a female hand holding a red fresh apple, long-shot",DALLE2_normal_165.jpg,165,2.837204233,0.691200208,2.864560271,0.642546252
+"a female hand holding a red fresh apple, long-shot",glide_normal_165.jpg,165,1.311956077,0.611615037,0.376135781,0.448357682
+"a female hand holding a red fresh apple, long-shot",midjourney_lowstep_165.jpg,165,2.65595515,0.349880048,2.653231999,0.70165969
+"a female hand holding a red fresh apple, long-shot",midjourney_normal_165.jpg,165,3.389973337,0.575376749,3.330307595,0.680939897
+"a female hand holding a red fresh apple, long-shot",sd1.5_highcorr_165.jpg,165,2.831160905,0.79038275,2.991040101,0.686528047
+"a female hand holding a red fresh apple, long-shot",sd1.5_lowcorr_165.jpg,165,2.166977719,0.905516817,2.087696228,0.77152498
+"a female hand holding a red fresh apple, long-shot",sd1.5_lowstep_165.jpg,165,2.29958451,0.479094672,2.51693257,0.401369279
+"a female hand holding a red fresh apple, long-shot",sd1.5_normal_165.jpg,165,1.727765593,0.448468672,2.219265721,0.801773003
+"a female hand holding a red fresh apple, long-shot",xl2.2_normal_165.jpg,165,3.229467639,0.420078448,2.844239553,0.575329421
+"grumpy disney princess sitting in a cave, cold color",AttnGAN_normal_171.jpg,171,1.1267749,0.730365211,0.720129493,0.825266215
+"grumpy disney princess sitting in a cave, cold color",DALLE2_normal_171.jpg,171,1.956116406,0.428474341,2.771702485,1.037614916
+"grumpy disney princess sitting in a cave, cold color",glide_normal_171.jpg,171,0.212533273,0.929852104,0.518653615,0.616824934
+"grumpy disney princess sitting in a cave, cold color",midjourney_lowstep_171.jpg,171,2.444661076,0.270523329,3.202378717,0.599633921
+"grumpy disney princess sitting in a cave, cold color",midjourney_normal_171.jpg,171,3.008458905,0.511018394,2.969682911,0.661814686
+"grumpy disney princess sitting in a cave, cold color",sd1.5_highcorr_171.jpg,171,3.007007681,0.431612519,2.711185223,0.680634317
+"grumpy disney princess sitting in a cave, cold color",sd1.5_lowcorr_171.jpg,171,1.860824639,0.555100191,2.429909143,1.057197034
+"grumpy disney princess sitting in a cave, cold color",sd1.5_lowstep_171.jpg,171,2.45975351,0.514876387,2.31896878,0.717925545
+"grumpy disney princess sitting in a cave, cold color",sd1.5_normal_171.jpg,171,1.851568074,0.300052278,2.430025645,0.806387037
+"grumpy disney princess sitting in a cave, cold color",xl2.2_normal_171.jpg,171,2.18011346,0.523941731,2.49210202,0.337978438
+"art of a mimic from dungeons and dragons, top view",AttnGAN_normal_172.jpg,172,0.940601322,0.307129064,1.101591216,0.223370827
+"art of a mimic from dungeons and dragons, top view",DALLE2_normal_172.jpg,172,3.359435142,0.432799213,1.763328481,1.503791291
+"art of a mimic from dungeons and dragons, top view",glide_normal_172.jpg,172,0.392090064,0.386079014,0.277575547,0.480763569
+"art of a mimic from dungeons and dragons, top view",midjourney_lowstep_172.jpg,172,1.821700312,0.568021286,1.474049467,1.138108673
+"art of a mimic from dungeons and dragons, top view",midjourney_normal_172.jpg,172,3.208047473,0.912775819,3.088169836,0.940454187
+"art of a mimic from dungeons and dragons, top view",sd1.5_highcorr_172.jpg,172,1.92623748,0.659518234,1.995491019,0.863633346
+"art of a mimic from dungeons and dragons, top view",sd1.5_lowcorr_172.jpg,172,2.681789454,0.873922316,2.879719212,1.371679293
+"art of a mimic from dungeons and dragons, top view",sd1.5_lowstep_172.jpg,172,3.490003257,0.670690795,3.220800678,0.431044548
+"art of a mimic from dungeons and dragons, top view",sd1.5_normal_172.jpg,172,1.921352979,1.023334936,2.47896401,0.991874856
+"art of a mimic from dungeons and dragons, top view",xl2.2_normal_172.jpg,172,2.771446817,0.511397973,2.429699357,1.136037706
+"a car crawling with human hands and feet, soft lighting",AttnGAN_normal_178.jpg,178,0.358179955,0.202805781,0.282183064,0.437292499
+"a car crawling with human hands and feet, soft lighting",DALLE2_normal_178.jpg,178,2.410204999,0.914702789,2.211793876,0.768327417
+"a car crawling with human hands and feet, soft lighting",glide_normal_178.jpg,178,0.658485261,0.40438436,0.631037248,0.613450795
+"a car crawling with human hands and feet, soft lighting",midjourney_lowstep_178.jpg,178,2.000906886,0.342485137,3.212187972,0.772762228
+"a car crawling with human hands and feet, soft lighting",midjourney_normal_178.jpg,178,3.305628811,0.563967461,1.574691536,0.666362574
+"a car crawling with human hands and feet, soft lighting",sd1.5_highcorr_178.jpg,178,2.788955814,0.773983212,2.251027408,1.087482857
+"a car crawling with human hands and feet, soft lighting",sd1.5_lowcorr_178.jpg,178,2.326531297,0.622553485,1.297700751,1.313642588
+"a car crawling with human hands and feet, soft lighting",sd1.5_lowstep_178.jpg,178,2.289786403,0.562533891,1.165897295,0.574649773
+"a car crawling with human hands and feet, soft lighting",sd1.5_normal_178.jpg,178,2.018808722,0.776356792,1.848675793,0.679664477
+"a car crawling with human hands and feet, soft lighting",xl2.2_normal_178.jpg,178,2.518413241,0.486194206,1.768493308,0.790450891
+"lobster human hybrid in fashion photography, HDR lighting, baroque style",AttnGAN_normal_189.jpg,189,1.029205605,0.602847094,1.087057329,0.846514544
+"lobster human hybrid in fashion photography, HDR lighting, baroque style",DALLE2_normal_189.jpg,189,2.660597966,0.777615619,2.494876872,1.213585592
+"lobster human hybrid in fashion photography, HDR lighting, baroque style",glide_normal_189.jpg,189,0.885277112,0.68206272,1.13493277,1.056009781
+"lobster human hybrid in fashion photography, HDR lighting, baroque style",midjourney_lowstep_189.jpg,189,2.165778989,0.405877062,2.846322945,0.448191776
+"lobster human hybrid in fashion photography, HDR lighting, baroque style",midjourney_normal_189.jpg,189,3.92415533,0.563133388,3.478508951,0.459725325
+"lobster human hybrid in fashion photography, HDR lighting, baroque style",sd1.5_highcorr_189.jpg,189,2.660597966,0.650760223,3.17765537,0.490796044
+"lobster human hybrid in fashion photography, HDR lighting, baroque style",sd1.5_lowcorr_189.jpg,189,2.869008944,0.529002862,2.723036745,0.822774247
+"lobster human hybrid in fashion photography, HDR lighting, baroque style",sd1.5_lowstep_189.jpg,189,2.869008944,1.03524383,3.1259885,0.802865666
+"lobster human hybrid in fashion photography, HDR lighting, baroque style",sd1.5_normal_189.jpg,189,2.994111578,0.783310141,3.180285613,0.682360181
+"lobster human hybrid in fashion photography, HDR lighting, baroque style",xl2.2_normal_189.jpg,189,3.224958365,0.385756919,3.013304279,0.505007954
+"beautiful ancient temple in a formal garden, top view, realistic style",AttnGAN_normal_192.jpg,192,1.144024742,0.561674132,0.957159937,0.733296098
+"beautiful ancient temple in a formal garden, top view, realistic style",DALLE2_normal_192.jpg,192,3.108728168,0.453790697,3.644083685,0.405556266
+"beautiful ancient temple in a formal garden, top view, realistic style",glide_normal_192.jpg,192,0.879514179,0.741091111,1.732152809,0.829841522
+"beautiful ancient temple in a formal garden, top view, realistic style",midjourney_lowstep_192.jpg,192,1.597692094,0.78038786,3.137696322,0.255024718
+"beautiful ancient temple in a formal garden, top view, realistic style",midjourney_normal_192.jpg,192,3.806813177,0.914128652,3.917578309,0.592072241
+"beautiful ancient temple in a formal garden, top view, realistic style",sd1.5_highcorr_192.jpg,192,3.116981428,0.953992013,3.543429565,0.546592727
+"beautiful ancient temple in a formal garden, top view, realistic style",sd1.5_lowcorr_192.jpg,192,2.689121932,0.975464223,3.299580101,0.351749682
+"beautiful ancient temple in a formal garden, top view, realistic style",sd1.5_lowstep_192.jpg,192,2.883906185,0.51102625,3.296107282,0.389751567
+"beautiful ancient temple in a formal garden, top view, realistic style",sd1.5_normal_192.jpg,192,3.127756575,0.434395421,3.517088733,0.320616138
+"beautiful ancient temple in a formal garden, top view, realistic style",xl2.2_normal_192.jpg,192,3.679751519,0.863573691,3.137840023,0.446891223
+"robots creating new robots in a dirty factory, blurred detail, sci-fi style",AttnGAN_normal_206.jpg,206,0.835064117,0.510766205,1.251244608,1.016827963
+"robots creating new robots in a dirty factory, blurred detail, sci-fi style",DALLE2_normal_206.jpg,206,2.279437086,0.71803431,2.612101025,0.390970008
+"robots creating new robots in a dirty factory, blurred detail, sci-fi style",glide_normal_206.jpg,206,2.110310349,0.537681038,2.337752646,0.866421325
+"robots creating new robots in a dirty factory, blurred detail, sci-fi style",midjourney_lowstep_206.jpg,206,0.892112049,0.411356696,1.958408052,0.902429791
+"robots creating new robots in a dirty factory, blurred detail, sci-fi style",midjourney_normal_206.jpg,206,3.773032655,0.646315929,3.506852145,0.574936621
+"robots creating new robots in a dirty factory, blurred detail, sci-fi style",sd1.5_highcorr_206.jpg,206,3.424268421,0.554961227,2.772204703,0.699949391
+"robots creating new robots in a dirty factory, blurred detail, sci-fi style",sd1.5_lowcorr_206.jpg,206,3.093256891,0.544250754,2.936364145,0.949780321
+"robots creating new robots in a dirty factory, blurred detail, sci-fi style",sd1.5_lowstep_206.jpg,206,3.897509797,0.399920436,3.547400398,0.205362502
+"robots creating new robots in a dirty factory, blurred detail, sci-fi style",sd1.5_normal_206.jpg,206,3.116324583,0.570014174,2.467831921,0.37984452
+"robots creating new robots in a dirty factory, blurred detail, sci-fi style",xl2.2_normal_206.jpg,206,3.630412823,0.338038788,2.531454291,0.761353388
+"an astronaut meeting an alien lizard humanoid, warm color, anime style",AttnGAN_normal_210.jpg,210,0.995940844,0.80868626,0.534118347,0.481055849
+"an astronaut meeting an alien lizard humanoid, warm color, anime style",DALLE2_normal_210.jpg,210,2.568394371,0.5018834,3.808121173,0.433854924
+"an astronaut meeting an alien lizard humanoid, warm color, anime style",glide_normal_210.jpg,210,1.030204609,0.225210892,1.474049467,0.583022954
+"an astronaut meeting an alien lizard humanoid, warm color, anime style",midjourney_lowstep_210.jpg,210,2.545997226,0.60825879,3.581040815,0.75622726
+"an astronaut meeting an alien lizard humanoid, warm color, anime style",midjourney_normal_210.jpg,210,3.241312234,0.625474257,3.167161119,0.98086409
+"an astronaut meeting an alien lizard humanoid, warm color, anime style",sd1.5_highcorr_210.jpg,210,2.641051786,0.628255434,3.31387068,0.447921089
+"an astronaut meeting an alien lizard humanoid, warm color, anime style",sd1.5_lowcorr_210.jpg,210,2.546528083,0.57618922,2.965504258,0.435477286
+"an astronaut meeting an alien lizard humanoid, warm color, anime style",sd1.5_lowstep_210.jpg,210,2.315150439,0.740447019,2.946511745,0.679642789
+"an astronaut meeting an alien lizard humanoid, warm color, anime style",sd1.5_normal_210.jpg,210,2.687102292,0.363706494,2.828703007,0.579483185
+"an astronaut meeting an alien lizard humanoid, warm color, anime style",xl2.2_normal_210.jpg,210,2.476222723,0.426678069,3.430465396,0.573933188
+"render of rivendell dreamy beautiful landscape, close-up, baroque style",AttnGAN_normal_214.jpg,214,1.403283136,0.38536901,1.459434787,0.736882551
+"render of rivendell dreamy beautiful landscape, close-up, baroque style",DALLE2_normal_214.jpg,214,3.088457462,0.43190077,3.17765537,1.018208869
+"render of rivendell dreamy beautiful landscape, close-up, baroque style",glide_normal_214.jpg,214,0.949159982,0.257724702,1.226859661,0.507222511
+"render of rivendell dreamy beautiful landscape, close-up, baroque style",midjourney_lowstep_214.jpg,214,2.304048386,0.440649355,2.799688701,0.57602728
+"render of rivendell dreamy beautiful landscape, close-up, baroque style",midjourney_normal_214.jpg,214,4.464997282,0.378728301,3.646722598,0.460966484
+"render of rivendell dreamy beautiful landscape, close-up, baroque style",sd1.5_highcorr_214.jpg,214,3.92415533,0.4778574,3.752111454,0.67977502
+"render of rivendell dreamy beautiful landscape, close-up, baroque style",sd1.5_lowcorr_214.jpg,214,3.544604966,0.669009839,3.398708221,0.494557187
+"render of rivendell dreamy beautiful landscape, close-up, baroque style",sd1.5_lowstep_214.jpg,214,4.04445907,0.644511469,3.417262215,0.442665249
+"render of rivendell dreamy beautiful landscape, close-up, baroque style",sd1.5_normal_214.jpg,214,3.897509797,0.56040357,3.696383698,0.44095303
+"render of rivendell dreamy beautiful landscape, close-up, baroque style",xl2.2_normal_214.jpg,214,3.279275256,0.817314855,2.924247568,1.081603661
+"a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style",AttnGAN_normal_219.jpg,219,0.829617037,0.725011979,0.863248694,0.592266671
+"a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style",DALLE2_normal_219.jpg,219,2.299764158,0.594139599,2.983770234,0.527249999
+"a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style",glide_normal_219.jpg,219,1.22513052,0.808635242,1.791293517,0.906282788
+"a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style",midjourney_lowstep_219.jpg,219,3.25960126,0.322680446,2.458299452,1.207643851
+"a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style",midjourney_normal_219.jpg,219,4.029366636,0.573193365,2.880053469,1.041531448
+"a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style",sd1.5_highcorr_219.jpg,219,2.602757767,0.585039516,2.600700921,0.847527909
+"a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style",sd1.5_lowcorr_219.jpg,219,3.507253099,0.653955332,2.817848923,1.031504702
+"a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style",sd1.5_lowstep_219.jpg,219,2.912021026,0.540575667,2.726102068,1.112336752
+"a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style",sd1.5_normal_219.jpg,219,3.440761714,0.40002291,2.856177525,0.966937869
+"a brand logo of henry cavill as a catholic nun, HDR lighting, baroque style",xl2.2_normal_219.jpg,219,3.91009791,0.60417066,3.10230551,0.930004701
+"sparkling heart blue mana tree inside a marble, warm color, top view",AttnGAN_normal_220.jpg,220,0.920636016,0.605438816,0.775738154,0.739626014
+"sparkling heart blue mana tree inside a marble, warm color, top view",DALLE2_normal_220.jpg,220,2.505259558,0.771371847,2.946511745,0.956436274
+"sparkling heart blue mana tree inside a marble, warm color, top view",glide_normal_220.jpg,220,1.106599613,0.760343383,1.710849874,1.233679756
+"sparkling heart blue mana tree inside a marble, warm color, top view",midjourney_lowstep_220.jpg,220,2.478101113,0.678113494,3.024436368,0.926457107
+"sparkling heart blue mana tree inside a marble, warm color, top view",midjourney_normal_220.jpg,220,3.800500414,0.531849952,3.102285456,0.92265506
+"sparkling heart blue mana tree inside a marble, warm color, top view",sd1.5_highcorr_220.jpg,220,2.503716151,0.566916287,2.10471773,0.856300491
+"sparkling heart blue mana tree inside a marble, warm color, top view",sd1.5_lowcorr_220.jpg,220,2.565400547,0.453084415,3.1665648,0.447491114
+"sparkling heart blue mana tree inside a marble, warm color, top view",sd1.5_lowstep_220.jpg,220,2.90305168,0.699357871,3.214232789,0.721112522
+"sparkling heart blue mana tree inside a marble, warm color, top view",sd1.5_normal_220.jpg,220,2.363781612,1.086270767,2.395499044,0.771380807
+"sparkling heart blue mana tree inside a marble, warm color, top view",xl2.2_normal_220.jpg,220,3.052595235,0.945729956,2.999704571,0.442978559
+"interior of cosmic highway created by the gods, cold color, top view",AttnGAN_normal_222.jpg,222,0.970807385,1.059752382,0.653301426,0.533368493
+"interior of cosmic highway created by the gods, cold color, top view",DALLE2_normal_222.jpg,222,1.120303781,0.571813668,1.726751061,1.125012818
+"interior of cosmic highway created by the gods, cold color, top view",glide_normal_222.jpg,222,1.461647503,0.595324829,1.389857248,1.102855681
+"interior of cosmic highway created by the gods, cold color, top view",midjourney_lowstep_222.jpg,222,1.3429134,0.502555949,3.094936968,0.636551644
+"interior of cosmic highway created by the gods, cold color, top view",midjourney_normal_222.jpg,222,3.024480393,0.920084687,3.410108325,0.421397505
+"interior of cosmic highway created by the gods, cold color, top view",sd1.5_highcorr_222.jpg,222,3.108253189,0.823332793,3.114500264,0.489105108
+"interior of cosmic highway created by the gods, cold color, top view",sd1.5_lowcorr_222.jpg,222,1.991888058,1.144725849,3.094936968,0.940674948
+"interior of cosmic highway created by the gods, cold color, top view",sd1.5_lowstep_222.jpg,222,2.875399859,1.0679301,2.943352484,1.246660021
+"interior of cosmic highway created by the gods, cold color, top view",sd1.5_normal_222.jpg,222,3.136939761,0.828865183,3.239106761,0.799061433
+"interior of cosmic highway created by the gods, cold color, top view",xl2.2_normal_222.jpg,222,2.403882268,0.436626732,2.689956442,0.498495305
+"small group of nomads staying at ancient ruins, cold color, elevation view",AttnGAN_normal_223.jpg,223,0.779719895,0.815564871,1.389857248,1.377402426
+"small group of nomads staying at ancient ruins, cold color, elevation view",DALLE2_normal_223.jpg,223,2.40326321,0.875915711,2.900809578,0.951452433
+"small group of nomads staying at ancient ruins, cold color, elevation view",glide_normal_223.jpg,223,1.853456865,0.523761349,2.011416275,0.742171718
+"small group of nomads staying at ancient ruins, cold color, elevation view",midjourney_lowstep_223.jpg,223,1.49383774,0.364534678,2.235402975,0.898426306
+"small group of nomads staying at ancient ruins, cold color, elevation view",midjourney_normal_223.jpg,223,3.25960126,0.457573012,3.031345691,0.665080209
+"small group of nomads staying at ancient ruins, cold color, elevation view",sd1.5_highcorr_223.jpg,223,3.442225929,0.842234152,2.701605789,1.023385486
+"small group of nomads staying at ancient ruins, cold color, elevation view",sd1.5_lowcorr_223.jpg,223,2.625770283,0.46352709,2.557728222,0.925736259
+"small group of nomads staying at ancient ruins, cold color, elevation view",sd1.5_lowstep_223.jpg,223,3.033265998,0.472668359,2.390596612,0.833934141
+"small group of nomads staying at ancient ruins, cold color, elevation view",sd1.5_normal_223.jpg,223,3.075586915,1.003221948,2.957643834,0.761789044
+"small group of nomads staying at ancient ruins, cold color, elevation view",xl2.2_normal_223.jpg,223,3.273863243,0.412937897,3.080115584,0.331007859
+"lovers being pulled apart across space and time, warm color, close-up",AttnGAN_normal_224.jpg,224,0.633569007,0.324871463,0.778970376,0.585130533
+"lovers being pulled apart across space and time, warm color, close-up",DALLE2_normal_224.jpg,224,2.837204233,0.933402234,2.54176312,1.359857998
+"lovers being pulled apart across space and time, warm color, close-up",glide_normal_224.jpg,224,0.712778692,0.706895287,0.791238626,0.603517472
+"lovers being pulled apart across space and time, warm color, close-up",midjourney_lowstep_224.jpg,224,1.744397974,0.349500081,2.75903949,0.63985891
+"lovers being pulled apart across space and time, warm color, close-up",midjourney_normal_224.jpg,224,3.869499782,0.717158572,3.1259885,1.00234475
+"lovers being pulled apart across space and time, warm color, close-up",sd1.5_highcorr_224.jpg,224,2.38429134,0.587029487,2.354782696,1.179384133
+"lovers being pulled apart across space and time, warm color, close-up",sd1.5_lowcorr_224.jpg,224,1.719307075,0.488953701,1.482901598,0.807591638
+"lovers being pulled apart across space and time, warm color, close-up",sd1.5_lowstep_224.jpg,224,2.006516843,0.425419753,2.379342601,1.055086869
+"lovers being pulled apart across space and time, warm color, close-up",sd1.5_normal_224.jpg,224,2.996365552,0.466039685,1.472090597,0.594005905
+"lovers being pulled apart across space and time, warm color, close-up",xl2.2_normal_224.jpg,224,3.502432704,0.403447373,2.965504258,1.10720733
+"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",AttnGAN_normal_227.jpg,227,1.337589887,0.687628083,0.970486009,0.959774082
+"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",DALLE2_normal_227.jpg,227,1.851568074,0.24652529,3.299094897,0.491717271
+"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",glide_normal_227.jpg,227,1.661236071,0.867837434,2.258761363,0.834957249
+"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",midjourney_lowstep_227.jpg,227,2.437762894,0.458237405,2.782294356,0.568245665
+"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",midjourney_normal_227.jpg,227,3.365299544,0.360563493,2.641294027,0.794735308
+"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",sd1.5_highcorr_227.jpg,227,2.654631009,0.740134455,2.345378943,1.012924831
+"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",sd1.5_lowcorr_227.jpg,227,2.939794687,0.702781828,3.068964724,0.422895166
+"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",sd1.5_lowstep_227.jpg,227,2.701232452,0.446919051,2.366720668,0.539459209
+"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",sd1.5_normal_227.jpg,227,2.269716748,0.444607835,2.66591587,0.563242349
+"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",xl2.2_normal_227.jpg,227,3.214375205,0.497681183,3.094936968,0.465359536
+"a mechanical human arm sticking out of the earth, cold color, soft lighting",AttnGAN_normal_234.jpg,234,1.075025374,0.622999339,0.755684059,0.706923496
+"a mechanical human arm sticking out of the earth, cold color, soft lighting",DALLE2_normal_234.jpg,234,3.197799919,0.614317944,2.456699832,0.568389648
+"a mechanical human arm sticking out of the earth, cold color, soft lighting",glide_normal_234.jpg,234,0.0,0.326496617,0.205947714,0.446993742
+"a mechanical human arm sticking out of the earth, cold color, soft lighting",midjourney_lowstep_234.jpg,234,2.791787056,0.570871875,2.736797804,0.572117555
+"a mechanical human arm sticking out of the earth, cold color, soft lighting",midjourney_normal_234.jpg,234,3.999181768,0.593132127,3.453076131,0.421515219
+"a mechanical human arm sticking out of the earth, cold color, soft lighting",sd1.5_highcorr_234.jpg,234,2.526119865,0.669948882,2.456239571,0.852401309
+"a mechanical human arm sticking out of the earth, cold color, soft lighting",sd1.5_lowcorr_234.jpg,234,2.81361908,0.561917256,3.079505301,0.79384957
+"a mechanical human arm sticking out of the earth, cold color, soft lighting",sd1.5_lowstep_234.jpg,234,3.419625599,0.459340626,2.343118719,0.798032767
+"a mechanical human arm sticking out of the earth, cold color, soft lighting",sd1.5_normal_234.jpg,234,3.193169444,0.339580703,2.885703528,0.582262946
+"a mechanical human arm sticking out of the earth, cold color, soft lighting",xl2.2_normal_234.jpg,234,3.598832173,0.677323496,3.808121173,0.504004358
+"a saint noble high priestess pray for god in church, elevation view, HDR lighting",AttnGAN_normal_247.jpg,247,1.077517831,0.332206581,0.726968261,0.556614721
+"a saint noble high priestess pray for god in church, elevation view, HDR lighting",DALLE2_normal_247.jpg,247,1.493154926,0.470406429,2.218965969,0.779356992
+"a saint noble high priestess pray for god in church, elevation view, HDR lighting",glide_normal_247.jpg,247,0.358179955,0.247640471,0.59256494,0.375937078
+"a saint noble high priestess pray for god in church, elevation view, HDR lighting",midjourney_lowstep_247.jpg,247,1.161274584,0.870232351,1.739360402,0.993663214
+"a saint noble high priestess pray for god in church, elevation view, HDR lighting",midjourney_normal_247.jpg,247,3.766000729,0.645519275,3.280058289,0.92802827
+"a saint noble high priestess pray for god in church, elevation view, HDR lighting",sd1.5_highcorr_247.jpg,247,2.610261314,0.302305892,2.971918712,0.493376819
+"a saint noble high priestess pray for god in church, elevation view, HDR lighting",sd1.5_lowcorr_247.jpg,247,3.252116811,1.167819683,3.057832635,1.319926117
+"a saint noble high priestess pray for god in church, elevation view, HDR lighting",sd1.5_lowstep_247.jpg,247,2.193472252,0.73513259,2.75903949,0.673630312
+"a saint noble high priestess pray for god in church, elevation view, HDR lighting",sd1.5_normal_247.jpg,247,2.776694622,0.592133389,2.891991441,0.405324674
+"a saint noble high priestess pray for god in church, elevation view, HDR lighting",xl2.2_normal_247.jpg,247,3.30015455,0.235737977,2.740407521,0.595617653
+"a female elven warrior wearing platinum breastplate, close-up, hyper detail",AttnGAN_normal_249.jpg,249,1.023275848,0.78311138,0.826793192,1.132046526
+"a female elven warrior wearing platinum breastplate, close-up, hyper detail",DALLE2_normal_249.jpg,249,3.546408751,0.753408231,3.536641936,0.509586313
+"a female elven warrior wearing platinum breastplate, close-up, hyper detail",glide_normal_249.jpg,249,0.617747593,0.413010783,0.720093959,1.049281717
+"a female elven warrior wearing platinum breastplate, close-up, hyper detail",midjourney_lowstep_249.jpg,249,3.091620808,0.63233062,3.364639327,0.541394703
+"a female elven warrior wearing platinum breastplate, close-up, hyper detail",midjourney_normal_249.jpg,249,4.303705695,0.232726161,4.048514165,0.108741359
+"a female elven warrior wearing platinum breastplate, close-up, hyper detail",sd1.5_highcorr_249.jpg,249,3.662501677,0.747053581,3.635603955,0.294447357
+"a female elven warrior wearing platinum breastplate, close-up, hyper detail",sd1.5_lowcorr_249.jpg,249,3.315088431,0.624011011,3.584646223,0.35334884
+"a female elven warrior wearing platinum breastplate, close-up, hyper detail",sd1.5_lowstep_249.jpg,249,2.692443672,0.960605471,3.535787107,0.522540888
+"a female elven warrior wearing platinum breastplate, close-up, hyper detail",sd1.5_normal_249.jpg,249,3.811695963,0.480746968,3.797711871,0.320823892
+"a female elven warrior wearing platinum breastplate, close-up, hyper detail",xl2.2_normal_249.jpg,249,3.673198773,0.41221721,3.750701609,0.310405151
+"magician god holding a divine staff character design, long-shot, HDR lighting",AttnGAN_normal_255.jpg,255,1.361853219,0.871962271,1.152883399,0.764076207
+"magician god holding a divine staff character design, long-shot, HDR lighting",DALLE2_normal_255.jpg,255,2.260001775,0.635923139,2.706378634,0.986626774
+"magician god holding a divine staff character design, long-shot, HDR lighting",glide_normal_255.jpg,255,1.020469898,0.211483272,1.03178009,0.82341782
+"magician god holding a divine staff character design, long-shot, HDR lighting",midjourney_lowstep_255.jpg,255,2.908664621,0.518701952,3.153995905,0.363712287
+"magician god holding a divine staff character design, long-shot, HDR lighting",midjourney_normal_255.jpg,255,3.881983068,0.563046041,3.478508951,0.847712537
+"magician god holding a divine staff character design, long-shot, HDR lighting",sd1.5_highcorr_255.jpg,255,3.591686053,0.498708814,3.118812912,0.76607895
+"magician god holding a divine staff character design, long-shot, HDR lighting",sd1.5_lowcorr_255.jpg,255,2.260833548,0.684464797,2.089340898,0.582340874
+"magician god holding a divine staff character design, long-shot, HDR lighting",sd1.5_lowstep_255.jpg,255,2.960099613,0.54687816,3.10450053,0.379365086
+"magician god holding a divine staff character design, long-shot, HDR lighting",sd1.5_normal_255.jpg,255,2.886258786,0.521919991,3.102285456,0.832577891
+"magician god holding a divine staff character design, long-shot, HDR lighting",xl2.2_normal_255.jpg,255,3.464427243,0.311960804,3.050789396,0.443901522
+"a blue anatomically correct human brain made of metal, warm color, long-shot, anime style",AttnGAN_normal_265.jpg,265,1.69003938,0.651399117,0.57602485,0.754401443
+"a blue anatomically correct human brain made of metal, warm color, long-shot, anime style",DALLE2_normal_265.jpg,265,2.831741764,0.866778317,2.885036013,1.009004798
+"a blue anatomically correct human brain made of metal, warm color, long-shot, anime style",glide_normal_265.jpg,265,0.648776263,0.624969346,1.232688407,0.944037948
+"a blue anatomically correct human brain made of metal, warm color, long-shot, anime style",midjourney_lowstep_265.jpg,265,2.837064357,0.347782726,2.271216891,0.709796297
+"a blue anatomically correct human brain made of metal, warm color, long-shot, anime style",midjourney_normal_265.jpg,265,3.787887693,0.464648309,2.808425637,0.605640016
+"a blue anatomically correct human brain made of metal, warm color, long-shot, anime style",sd1.5_highcorr_265.jpg,265,2.89203224,0.736669037,3.048674194,0.447396794
+"a blue anatomically correct human brain made of metal, warm color, long-shot, anime style",sd1.5_lowcorr_265.jpg,265,3.380391978,0.560175467,2.295092835,0.789286019
+"a blue anatomically correct human brain made of metal, warm color, long-shot, anime style",sd1.5_lowstep_265.jpg,265,2.671047584,0.480231143,2.438348501,0.687816043
+"a blue anatomically correct human brain made of metal, warm color, long-shot, anime style",sd1.5_normal_265.jpg,265,2.897963605,0.676657901,3.033904884,0.468955012
+"a blue anatomically correct human brain made of metal, warm color, long-shot, anime style",xl2.2_normal_265.jpg,265,2.917313663,0.68501669,2.616801603,0.61912287
+"portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style",AttnGAN_normal_276.jpg,276,0.333282167,1.012071377,0.530505137,0.782302106
+"portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style",DALLE2_normal_276.jpg,276,3.127756575,0.40728673,3.197097634,0.444713521
+"portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style",glide_normal_276.jpg,276,0.64666085,0.894124488,0.44196185,0.495494588
+"portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style",midjourney_lowstep_276.jpg,276,2.343163678,0.566556845,3.10133505,0.746803021
+"portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style",midjourney_normal_276.jpg,276,3.361858495,0.475661667,3.307507387,0.438398863
+"portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style",sd1.5_highcorr_276.jpg,276,3.106014094,0.404474282,3.249433797,0.543804036
+"portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style",sd1.5_lowcorr_276.jpg,276,3.255352906,0.405849614,3.075619946,0.557972363
+"portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style",sd1.5_lowstep_276.jpg,276,3.490797944,0.456442401,3.483126252,0.467695065
+"portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style",sd1.5_normal_276.jpg,276,3.007690801,0.373097672,3.024436368,0.443565104
+"portrait photo still of a spooky scarecrow holding a gift, top view, close-up, sci-fi style",xl2.2_normal_276.jpg,276,3.487792991,0.518903921,3.348349994,0.488046156
+"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",AttnGAN_normal_278.jpg,278,1.213024111,0.765827455,1.146784292,0.559434403
+"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",DALLE2_normal_278.jpg,278,2.03716536,0.892695472,2.963619274,0.542330761
+"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",glide_normal_278.jpg,278,0.962676083,0.63218653,1.363526821,1.107640991
+"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",midjourney_lowstep_278.jpg,278,2.093677968,0.537264045,2.69321342,1.134503783
+"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",midjourney_normal_278.jpg,278,3.703369342,0.193081381,2.628670045,0.650331085
+"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",sd1.5_highcorr_278.jpg,278,0.402281536,0.936608861,1.289002558,0.918706739
+"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",sd1.5_lowcorr_278.jpg,278,1.991888058,0.755173968,2.139899198,1.044993347
+"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",sd1.5_lowstep_278.jpg,278,0.385031694,0.855643322,1.111229725,1.261092143
+"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",sd1.5_normal_278.jpg,278,1.195529412,0.671266546,1.271370324,0.988600133
+"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",xl2.2_normal_278.jpg,278,2.674859949,0.833010092,2.714341389,0.50291785
+"table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style",AttnGAN_normal_279.jpg,279,0.807856712,0.480739002,0.686697692,0.656415613
+"table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style",DALLE2_normal_279.jpg,279,3.380391978,0.444697498,3.250130605,0.676990096
+"table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style",glide_normal_279.jpg,279,1.433419401,0.387883881,1.474049467,0.740913843
+"table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style",midjourney_lowstep_279.jpg,279,2.015840767,0.453640001,2.243796519,0.95157314
+"table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style",midjourney_normal_279.jpg,279,3.636963354,0.566993432,2.247340947,1.014008811
+"table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style",sd1.5_highcorr_279.jpg,279,3.748170985,0.335835783,2.36794927,0.674209213
+"table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style",sd1.5_lowcorr_279.jpg,279,3.787294638,0.573444631,2.714341389,0.771357305
+"table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style",sd1.5_lowstep_279.jpg,279,3.607224609,0.655867994,3.10133505,0.56556746
+"table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style",sd1.5_normal_279.jpg,279,2.817259418,0.737041314,2.983770234,0.612273077
+"table with everything ready for 5 o'clock at flower garden, elevation view, long-shot, baroque style",xl2.2_normal_279.jpg,279,3.202553327,0.429890285,2.958190852,0.421696568
+"portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style",AttnGAN_normal_284.jpg,284,0.471280904,0.806520672,0.838644715,1.223485228
+"portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style",DALLE2_normal_284.jpg,284,3.593502309,0.572867664,3.149691545,0.91716994
+"portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style",glide_normal_284.jpg,284,1.674967988,0.30844882,1.073086947,0.881208523
+"portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style",midjourney_lowstep_284.jpg,284,3.257944615,0.880477753,2.798535131,0.409651362
+"portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style",midjourney_normal_284.jpg,284,4.074643938,0.355213159,3.047185079,0.668757726
+"portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style",sd1.5_highcorr_284.jpg,284,3.041723666,1.132024565,3.311978472,0.552273736
+"portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style",sd1.5_lowcorr_284.jpg,284,2.882005876,0.633346626,2.69074642,0.377229779
+"portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style",sd1.5_lowstep_284.jpg,284,3.712425524,0.475550673,3.071061023,0.627127389
+"portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style",sd1.5_normal_284.jpg,284,1.927354161,0.442276877,1.94279623,0.863083716
+"portrait of beautiful female supermodel wearing olive dress, top view, soft lighting, baroque style",xl2.2_normal_284.jpg,284,3.464427243,0.373479574,3.075619946,0.801164926
+"portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style",AttnGAN_normal_285.jpg,285,0.701659223,0.214206127,0.282183064,0.454799827
+"portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style",DALLE2_normal_285.jpg,285,3.106014094,0.603588701,2.71557697,0.534590072
+"portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style",glide_normal_285.jpg,285,1.299273321,0.596363961,1.051972114,0.636979993
+"portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style",midjourney_lowstep_285.jpg,285,3.075586915,0.373662,2.935379657,0.543694987
+"portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style",midjourney_normal_285.jpg,285,3.958236395,0.589043144,3.358399036,0.846709252
+"portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style",sd1.5_highcorr_285.jpg,285,0.378680654,0.388339056,0.812315573,0.771276147
+"portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style",sd1.5_lowcorr_285.jpg,285,1.877457019,0.457369622,2.245596149,0.759898991
+"portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style",sd1.5_lowstep_285.jpg,285,2.309898917,0.330275485,2.429909143,0.74963559
+"portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style",sd1.5_normal_285.jpg,285,2.135311817,0.378319296,2.49210202,0.391433308
+"portrait of an aesthetic kawaii goth woman with long dreads, top view, HDR lighting, anime style",xl2.2_normal_285.jpg,285,2.996365552,0.686775733,2.86290332,0.889128995
+"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",AttnGAN_normal_288.jpg,288,0.835015157,0.253986757,0.931603649,0.663803839
+"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",DALLE2_normal_288.jpg,288,2.339014038,1.01514267,2.784549692,0.717410768
+"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",glide_normal_288.jpg,288,0.058364586,0.319636166,0.537282046,0.547588214
+"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",midjourney_lowstep_288.jpg,288,2.96825071,0.713925119,3.10230551,1.036185438
+"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",midjourney_normal_288.jpg,288,2.903508628,1.168859904,3.374870467,0.505269732
+"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",sd1.5_highcorr_288.jpg,288,1.750409116,0.348306235,2.474162417,1.02075112
+"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",sd1.5_lowcorr_288.jpg,288,2.196265106,0.554196102,3.054879367,0.637238784
+"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",sd1.5_lowstep_288.jpg,288,2.632073999,0.63039679,3.238617735,0.397711603
+"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",sd1.5_normal_288.jpg,288,2.760431848,1.167021667,3.238617735,0.751991116
+"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",xl2.2_normal_288.jpg,288,2.746169865,0.574004782,3.116693004,0.400244343

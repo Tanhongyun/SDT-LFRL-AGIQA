@@ -1,0 +1,597 @@
+﻿prompt,image_name,index,quality_score,std_quality,mos_align,std_align
+a river in a forest,AttnGAN_normal_006.jpg,6,1.062470367,0.665815742,0.626274844,0.998303735
+a river in a forest,DALLE2_normal_006.jpg,6,3.330022312,0.851156854,3.944689199,0.593399912
+a river in a forest,glide_normal_006.jpg,6,1.343816114,0.329223598,3.112865772,0.915899406
+a river in a forest,midjourney_lowstep_006.jpg,6,1.445015122,0.644375539,1.837474519,1.33223782
+a river in a forest,midjourney_normal_006.jpg,6,3.756916035,0.744029567,3.930743523,0.750581128
+a river in a forest,sd1.5_highcorr_006.jpg,6,3.896040489,0.518657969,3.831912184,0.706517961
+a river in a forest,sd1.5_lowcorr_006.jpg,6,3.502054974,0.51933781,3.994551072,0.582417049
+a river in a forest,sd1.5_lowstep_006.jpg,6,3.460260441,1.10483099,3.603910098,1.170851153
+a river in a forest,sd1.5_normal_006.jpg,6,3.263456549,0.567213654,3.615310202,0.530166825
+a river in a forest,xl2.2_normal_006.jpg,6,3.572719808,0.386334369,3.831912184,0.396420043
+the prince of the sun,AttnGAN_normal_011.jpg,11,1.373098268,0.432051187,0.647652682,0.72337619
+the prince of the sun,DALLE2_normal_011.jpg,11,3.430745058,0.365402584,0.983010198,0.671414952
+the prince of the sun,glide_normal_011.jpg,11,1.719307075,1.034112523,1.848675793,0.983798401
+the prince of the sun,midjourney_lowstep_011.jpg,11,2.315150439,0.708509956,3.080096813,0.88535704
+the prince of the sun,midjourney_normal_011.jpg,11,3.825753384,0.835835845,3.113705614,1.275609717
+the prince of the sun,sd1.5_highcorr_011.jpg,11,2.742340814,0.790415043,3.430465396,0.794066568
+the prince of the sun,sd1.5_lowcorr_011.jpg,11,3.116324583,0.41998477,2.979908012,0.639901652
+the prince of the sun,sd1.5_lowstep_011.jpg,11,1.977251303,0.616732069,2.11394401,0.853111778
+the prince of the sun,sd1.5_normal_011.jpg,11,2.203182133,0.422209804,2.486100389,1.168908991
+the prince of the sun,xl2.2_normal_011.jpg,11,3.524062705,1.060968213,3.627943604,0.606038082
+everything is a dream,AttnGAN_normal_013.jpg,13,1.230273953,0.54561589,1.146784292,1.117565554
+everything is a dream,DALLE2_normal_013.jpg,13,3.010422973,0.389494056,1.18708799,1.160976524
+everything is a dream,glide_normal_013.jpg,13,0.862881799,0.757172769,1.231874682,0.931758647
+everything is a dream,midjourney_lowstep_013.jpg,13,0.862881799,0.786103358,1.047561688,0.706540313
+everything is a dream,midjourney_normal_013.jpg,13,4.119921239,0.553005726,3.512765992,0.687413695
+everything is a dream,sd1.5_highcorr_013.jpg,13,0.120426254,0.422839449,1.650442341,1.464131141
+everything is a dream,sd1.5_lowcorr_013.jpg,13,2.771446817,0.730046325,2.669101547,0.649559483
+everything is a dream,sd1.5_lowstep_013.jpg,13,2.67293154,0.64884122,3.646722598,0.698647445
+everything is a dream,sd1.5_normal_013.jpg,13,2.874527714,0.705562312,2.616801603,0.453937889
+everything is a dream,xl2.2_normal_013.jpg,13,4.31612288,0.23337979,2.187651086,1.212306542
+tragedy of the commons,AttnGAN_normal_017.jpg,17,1.006207915,0.554580887,0.751353207,0.657638334
+tragedy of the commons,DALLE2_normal_017.jpg,17,2.939794687,0.379931977,2.055944631,0.907742704
+tragedy of the commons,glide_normal_017.jpg,17,1.391281461,0.405474968,0.666005895,0.590813802
+tragedy of the commons,midjourney_lowstep_017.jpg,17,1.910721781,0.744763119,1.653161525,1.26287672
+tragedy of the commons,midjourney_normal_017.jpg,17,3.252116811,1.194628036,3.280474413,0.363547724
+tragedy of the commons,sd1.5_highcorr_017.jpg,17,2.396625776,0.914284139,1.510472273,0.878983413
+tragedy of the commons,sd1.5_lowcorr_017.jpg,17,2.80733647,0.886549681,3.112865772,0.709039588
+tragedy of the commons,sd1.5_lowstep_017.jpg,17,2.166977719,0.845650652,1.700092683,1.144708255
+tragedy of the commons,sd1.5_normal_017.jpg,17,2.429568642,0.784404918,1.495248703,1.499120066
+tragedy of the commons,xl2.2_normal_017.jpg,17,3.835000098,0.614133655,1.087526681,1.207144479
+big boss eating dinner,AttnGAN_normal_019.jpg,19,0.821435934,0.777334433,1.02066036,1.93353151
+big boss eating dinner,DALLE2_normal_019.jpg,19,2.729274555,0.421459155,3.489909055,0.744348527
+big boss eating dinner,glide_normal_019.jpg,19,0.763754201,0.355813306,0.739160734,0.662631083
+big boss eating dinner,midjourney_lowstep_019.jpg,19,2.29958451,0.356486417,3.659137873,0.615620901
+big boss eating dinner,midjourney_normal_019.jpg,19,3.657121751,0.549470473,3.377804541,0.816266287
+big boss eating dinner,sd1.5_highcorr_019.jpg,19,2.640862716,0.610255337,2.354782696,1.159090147
+big boss eating dinner,sd1.5_lowcorr_019.jpg,19,2.010516065,0.427383526,2.838030773,0.912261298
+big boss eating dinner,sd1.5_lowstep_019.jpg,19,0.298444431,0.317696732,2.355533995,1.208614768
+big boss eating dinner,sd1.5_normal_019.jpg,19,2.179358212,0.431085844,2.389907299,1.077244433
+big boss eating dinner,xl2.2_normal_019.jpg,19,3.369254363,0.579101221,2.960067189,1.009931205
+an emo portrait painting,AttnGAN_normal_032.jpg,32,1.057775532,0.612666679,0.803090148,0.525455468
+an emo portrait painting,DALLE2_normal_032.jpg,32,2.478791084,1.026343194,2.777653346,0.550424752
+an emo portrait painting,glide_normal_032.jpg,32,1.55289045,0.22121462,1.585786942,1.307099671
+an emo portrait painting,midjourney_lowstep_032.jpg,32,2.941741401,0.528265518,2.579008945,0.442937276
+an emo portrait painting,midjourney_normal_032.jpg,32,3.195617381,0.608302957,2.603839495,0.805435538
+an emo portrait painting,sd1.5_highcorr_032.jpg,32,2.389620285,0.517439159,2.653379023,1.355114235
+an emo portrait painting,sd1.5_lowcorr_032.jpg,32,3.240419025,0.585332937,2.951467196,0.381386511
+an emo portrait painting,sd1.5_lowstep_032.jpg,32,2.274412771,0.587751302,2.389907299,0.734107688
+an emo portrait painting,sd1.5_normal_032.jpg,32,2.355888108,0.526639961,2.824058767,0.538260639
+an emo portrait painting,xl2.2_normal_032.jpg,32,3.150997182,0.228452955,3.432908534,0.809430058
+demon queen with red eyes,AttnGAN_normal_037.jpg,37,1.134741777,0.172072178,0.803624615,0.583353591
+demon queen with red eyes,DALLE2_normal_037.jpg,37,3.645914271,0.651330986,3.658965437,0.455270145
+demon queen with red eyes,glide_normal_037.jpg,37,0.991945932,0.582904548,0.422156431,0.428829097
+demon queen with red eyes,midjourney_lowstep_037.jpg,37,2.972896262,0.545480585,3.238192633,0.632500712
+demon queen with red eyes,midjourney_normal_037.jpg,37,4.305784597,0.824311773,4.128221731,0.467201257
+demon queen with red eyes,sd1.5_highcorr_037.jpg,37,0.550374317,0.336533677,0.970486009,0.528936184
+demon queen with red eyes,sd1.5_lowcorr_037.jpg,37,0.578489159,0.338629699,1.289688929,1.503517138
+demon queen with red eyes,sd1.5_lowstep_037.jpg,37,3.024257523,0.464251279,3.102285456,0.460362887
+demon queen with red eyes,sd1.5_normal_037.jpg,37,2.883906185,0.698594008,3.683710828,0.360479723
+demon queen with red eyes,xl2.2_normal_037.jpg,37,3.9689969,0.447164098,3.679897602,0.68220337
+christmas at kelly family,AttnGAN_normal_038.jpg,38,1.092275216,0.755572093,0.803090148,0.860914555
+christmas at kelly family,DALLE2_normal_038.jpg,38,2.520123245,0.641037714,2.927805358,0.703430582
+christmas at kelly family,glide_normal_038.jpg,38,1.291447579,0.465966876,1.909638159,1.053723941
+christmas at kelly family,midjourney_lowstep_038.jpg,38,2.279437086,0.649559041,2.828703007,1.094088316
+christmas at kelly family,midjourney_normal_038.jpg,38,3.688435461,0.24748921,3.919858649,0.342843287
+christmas at kelly family,sd1.5_highcorr_038.jpg,38,2.65898745,0.532768026,2.452499565,0.927400639
+christmas at kelly family,sd1.5_lowcorr_038.jpg,38,3.727351438,0.303214847,3.695110932,0.677353447
+christmas at kelly family,sd1.5_lowstep_038.jpg,38,3.524162768,0.534315477,3.386001822,0.757400808
+christmas at kelly family,sd1.5_normal_038.jpg,38,2.523592728,0.729275144,3.696383698,0.499744673
+christmas at kelly family,xl2.2_normal_038.jpg,38,3.207226865,0.629460473,3.945913227,0.405501461
+a raspberry made of metal,AttnGAN_normal_041.jpg,41,1.079102747,0.745080493,0.389300995,0.489332456
+a raspberry made of metal,DALLE2_normal_041.jpg,41,2.532418004,0.80740896,3.491984103,0.700947549
+a raspberry made of metal,glide_normal_041.jpg,41,1.759312513,0.456202562,1.82549383,0.740571076
+a raspberry made of metal,midjourney_lowstep_041.jpg,41,1.943986542,0.78098823,2.614222137,1.170639312
+a raspberry made of metal,midjourney_normal_041.jpg,41,3.917498726,0.31863116,4.004060194,0.328519145
+a raspberry made of metal,sd1.5_highcorr_041.jpg,41,2.489938377,0.257658021,2.199589058,0.445485749
+a raspberry made of metal,sd1.5_lowcorr_041.jpg,41,2.874527714,0.657026325,2.177872569,0.724892681
+a raspberry made of metal,sd1.5_lowstep_041.jpg,41,2.804002459,0.457795087,2.456699832,0.610503627
+a raspberry made of metal,sd1.5_normal_041.jpg,41,3.274744941,0.755657843,1.9250157,0.822831973
+a raspberry made of metal,xl2.2_normal_041.jpg,41,3.076007049,0.267370941,1.51418148,0.936711899
+the drowned and the saved,AttnGAN_normal_046.jpg,46,1.220137663,0.303008871,0.873277939,1.064109172
+the drowned and the saved,DALLE2_normal_046.jpg,46,2.917313663,0.663990387,2.080332784,0.936792314
+the drowned and the saved,glide_normal_046.jpg,46,0.488530746,0.761755232,0.411989915,0.604931801
+the drowned and the saved,midjourney_lowstep_046.jpg,46,2.084303652,0.58380406,1.33235885,0.678924492
+the drowned and the saved,midjourney_normal_046.jpg,46,4.104828805,0.510973257,2.31896878,0.505271924
+the drowned and the saved,sd1.5_highcorr_046.jpg,46,2.491680335,0.626307704,2.568020722,0.936318255
+the drowned and the saved,sd1.5_lowcorr_046.jpg,46,2.550308113,0.523686007,3.238192633,0.641577817
+the drowned and the saved,sd1.5_lowstep_046.jpg,46,2.532240117,0.664543182,1.653596222,1.345114337
+the drowned and the saved,sd1.5_normal_046.jpg,46,2.218274567,0.541928969,1.996643532,0.823988603
+the drowned and the saved,xl2.2_normal_046.jpg,46,3.469384375,0.533882174,1.911227475,0.719768568
+beautiful white fluffy cat,AttnGAN_normal_054.jpg,54,1.149675658,0.334483367,0.220106689,0.435309485
+beautiful white fluffy cat,DALLE2_normal_054.jpg,54,3.915652487,0.437957248,3.90920376,0.586600437
+beautiful white fluffy cat,glide_normal_054.jpg,54,2.196265106,0.391044488,2.877106534,0.802402597
+beautiful white fluffy cat,midjourney_lowstep_054.jpg,54,3.516223883,0.594717784,4.085788654,0.203331648
+beautiful white fluffy cat,midjourney_normal_054.jpg,54,3.300254995,0.656541545,3.943743533,0.485808144
+beautiful white fluffy cat,sd1.5_highcorr_054.jpg,54,3.27751397,0.478592522,3.82051208,0.389598097
+beautiful white fluffy cat,sd1.5_lowcorr_054.jpg,54,2.65898745,0.429897704,3.444308638,0.552721618
+beautiful white fluffy cat,sd1.5_lowstep_054.jpg,54,3.628699936,0.272601348,3.969519749,0.543121164
+beautiful white fluffy cat,sd1.5_normal_054.jpg,54,3.0785433,0.508847934,3.548579908,0.726600954
+beautiful white fluffy cat,xl2.2_normal_054.jpg,54,3.754548053,0.612601475,3.981796016,0.597071203
+"a pizza with chocolate on it, sci-fi style",AttnGAN_normal_066.jpg,66,0.761394747,0.381926037,0.604980215,0.34332712
+"a pizza with chocolate on it, sci-fi style",DALLE2_normal_066.jpg,66,2.307551928,1.247985118,2.771702485,0.728237709
+"a pizza with chocolate on it, sci-fi style",glide_normal_066.jpg,66,1.619473192,0.405757443,2.714341389,0.635633267
+"a pizza with chocolate on it, sci-fi style",midjourney_lowstep_066.jpg,66,1.76550155,0.868481691,2.390596612,0.916434107
+"a pizza with chocolate on it, sci-fi style",midjourney_normal_066.jpg,66,3.561501185,0.754337926,3.381448298,1.004987076
+"a pizza with chocolate on it, sci-fi style",sd1.5_highcorr_066.jpg,66,3.159767378,0.609720922,3.506852145,0.578883502
+"a pizza with chocolate on it, sci-fi style",sd1.5_lowcorr_066.jpg,66,2.956675282,0.634418802,2.864560271,0.489780018
+"a pizza with chocolate on it, sci-fi style",sd1.5_lowstep_066.jpg,66,2.858767479,0.879299449,3.061839408,1.3245433
+"a pizza with chocolate on it, sci-fi style",sd1.5_normal_066.jpg,66,2.785504238,0.690011978,2.794502694,0.711808641
+"a pizza with chocolate on it, sci-fi style",xl2.2_normal_066.jpg,66,3.034849246,0.575420603,3.046700546,0.437975639
+"a woman in newspaper clothes, realistic style",AttnGAN_normal_067.jpg,67,1.042384048,0.356275928,0.457481316,0.655446631
+"a woman in newspaper clothes, realistic style",glide_normal_067.jpg,67,1.077517831,1.205676334,0.507503744,0.452524682
+"a woman in newspaper clothes, realistic style",midjourney_lowstep_067.jpg,67,2.966953132,1.024947036,2.757266234,0.624717733
+"a woman in newspaper clothes, realistic style",midjourney_normal_067.jpg,67,3.757702826,0.408567695,2.844239553,0.866302306
+"a woman in newspaper clothes, realistic style",sd1.5_highcorr_067.jpg,67,2.791787056,0.748437822,1.996643532,1.147252049
+"a woman in newspaper clothes, realistic style",sd1.5_lowcorr_067.jpg,67,2.23076479,1.103444836,0.957159937,0.39527749
+"a woman in newspaper clothes, realistic style",sd1.5_lowstep_067.jpg,67,2.785504238,0.592610287,2.201697271,0.789768267
+"a woman in newspaper clothes, realistic style",sd1.5_normal_067.jpg,67,3.058356047,0.696130168,1.77164845,0.973993727
+"a woman in newspaper clothes, realistic style",xl2.2_normal_067.jpg,67,3.613766055,0.424919691,3.572230948,0.340805983
+"yog sothoth chef in a kitchen, abstract style",AttnGAN_normal_068.jpg,68,0.685643707,0.354790592,0.497452181,0.414730649
+"yog sothoth chef in a kitchen, abstract style",DALLE2_normal_068.jpg,68,2.293736737,0.525272753,1.793698006,0.830939638
+"yog sothoth chef in a kitchen, abstract style",glide_normal_068.jpg,68,1.432500959,0.459368528,0.497452181,0.290819267
+"yog sothoth chef in a kitchen, abstract style",midjourney_lowstep_068.jpg,68,1.006207915,0.217255663,1.458516652,1.206281034
+"yog sothoth chef in a kitchen, abstract style",midjourney_normal_068.jpg,68,3.530578941,0.628949085,2.324182247,1.279266346
+"yog sothoth chef in a kitchen, abstract style",sd1.5_highcorr_068.jpg,68,2.938008313,0.895728784,1.478626914,0.781446452
+"yog sothoth chef in a kitchen, abstract style",sd1.5_lowcorr_068.jpg,68,1.48681785,0.586860559,0.575376803,0.693930726
+"yog sothoth chef in a kitchen, abstract style",sd1.5_lowstep_068.jpg,68,2.318310369,0.457068269,1.531671491,1.248312487
+"yog sothoth chef in a kitchen, abstract style",sd1.5_normal_068.jpg,68,1.894194533,0.681574592,0.987264094,0.678620653
+"yog sothoth chef in a kitchen, abstract style",xl2.2_normal_068.jpg,68,2.804002459,0.62523771,1.499340184,1.13541232
+"otter making a disgusted face, abstract style",AttnGAN_normal_073.jpg,73,1.269550286,0.538479111,0.452923825,0.51185974
+"otter making a disgusted face, abstract style",DALLE2_normal_073.jpg,73,2.899057018,0.614928119,3.124625168,0.770011767
+"otter making a disgusted face, abstract style",glide_normal_073.jpg,73,0.662833684,0.555022842,0.924885591,0.621933444
+"otter making a disgusted face, abstract style",midjourney_lowstep_073.jpg,73,2.226737013,0.444608591,2.666882993,0.64142839
+"otter making a disgusted face, abstract style",midjourney_normal_073.jpg,73,4.029748353,0.69490508,3.165462896,0.560750396
+"otter making a disgusted face, abstract style",sd1.5_highcorr_073.jpg,73,3.048428469,0.535107707,2.47896401,1.132938519
+"otter making a disgusted face, abstract style",sd1.5_lowcorr_073.jpg,73,3.374823956,0.524537699,2.305872894,0.543444195
+"otter making a disgusted face, abstract style",sd1.5_lowstep_073.jpg,73,2.715217134,0.57973726,2.70330186,0.511054154
+"otter making a disgusted face, abstract style",sd1.5_normal_073.jpg,73,2.517978134,0.422201523,2.64118655,0.83780352
+"otter making a disgusted face, abstract style",xl2.2_normal_073.jpg,73,2.518413241,0.632678054,3.056705093,0.57348578
+"tree of life embroidered scene, abstract style",AttnGAN_normal_078.jpg,78,0.970469084,0.524149704,0.393920539,0.468201514
+"tree of life embroidered scene, abstract style",DALLE2_normal_078.jpg,78,2.247254325,0.812249717,3.124625168,0.676973935
+"tree of life embroidered scene, abstract style",glide_normal_078.jpg,78,1.034731881,0.409632974,1.897445686,1.021906227
+"tree of life embroidered scene, abstract style",midjourney_lowstep_078.jpg,78,1.771981528,0.54563282,2.37877521,0.722280859
+"tree of life embroidered scene, abstract style",midjourney_normal_078.jpg,78,3.344956193,0.645564813,3.410832372,0.893313365
+"tree of life embroidered scene, abstract style",sd1.5_highcorr_078.jpg,78,3.093635734,0.661875301,3.047185079,0.534819491
+"tree of life embroidered scene, abstract style",sd1.5_lowcorr_078.jpg,78,2.817479781,1.345106116,3.445889779,1.0500641
+"tree of life embroidered scene, abstract style",sd1.5_lowstep_078.jpg,78,3.074195478,0.624005707,3.214232789,0.613594159
+"tree of life embroidered scene, abstract style",sd1.5_normal_078.jpg,78,3.707018893,0.564325919,3.522621893,0.326936641
+"tree of life embroidered scene, abstract style",xl2.2_normal_078.jpg,78,3.30238721,0.487585817,3.799471502,0.44372683
+"a tonalism portrait of a ghost , realistic style",AttnGAN_normal_087.jpg,87,0.965602553,0.285318521,0.659590655,0.816063936
+"a tonalism portrait of a ghost , realistic style",DALLE2_normal_087.jpg,87,1.834018423,1.006215574,2.414897168,1.165914841
+"a tonalism portrait of a ghost , realistic style",glide_normal_087.jpg,87,1.931518323,0.575500634,1.328117093,0.783684031
+"a tonalism portrait of a ghost , realistic style",midjourney_lowstep_087.jpg,87,3.75546628,0.705646043,2.258697793,1.129046792
+"a tonalism portrait of a ghost , realistic style",midjourney_normal_087.jpg,87,2.758973195,0.775130189,2.75903949,0.534372539
+"a tonalism portrait of a ghost , realistic style",sd1.5_highcorr_087.jpg,87,0.621134369,0.284509809,1.702366115,1.271379617
+"a tonalism portrait of a ghost , realistic style",sd1.5_lowcorr_087.jpg,87,2.010516065,0.740772782,2.377248288,0.870247219
+"a tonalism portrait of a ghost , realistic style",sd1.5_lowstep_087.jpg,87,2.195092561,0.570442354,2.327098418,1.138633875
+"a tonalism portrait of a ghost , realistic style",sd1.5_normal_087.jpg,87,2.831160905,0.632531523,2.991040101,0.542488853
+"a tonalism portrait of a ghost , realistic style",xl2.2_normal_087.jpg,87,3.352004521,0.80586692,2.877106534,1.195024311
+"little girl with a mushroom hat, anime style",AttnGAN_normal_090.jpg,90,1.209411183,0.379049878,0.344259439,0.653426234
+"little girl with a mushroom hat, anime style",DALLE2_normal_090.jpg,90,2.254782866,0.430317711,2.740407521,0.542471432
+"little girl with a mushroom hat, anime style",glide_normal_090.jpg,90,1.296708731,0.382408553,1.143113339,0.838034727
+"little girl with a mushroom hat, anime style",midjourney_lowstep_090.jpg,90,2.788955814,0.716836379,3.506852145,0.628736472
+"little girl with a mushroom hat, anime style",midjourney_normal_090.jpg,90,3.806813177,0.645283031,3.601613177,1.341048527
+"little girl with a mushroom hat, anime style",sd1.5_highcorr_090.jpg,90,3.906607461,0.738197744,3.720100101,0.865273617
+"little girl with a mushroom hat, anime style",sd1.5_lowcorr_090.jpg,90,3.145006417,0.649519132,3.683010044,0.796383471
+"little girl with a mushroom hat, anime style",sd1.5_lowstep_090.jpg,90,1.575270793,0.569769455,2.474154779,0.830851533
+"little girl with a mushroom hat, anime style",sd1.5_normal_090.jpg,90,3.162256259,0.33223573,3.268206767,0.951977448
+"little girl with a mushroom hat, anime style",xl2.2_normal_090.jpg,90,3.188291344,0.656075444,3.665354297,0.279499099
+"ufo ignoring the laws of phyics, sci-fi style",AttnGAN_normal_091.jpg,91,0.863588083,0.400213922,0.702583315,0.420071168
+"ufo ignoring the laws of phyics, sci-fi style",DALLE2_normal_091.jpg,91,3.369254363,0.875017465,2.723036745,0.894760281
+"ufo ignoring the laws of phyics, sci-fi style",glide_normal_091.jpg,91,0.574779956,0.868042726,1.751211925,1.199376722
+"ufo ignoring the laws of phyics, sci-fi style",midjourney_lowstep_091.jpg,91,2.326531297,0.870211283,2.719543848,0.79240443
+"ufo ignoring the laws of phyics, sci-fi style",midjourney_normal_091.jpg,91,3.344956193,0.837870988,3.485324022,0.565165134
+"ufo ignoring the laws of phyics, sci-fi style",sd1.5_highcorr_091.jpg,91,3.43455948,0.569380474,3.609476773,0.73686929
+"ufo ignoring the laws of phyics, sci-fi style",sd1.5_lowcorr_091.jpg,91,1.946610757,0.662234932,2.760673748,0.716725644
+"ufo ignoring the laws of phyics, sci-fi style",sd1.5_lowstep_091.jpg,91,2.852156791,0.464188588,3.33369641,0.789315051
+"ufo ignoring the laws of phyics, sci-fi style",sd1.5_normal_091.jpg,91,2.423784221,0.834796164,2.968775923,0.55618542
+"ufo ignoring the laws of phyics, sci-fi style",xl2.2_normal_091.jpg,91,3.662501677,0.745034586,3.659307,0.50748604
+"donald trump playing in the rain, realistic style",AttnGAN_normal_097.jpg,97,0.895799678,0.396296943,0.170445589,0.476335408
+"donald trump playing in the rain, realistic style",glide_normal_097.jpg,97,0.663293231,0.81142886,0.047005435,0.457883741
+"donald trump playing in the rain, realistic style",midjourney_lowstep_097.jpg,97,2.86026573,0.471702186,2.628994077,0.783695298
+"donald trump playing in the rain, realistic style",midjourney_normal_097.jpg,97,3.643633817,0.435575717,2.740407521,0.764291983
+"donald trump playing in the rain, realistic style",sd1.5_highcorr_097.jpg,97,2.432406235,0.492548024,2.848458594,0.549211296
+"donald trump playing in the rain, realistic style",sd1.5_lowcorr_097.jpg,97,2.351513684,0.454838935,2.794145879,0.775762641
+"donald trump playing in the rain, realistic style",sd1.5_lowstep_097.jpg,97,3.207226865,0.591369715,2.395499044,0.621791439
+"donald trump playing in the rain, realistic style",sd1.5_normal_097.jpg,97,2.646335983,0.386111938,2.458299452,1.147638213
+"donald trump playing in the rain, realistic style",xl2.2_normal_097.jpg,97,2.509487485,0.655945537,2.719543848,0.552042948
+"cute fox in suit dancing in club, abstract style",AttnGAN_normal_098.jpg,98,0.820802133,0.313167937,0.970817724,0.37635206
+"cute fox in suit dancing in club, abstract style",DALLE2_normal_098.jpg,98,2.120377936,0.544950258,3.001128296,0.685550494
+"cute fox in suit dancing in club, abstract style",glide_normal_098.jpg,98,1.419805428,0.203738096,1.714558588,0.5811903
+"cute fox in suit dancing in club, abstract style",midjourney_lowstep_098.jpg,98,2.989757839,0.762224664,3.635603955,0.302534464
+"cute fox in suit dancing in club, abstract style",midjourney_normal_098.jpg,98,3.195617381,0.653234111,3.187357422,0.71459478
+"cute fox in suit dancing in club, abstract style",sd1.5_highcorr_098.jpg,98,1.971039124,0.484404746,2.54176312,0.721839723
+"cute fox in suit dancing in club, abstract style",sd1.5_lowcorr_098.jpg,98,2.746169865,0.433195486,2.37295214,0.805978198
+"cute fox in suit dancing in club, abstract style",sd1.5_lowstep_098.jpg,98,2.006980492,0.470267792,2.37865864,0.864523692
+"cute fox in suit dancing in club, abstract style",sd1.5_normal_098.jpg,98,2.939794687,0.87395685,3.080096813,0.993227993
+"cute fox in suit dancing in club, abstract style",xl2.2_normal_098.jpg,98,3.374329815,0.973526158,3.358399036,1.187163793
+"a biomechanical cybertronic frog, baroque style",AttnGAN_normal_104.jpg,104,0.784493346,0.291900877,0.468583101,0.617734883
+"a biomechanical cybertronic frog, baroque style",DALLE2_normal_104.jpg,104,2.686140018,0.601714702,3.154626828,0.590882101
+"a biomechanical cybertronic frog, baroque style",glide_normal_104.jpg,104,1.632795725,0.294272108,2.178897063,0.514063738
+"a biomechanical cybertronic frog, baroque style",midjourney_lowstep_104.jpg,104,2.505030811,0.568262633,3.178502772,0.485423712
+"a biomechanical cybertronic frog, baroque style",midjourney_normal_104.jpg,104,3.662501677,0.731596219,3.635603955,0.635935866
+"a biomechanical cybertronic frog, baroque style",sd1.5_highcorr_104.jpg,104,2.852156791,0.549321673,3.214316689,0.706774038
+"a biomechanical cybertronic frog, baroque style",sd1.5_lowcorr_104.jpg,104,3.430745058,0.347061602,3.433697306,0.485876913
+"a biomechanical cybertronic frog, baroque style",sd1.5_lowstep_104.jpg,104,3.524162768,0.494729729,3.410832372,0.642517547
+"a biomechanical cybertronic frog, baroque style",sd1.5_normal_104.jpg,104,2.804002459,1.111505684,3.358399036,0.642459183
+"a biomechanical cybertronic frog, baroque style",xl2.2_normal_104.jpg,104,3.714251203,0.771773493,3.671158522,0.645354468
+"portrait of beautiful armored girl, sci-fi style",AttnGAN_normal_116.jpg,116,1.463287163,0.504604401,0.455996915,0.564498202
+"portrait of beautiful armored girl, sci-fi style",DALLE2_normal_116.jpg,116,3.131243411,0.424621109,1.824290847,1.04348603
+"portrait of beautiful armored girl, sci-fi style",glide_normal_116.jpg,116,1.147337281,0.506084149,0.374999202,0.308000394
+"portrait of beautiful armored girl, sci-fi style",midjourney_lowstep_116.jpg,116,2.757389397,0.317265041,3.239106761,0.489428098
+"portrait of beautiful armored girl, sci-fi style",midjourney_normal_116.jpg,116,4.285938012,0.358971126,4.12160257,0.148067236
+"portrait of beautiful armored girl, sci-fi style",sd1.5_highcorr_116.jpg,116,3.801556621,0.660932872,3.64096935,0.666815816
+"portrait of beautiful armored girl, sci-fi style",sd1.5_lowcorr_116.jpg,116,2.610677849,0.546946891,3.035247107,0.595134651
+"portrait of beautiful armored girl, sci-fi style",sd1.5_lowstep_116.jpg,116,2.791787056,0.797650807,3.381448298,0.98340644
+"portrait of beautiful armored girl, sci-fi style",sd1.5_normal_116.jpg,116,2.939794687,0.51331042,3.269342324,0.788648046
+"portrait of beautiful armored girl, sci-fi style",xl2.2_normal_116.jpg,116,3.662501677,0.480029839,3.837079833,0.57107132
+"action shot of woman pole vaulting, close-up",AttnGAN_normal_124.jpg,124,1.23918794,0.312406208,0.46888142,0.61366378
+"action shot of woman pole vaulting, close-up",DALLE2_normal_124.jpg,124,2.541261946,0.43430406,2.877106534,0.644253646
+"action shot of woman pole vaulting, close-up",glide_normal_124.jpg,124,0.165703556,0.48582684,0.325327435,0.536731635
+"action shot of woman pole vaulting, close-up",midjourney_lowstep_124.jpg,124,3.64048937,0.64648153,3.588447963,0.64446483
+"action shot of woman pole vaulting, close-up",midjourney_normal_124.jpg,124,3.700231162,0.881946886,3.325002769,0.849026975
+"action shot of woman pole vaulting, close-up",sd1.5_highcorr_124.jpg,124,3.017147546,0.78086905,3.067923111,0.890967997
+"action shot of woman pole vaulting, close-up",sd1.5_lowcorr_124.jpg,124,2.960099613,0.771057427,3.067923111,1.368022068
+"action shot of woman pole vaulting, close-up",sd1.5_lowstep_124.jpg,124,2.760431848,0.749464479,2.945998379,1.066186032
+"action shot of woman pole vaulting, close-up",sd1.5_normal_124.jpg,124,2.689121932,1.147705037,2.592416657,1.30984506
+"action shot of woman pole vaulting, close-up",xl2.2_normal_124.jpg,124,2.260001775,1.006411741,3.167161119,1.27977728
+"portrait of a beautiful young woman, HDR lighting",AttnGAN_normal_129.jpg,129,0.466029791,0.486386145,0.38908069,0.561460044
+"portrait of a beautiful young woman, HDR lighting",DALLE2_normal_129.jpg,129,3.61615084,0.379964553,3.506852145,0.322021207
+"portrait of a beautiful young woman, HDR lighting",glide_normal_129.jpg,129,1.717140251,0.816976869,0.525881942,0.687629313
+"portrait of a beautiful young woman, HDR lighting",midjourney_lowstep_129.jpg,129,2.695368677,0.410187717,3.113493079,0.498614839
+"portrait of a beautiful young woman, HDR lighting",midjourney_normal_129.jpg,129,3.867642035,0.197819726,3.597061498,0.519828863
+"portrait of a beautiful young woman, HDR lighting",sd1.5_highcorr_129.jpg,129,0.76123563,0.2612992,2.110496437,1.178379625
+"portrait of a beautiful young woman, HDR lighting",sd1.5_lowcorr_129.jpg,129,3.330022312,0.236067301,3.510154573,0.724252232
+"portrait of a beautiful young woman, HDR lighting",sd1.5_lowstep_129.jpg,129,3.416483075,0.554882139,3.275195155,0.472256127
+"portrait of a beautiful young woman, HDR lighting",sd1.5_normal_129.jpg,129,3.001476926,0.453002581,3.137696322,0.6267561
+"portrait of a beautiful young woman, HDR lighting",xl2.2_normal_129.jpg,129,3.825753384,0.454836944,3.866112497,0.382657471
+"cute fluffy baby panda lion hybrid , cold color",AttnGAN_normal_131.jpg,131,0.971526322,0.722197991,0.471247526,0.514682855
+"cute fluffy baby panda lion hybrid , cold color",DALLE2_normal_131.jpg,131,3.387959109,0.378517324,3.153270423,0.916821172
+"cute fluffy baby panda lion hybrid , cold color",glide_normal_131.jpg,131,1.594706548,0.4927619,2.127109224,0.980757529
+"cute fluffy baby panda lion hybrid , cold color",midjourney_lowstep_131.jpg,131,2.980532355,1.083276837,2.712737878,0.808511307
+"cute fluffy baby panda lion hybrid , cold color",midjourney_normal_131.jpg,131,3.401488261,0.30973113,2.16726552,1.357272333
+"cute fluffy baby panda lion hybrid , cold color",sd1.5_highcorr_131.jpg,131,3.208047473,1.012928204,2.890691628,1.19892577
+"cute fluffy baby panda lion hybrid , cold color",sd1.5_lowcorr_131.jpg,131,2.980532355,0.603574748,2.723869967,0.4276736
+"cute fluffy baby panda lion hybrid , cold color",sd1.5_lowstep_131.jpg,131,3.252116811,1.123322952,3.10236099,0.819761074
+"cute fluffy baby panda lion hybrid , cold color",sd1.5_normal_131.jpg,131,3.718303223,0.466944517,1.933414643,1.403902789
+"cute fluffy baby panda lion hybrid , cold color",xl2.2_normal_131.jpg,131,3.193169444,0.492226457,3.068105197,0.780094379
+"white fur furry mothman movie scene , hyper detail",AttnGAN_normal_137.jpg,137,0.943982102,0.523426012,0.537282046,0.542051647
+"white fur furry mothman movie scene , hyper detail",DALLE2_normal_137.jpg,137,1.131619326,0.337375552,2.008581504,1.543083168
+"white fur furry mothman movie scene , hyper detail",glide_normal_137.jpg,137,1.405543444,0.581477013,2.129102676,0.784282731
+"white fur furry mothman movie scene , hyper detail",midjourney_lowstep_137.jpg,137,1.541134741,0.552565501,2.178397609,0.848077185
+"white fur furry mothman movie scene , hyper detail",midjourney_normal_137.jpg,137,3.730246705,0.366204728,2.897228486,0.926279953
+"white fur furry mothman movie scene , hyper detail",sd1.5_highcorr_137.jpg,137,2.518838781,0.420306696,2.957643834,0.641997943
+"white fur furry mothman movie scene , hyper detail",sd1.5_lowcorr_137.jpg,137,1.446080182,0.559929568,2.178397609,1.12171001
+"white fur furry mothman movie scene , hyper detail",sd1.5_lowstep_137.jpg,137,2.896939758,0.378800605,3.050789396,0.497480398
+"white fur furry mothman movie scene , hyper detail",sd1.5_normal_137.jpg,137,2.363781612,0.69973155,2.794502694,0.736477591
+"white fur furry mothman movie scene , hyper detail",xl2.2_normal_137.jpg,137,3.074988427,0.700525707,3.153995905,0.871004093
+"pendant of a silver starfish necklace, close-up",AttnGAN_normal_144.jpg,144,1.16308973,1.160317658,0.739160734,1.285544458
+"pendant of a silver starfish necklace, close-up",DALLE2_normal_144.jpg,144,3.334754679,0.458620229,3.884485921,0.43874522
+"pendant of a silver starfish necklace, close-up",glide_normal_144.jpg,144,1.927354161,0.568725954,2.732709062,1.05665395
+"pendant of a silver starfish necklace, close-up",midjourney_lowstep_144.jpg,144,2.988623579,0.585309139,3.701931716,0.452048922
+"pendant of a silver starfish necklace, close-up",midjourney_normal_144.jpg,144,3.559002625,0.538073614,3.943743533,0.350430328
+"pendant of a silver starfish necklace, close-up",sd1.5_highcorr_144.jpg,144,3.123820601,0.660922095,3.703773546,0.565504714
+"pendant of a silver starfish necklace, close-up",sd1.5_lowcorr_144.jpg,144,3.357738899,0.57886394,3.548952321,0.721979061
+"pendant of a silver starfish necklace, close-up",sd1.5_lowstep_144.jpg,144,3.486039015,0.638759799,4.038036765,0.242974448
+"pendant of a silver starfish necklace, close-up",sd1.5_normal_144.jpg,144,3.428646707,0.53557543,3.770286326,0.532663848
+"pendant of a silver starfish necklace, close-up",xl2.2_normal_144.jpg,144,4.106196029,0.935232489,3.575282749,0.960824187
+"grumpy king in yellow sitting in a bar, elevation view",AttnGAN_normal_153.jpg,153,0.862173603,0.49386126,0.575376803,0.311337579
+"grumpy king in yellow sitting in a bar, elevation view",DALLE2_normal_153.jpg,153,2.960099613,0.803361859,3.336157521,0.522135682
+"grumpy king in yellow sitting in a bar, elevation view",glide_normal_153.jpg,153,0.726381375,0.279671159,0.775754404,0.30926261
+"grumpy king in yellow sitting in a bar, elevation view",midjourney_lowstep_153.jpg,153,2.80733647,0.537112557,2.827314446,0.780856526
+"grumpy king in yellow sitting in a bar, elevation view",midjourney_normal_153.jpg,153,3.773032655,0.414347187,3.311772574,0.372194663
+"grumpy king in yellow sitting in a bar, elevation view",sd1.5_highcorr_153.jpg,153,3.300254995,0.827669868,1.300854081,0.723531489
+"grumpy king in yellow sitting in a bar, elevation view",sd1.5_lowcorr_153.jpg,153,0.313378312,0.135405029,0.753963515,0.767215156
+"grumpy king in yellow sitting in a bar, elevation view",sd1.5_lowstep_153.jpg,153,2.643063777,0.510322754,2.64108532,0.515475513
+"grumpy king in yellow sitting in a bar, elevation view",sd1.5_normal_153.jpg,153,2.46452189,0.509300923,2.389907299,0.405857172
+"grumpy king in yellow sitting in a bar, elevation view",xl2.2_normal_153.jpg,153,3.080710077,0.524864484,3.02250478,0.658478693
+"cute fluffy baby poodle giraffe hybrid, close-up",AttnGAN_normal_154.jpg,154,1.038703499,0.548947732,0.742358137,0.688651218
+"cute fluffy baby poodle giraffe hybrid, close-up",DALLE2_normal_154.jpg,154,3.576252467,0.58368866,3.090433934,0.996391963
+"cute fluffy baby poodle giraffe hybrid, close-up",glide_normal_154.jpg,154,1.827559877,0.772820102,2.653717779,0.687814816
+"cute fluffy baby poodle giraffe hybrid, close-up",midjourney_lowstep_154.jpg,154,2.152199766,0.525581869,2.556888633,0.336390328
+"cute fluffy baby poodle giraffe hybrid, close-up",midjourney_normal_154.jpg,154,3.989769364,0.58621704,3.548952321,0.852095048
+"cute fluffy baby poodle giraffe hybrid, close-up",sd1.5_highcorr_154.jpg,154,3.673754131,0.563785892,3.562117535,0.772152983
+"cute fluffy baby poodle giraffe hybrid, close-up",sd1.5_lowcorr_154.jpg,154,3.024257523,0.410214248,2.805997401,1.113093096
+"cute fluffy baby poodle giraffe hybrid, close-up",sd1.5_lowstep_154.jpg,154,3.39100366,0.669846261,3.311978472,0.968194529
+"cute fluffy baby poodle giraffe hybrid, close-up",sd1.5_normal_154.jpg,154,3.438253731,0.466742673,2.960067189,1.011286158
+"cute fluffy baby poodle giraffe hybrid, close-up",xl2.2_normal_154.jpg,154,2.871898573,0.570821549,3.135757257,0.437438063
+"person walking inside a timeless bubble, HDR lighting",AttnGAN_normal_159.jpg,159,0.733120788,0.546329794,0.765284132,0.556714558
+"person walking inside a timeless bubble, HDR lighting",DALLE2_normal_159.jpg,159,2.717645898,0.649116875,2.714341389,0.700441339
+"person walking inside a timeless bubble, HDR lighting",glide_normal_159.jpg,159,0.590589147,0.265357693,0.686697692,0.444490268
+"person walking inside a timeless bubble, HDR lighting",midjourney_lowstep_159.jpg,159,1.83340294,0.700948019,2.994768272,0.800980232
+"person walking inside a timeless bubble, HDR lighting",midjourney_normal_159.jpg,159,3.445007041,0.81335553,3.189847843,1.172829809
+"person walking inside a timeless bubble, HDR lighting",sd1.5_highcorr_159.jpg,159,2.243369394,0.649939948,2.653717779,0.529518357
+"person walking inside a timeless bubble, HDR lighting",sd1.5_lowcorr_159.jpg,159,2.831741764,0.316199735,2.982575799,0.514832452
+"person walking inside a timeless bubble, HDR lighting",sd1.5_lowstep_159.jpg,159,2.247000453,0.983127353,2.921613433,0.438141979
+"person walking inside a timeless bubble, HDR lighting",sd1.5_normal_159.jpg,159,3.998974063,0.497114405,3.558776637,0.994378651
+"person walking inside a timeless bubble, HDR lighting",xl2.2_normal_159.jpg,159,3.781706499,0.613663446,3.414059481,0.877624168
+"cute soul ghost in infinity mirror room, warm color",AttnGAN_normal_160.jpg,160,0.754308478,0.359846635,0.683466599,0.803703371
+"cute soul ghost in infinity mirror room, warm color",DALLE2_normal_160.jpg,160,2.391896453,0.799034494,3.227706657,0.523921781
+"cute soul ghost in infinity mirror room, warm color",glide_normal_160.jpg,160,1.377019478,0.69797473,2.409529559,0.980744027
+"cute soul ghost in infinity mirror room, warm color",midjourney_lowstep_160.jpg,160,2.293736737,0.794043185,3.56051788,0.841346535
+"cute soul ghost in infinity mirror room, warm color",midjourney_normal_160.jpg,160,3.14151795,1.038160048,3.167161119,0.865856698
+"cute soul ghost in infinity mirror room, warm color",sd1.5_highcorr_160.jpg,160,2.110015896,0.842657074,2.509709346,0.836867853
+"cute soul ghost in infinity mirror room, warm color",sd1.5_lowcorr_160.jpg,160,1.720224248,0.972390715,1.244551289,0.574645106
+"cute soul ghost in infinity mirror room, warm color",sd1.5_lowstep_160.jpg,160,2.844740127,0.655067603,2.367643121,0.900259887
+"cute soul ghost in infinity mirror room, warm color",sd1.5_normal_160.jpg,160,2.409693201,1.198050929,1.876970161,1.533901353
+"cute soul ghost in infinity mirror room, warm color",xl2.2_normal_160.jpg,160,2.941741401,0.417529038,2.603839495,0.753667272
+"the celestial realm of the elven deities, soft lighting",AttnGAN_normal_168.jpg,168,1.012573225,0.600545307,0.876413908,0.739243317
+"the celestial realm of the elven deities, soft lighting",DALLE2_normal_168.jpg,168,2.016407538,0.398392695,2.311982676,0.782362407
+"the celestial realm of the elven deities, soft lighting",glide_normal_168.jpg,168,0.463704663,0.905442634,0.323474926,0.485157083
+"the celestial realm of the elven deities, soft lighting",midjourney_lowstep_168.jpg,168,0.641923698,0.320680488,1.709939693,0.970860743
+"the celestial realm of the elven deities, soft lighting",midjourney_normal_168.jpg,168,4.039666506,0.963442358,3.641108818,0.347551586
+"the celestial realm of the elven deities, soft lighting",sd1.5_highcorr_168.jpg,168,2.806879489,0.616069006,3.548579908,0.51262523
+"the celestial realm of the elven deities, soft lighting",sd1.5_lowcorr_168.jpg,168,3.058356047,0.960122431,3.535787107,0.362736725
+"the celestial realm of the elven deities, soft lighting",sd1.5_lowstep_168.jpg,168,3.359435142,0.683713265,3.482467199,1.079699537
+"the celestial realm of the elven deities, soft lighting",sd1.5_normal_168.jpg,168,3.154005469,0.454130504,3.584393825,0.467886839
+"the celestial realm of the elven deities, soft lighting",xl2.2_normal_168.jpg,168,4.165198541,0.584237009,3.679897602,0.320153815
+"portrait of butterflies swarming flowers, warm color",AttnGAN_normal_170.jpg,170,1.04513849,0.439440104,0.927777366,0.722836313
+"portrait of butterflies swarming flowers, warm color",DALLE2_normal_170.jpg,170,3.442225929,0.71045732,3.057832635,1.021493556
+"portrait of butterflies swarming flowers, warm color",glide_normal_170.jpg,170,1.492221516,0.497908489,1.540491223,0.621854357
+"portrait of butterflies swarming flowers, warm color",midjourney_lowstep_170.jpg,170,2.160207491,0.639222736,2.640552565,0.684971387
+"portrait of butterflies swarming flowers, warm color",midjourney_normal_170.jpg,170,3.923239841,0.85106794,3.575282749,0.886597311
+"portrait of butterflies swarming flowers, warm color",sd1.5_highcorr_170.jpg,170,2.532240117,0.795762124,3.031345691,0.991418536
+"portrait of butterflies swarming flowers, warm color",sd1.5_lowcorr_170.jpg,170,3.403754047,0.667702471,3.5526433,0.396662166
+"portrait of butterflies swarming flowers, warm color",sd1.5_lowstep_170.jpg,170,3.018173564,0.345599911,2.748735776,0.966422716
+"portrait of butterflies swarming flowers, warm color",sd1.5_normal_170.jpg,170,3.573959847,0.664801772,2.772204703,0.574197033
+"portrait of butterflies swarming flowers, warm color",xl2.2_normal_170.jpg,170,2.941929382,0.96814895,2.956517697,0.795202484
+"muscular cyborg girl with prosthetic arms, warm color, anime style",AttnGAN_normal_180.jpg,180,0.885277112,0.729984785,1.194190381,0.36623068
+"muscular cyborg girl with prosthetic arms, warm color, anime style",DALLE2_normal_180.jpg,180,2.627511156,0.376761037,3.197097634,0.933023174
+"muscular cyborg girl with prosthetic arms, warm color, anime style",glide_normal_180.jpg,180,0.676891105,0.396165456,0.537282046,0.53975154
+"muscular cyborg girl with prosthetic arms, warm color, anime style",midjourney_lowstep_180.jpg,180,1.851268265,0.656642841,3.137840023,1.153962228
+"muscular cyborg girl with prosthetic arms, warm color, anime style",midjourney_normal_180.jpg,180,3.048358432,0.591136746,3.667959629,0.515265649
+"muscular cyborg girl with prosthetic arms, warm color, anime style",sd1.5_highcorr_180.jpg,180,2.124805457,0.324989204,2.840103111,0.60843828
+"muscular cyborg girl with prosthetic arms, warm color, anime style",sd1.5_lowcorr_180.jpg,180,2.344386154,0.508029715,2.914221371,0.645141816
+"muscular cyborg girl with prosthetic arms, warm color, anime style",sd1.5_lowstep_180.jpg,180,2.084303652,0.493856733,2.300850587,0.838220113
+"muscular cyborg girl with prosthetic arms, warm color, anime style",sd1.5_normal_180.jpg,180,3.052595235,0.662522201,3.524109368,0.684892025
+"muscular cyborg girl with prosthetic arms, warm color, anime style",xl2.2_normal_180.jpg,180,3.57336489,0.344872603,3.299580101,0.912855577
+"an underwater photo of coral in the ocean, cold color, sci-fi style",AttnGAN_normal_181.jpg,181,1.212161793,0.579393772,0.626274844,0.706989487
+"an underwater photo of coral in the ocean, cold color, sci-fi style",DALLE2_normal_181.jpg,181,2.758973195,0.730085994,3.114500264,0.42331136
+"an underwater photo of coral in the ocean, cold color, sci-fi style",glide_normal_181.jpg,181,0.641923698,0.349148726,2.430025645,1.348894623
+"an underwater photo of coral in the ocean, cold color, sci-fi style",midjourney_lowstep_181.jpg,181,2.376428439,0.954005209,2.140274438,0.584992483
+"an underwater photo of coral in the ocean, cold color, sci-fi style",midjourney_normal_181.jpg,181,3.143483028,1.209072657,3.402927392,0.661578125
+"an underwater photo of coral in the ocean, cold color, sci-fi style",sd1.5_highcorr_181.jpg,181,1.960618923,0.746618178,2.8643612,0.857362231
+"an underwater photo of coral in the ocean, cold color, sci-fi style",sd1.5_lowcorr_181.jpg,181,3.094767498,0.729081056,3.045304988,0.857184731
+"an underwater photo of coral in the ocean, cold color, sci-fi style",sd1.5_lowstep_181.jpg,181,2.161765422,0.668476306,2.877106534,0.630485448
+"an underwater photo of coral in the ocean, cold color, sci-fi style",sd1.5_normal_181.jpg,181,2.852156791,0.511581055,3.011371163,0.652671792
+"an underwater photo of coral in the ocean, cold color, sci-fi style",xl2.2_normal_181.jpg,181,2.867249225,0.52783085,3.142688856,0.509894417
+"radioactive alien mushrooms in the forest , elevation view, abstract style",AttnGAN_normal_183.jpg,183,1.871148587,0.586890464,1.471372759,1.007367299
+"radioactive alien mushrooms in the forest , elevation view, abstract style",DALLE2_normal_183.jpg,183,1.785560751,1.055417817,2.6904737,0.742115236
+"radioactive alien mushrooms in the forest , elevation view, abstract style",glide_normal_183.jpg,183,0.392090064,0.341478939,0.814784292,0.524473831
+"radioactive alien mushrooms in the forest , elevation view, abstract style",midjourney_lowstep_183.jpg,183,2.747600946,0.269887622,3.038374121,0.714368708
+"radioactive alien mushrooms in the forest , elevation view, abstract style",midjourney_normal_183.jpg,183,3.733237104,0.401074545,3.261849072,0.560023038
+"radioactive alien mushrooms in the forest , elevation view, abstract style",sd1.5_highcorr_183.jpg,183,2.746509754,0.767713103,2.330906752,0.739087182
+"radioactive alien mushrooms in the forest , elevation view, abstract style",sd1.5_lowcorr_183.jpg,183,1.633735176,0.92493173,1.763328481,1.127249682
+"radioactive alien mushrooms in the forest , elevation view, abstract style",sd1.5_lowstep_183.jpg,183,2.573155672,0.92173072,2.456699832,0.964490573
+"radioactive alien mushrooms in the forest , elevation view, abstract style",sd1.5_normal_183.jpg,183,2.717645898,0.24582392,3.14107795,0.346104967
+"radioactive alien mushrooms in the forest , elevation view, abstract style",xl2.2_normal_183.jpg,183,2.643063777,0.570203449,3.224603247,0.765005376
+"portrait painting of a west hightland white, soft lighting, abstract style",AttnGAN_normal_188.jpg,188,1.252358797,0.496913564,1.137109539,1.334494852
+"portrait painting of a west hightland white, soft lighting, abstract style",DALLE2_normal_188.jpg,188,2.7089479,0.762192787,1.54386854,1.111350073
+"portrait painting of a west hightland white, soft lighting, abstract style",glide_normal_188.jpg,188,0.946043702,0.649256797,0.692100914,0.748421558
+"portrait painting of a west hightland white, soft lighting, abstract style",midjourney_lowstep_188.jpg,188,3.007007681,0.296995664,3.054879367,0.690740024
+"portrait painting of a west hightland white, soft lighting, abstract style",midjourney_normal_188.jpg,188,4.289152216,1.066529724,3.957073951,0.622421457
+"portrait painting of a west hightland white, soft lighting, abstract style",sd1.5_highcorr_188.jpg,188,1.478221045,0.173463242,1.461634192,0.638610374
+"portrait painting of a west hightland white, soft lighting, abstract style",sd1.5_lowcorr_188.jpg,188,1.702229262,0.272857513,2.59142422,0.545337372
+"portrait painting of a west hightland white, soft lighting, abstract style",sd1.5_lowstep_188.jpg,188,1.594706548,0.715585856,1.94279623,1.024343545
+"portrait painting of a west hightland white, soft lighting, abstract style",sd1.5_normal_188.jpg,188,2.075516212,1.156605301,2.414897168,1.281412433
+"portrait painting of a west hightland white, soft lighting, abstract style",xl2.2_normal_188.jpg,188,3.818072561,0.619838758,3.094936968,1.102800191
+"unique epic pink space elf knight adventurer, long-shot, anime style",AttnGAN_normal_195.jpg,195,1.16308973,0.664967772,0.605043529,0.255005611
+"unique epic pink space elf knight adventurer, long-shot, anime style",DALLE2_normal_195.jpg,195,2.4902984,0.648247261,2.988304467,0.474649507
+"unique epic pink space elf knight adventurer, long-shot, anime style",glide_normal_195.jpg,195,0.447072282,0.913460746,0.086501076,0.637555745
+"unique epic pink space elf knight adventurer, long-shot, anime style",midjourney_lowstep_195.jpg,195,2.472262578,0.598583792,3.149691545,0.556519543
+"unique epic pink space elf knight adventurer, long-shot, anime style",midjourney_normal_195.jpg,195,3.576593619,0.512983014,3.488890048,0.64125454
+"unique epic pink space elf knight adventurer, long-shot, anime style",sd1.5_highcorr_195.jpg,195,2.632073999,0.434701113,2.87284354,0.707551587
+"unique epic pink space elf knight adventurer, long-shot, anime style",sd1.5_lowcorr_195.jpg,195,3.347801074,0.668653016,3.113705614,0.626055435
+"unique epic pink space elf knight adventurer, long-shot, anime style",sd1.5_lowstep_195.jpg,195,2.03716536,0.538904915,2.903929414,0.270140284
+"unique epic pink space elf knight adventurer, long-shot, anime style",sd1.5_normal_195.jpg,195,2.363781612,0.656202967,2.840103111,0.408384298
+"unique epic pink space elf knight adventurer, long-shot, anime style",xl2.2_normal_195.jpg,195,2.808870337,0.790198638,3.469961038,0.507609893
+"a gummy bear performing at woodstock concert, cold color, sci-fi style",AttnGAN_normal_201.jpg,201,0.672064484,0.409695534,0.798018582,0.978404505
+"a gummy bear performing at woodstock concert, cold color, sci-fi style",DALLE2_normal_201.jpg,201,1.880615311,0.858079912,2.846322945,0.906980131
+"a gummy bear performing at woodstock concert, cold color, sci-fi style",glide_normal_201.jpg,201,1.461647503,0.537758994,2.508900426,0.827085646
+"a gummy bear performing at woodstock concert, cold color, sci-fi style",midjourney_lowstep_201.jpg,201,2.460930201,0.490981876,2.897228486,0.640848076
+"a gummy bear performing at woodstock concert, cold color, sci-fi style",midjourney_normal_201.jpg,201,3.863181835,0.559230408,3.592172903,0.950059449
+"a gummy bear performing at woodstock concert, cold color, sci-fi style",sd1.5_highcorr_201.jpg,201,2.955258155,0.485083175,2.699333701,0.682568682
+"a gummy bear performing at woodstock concert, cold color, sci-fi style",sd1.5_lowcorr_201.jpg,201,3.074988427,1.006652733,2.706378634,1.112722203
+"a gummy bear performing at woodstock concert, cold color, sci-fi style",sd1.5_lowstep_201.jpg,201,3.058356047,0.621872604,2.93018727,0.503406257
+"a gummy bear performing at woodstock concert, cold color, sci-fi style",sd1.5_normal_201.jpg,201,2.346834335,0.387113778,2.677763969,0.749453132
+"a gummy bear performing at woodstock concert, cold color, sci-fi style",xl2.2_normal_201.jpg,201,2.777468708,0.440587102,2.889390821,0.992690502
+"a beautiful brutalist concrete forest temple, elevation view, abstract style",AttnGAN_normal_203.jpg,203,1.168900836,0.799221234,0.810884549,0.697284312
+"a beautiful brutalist concrete forest temple, elevation view, abstract style",DALLE2_normal_203.jpg,203,1.868518107,0.812630472,1.597142136,0.538599655
+"a beautiful brutalist concrete forest temple, elevation view, abstract style",glide_normal_203.jpg,203,0.313378312,0.441314652,0.307013614,0.420944032
+"a beautiful brutalist concrete forest temple, elevation view, abstract style",midjourney_lowstep_203.jpg,203,2.493724965,0.38173282,2.144474319,0.776349955
+"a beautiful brutalist concrete forest temple, elevation view, abstract style",midjourney_normal_203.jpg,203,3.523701266,0.584049092,2.979908012,0.572701865
+"a beautiful brutalist concrete forest temple, elevation view, abstract style",sd1.5_highcorr_203.jpg,203,2.988623579,0.578410425,2.226642462,1.129916005
+"a beautiful brutalist concrete forest temple, elevation view, abstract style",sd1.5_lowcorr_203.jpg,203,2.46452189,0.951017549,2.189529698,1.043666853
+"a beautiful brutalist concrete forest temple, elevation view, abstract style",sd1.5_lowstep_203.jpg,203,2.293736737,0.672163287,2.462224445,0.79451797
+"a beautiful brutalist concrete forest temple, elevation view, abstract style",sd1.5_normal_203.jpg,203,1.777662735,0.854961235,1.903300589,0.553548415
+"a beautiful brutalist concrete forest temple, elevation view, abstract style",xl2.2_normal_203.jpg,203,2.851759102,0.728298418,2.071203024,1.209477601
+"a heavily bloodied horrified pretty young woman, warm color, hyper detail",AttnGAN_normal_229.jpg,229,0.799027902,0.852995712,0.696426448,0.582324168
+"a heavily bloodied horrified pretty young woman, warm color, hyper detail",DALLE2_normal_229.jpg,229,2.476222723,0.421855239,1.94279623,0.648363447
+"a heavily bloodied horrified pretty young woman, warm color, hyper detail",glide_normal_229.jpg,229,0.552320411,0.272355203,0.69188714,0.539664844
+"a heavily bloodied horrified pretty young woman, warm color, hyper detail",sd1.5_highcorr_229.jpg,229,3.365299544,0.657345464,3.429200187,0.607995139
+"a heavily bloodied horrified pretty young woman, warm color, hyper detail",sd1.5_lowcorr_229.jpg,229,2.55346049,0.323377588,2.790068621,0.540241398
+"a heavily bloodied horrified pretty young woman, warm color, hyper detail",sd1.5_lowstep_229.jpg,229,1.711133213,0.574058843,2.956517697,1.022856725
+"a heavily bloodied horrified pretty young woman, warm color, hyper detail",sd1.5_normal_229.jpg,229,3.240419025,0.524383175,3.497739298,0.481906754
+"a heavily bloodied horrified pretty young woman, warm color, hyper detail",xl2.2_normal_229.jpg,229,3.833164995,0.442857463,3.476952075,0.663667067
+"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",AttnGAN_normal_231.jpg,231,0.863588083,0.378085918,0.714775788,0.575998171
+"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",DALLE2_normal_231.jpg,231,1.829599618,0.347346055,2.46389967,0.973584352
+"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",glide_normal_231.jpg,231,1.358005834,0.351998219,1.566876536,0.616766924
+"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",midjourney_lowstep_231.jpg,231,2.478791084,0.705633541,2.51693257,0.755849566
+"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",midjourney_normal_231.jpg,231,3.742610392,0.54630171,1.507186675,1.40998647
+"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",sd1.5_highcorr_231.jpg,231,3.380391978,0.552474867,2.844239553,0.861828786
+"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",sd1.5_lowcorr_231.jpg,231,3.530578941,0.649965296,2.251027408,1.049773444
+"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",sd1.5_lowstep_231.jpg,231,3.685179175,0.448159721,2.737502173,0.519092617
+"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",sd1.5_normal_231.jpg,231,3.64048937,0.806897706,2.838030773,0.962532858
+"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",xl2.2_normal_231.jpg,231,3.673198773,0.400529413,3.043538165,0.567187125
+"portrait of terrified green ball gown young woman, top view, long-shot",AttnGAN_normal_237.jpg,237,0.678279008,0.929294141,0.566059704,0.676281393
+"portrait of terrified green ball gown young woman, top view, long-shot",DALLE2_normal_237.jpg,237,3.316649193,0.792363184,3.348349994,0.959123723
+"portrait of terrified green ball gown young woman, top view, long-shot",glide_normal_237.jpg,237,0.8493261,0.383957793,0.519696217,0.460561682
+"portrait of terrified green ball gown young woman, top view, long-shot",midjourney_lowstep_237.jpg,237,3.324474137,0.611943012,3.351474113,0.64671228
+"portrait of terrified green ball gown young woman, top view, long-shot",midjourney_normal_237.jpg,237,3.60083465,0.295704488,3.296107282,0.642840814
+"portrait of terrified green ball gown young woman, top view, long-shot",sd1.5_highcorr_237.jpg,237,2.265379665,0.466205156,2.509500087,0.792044448
+"portrait of terrified green ball gown young woman, top view, long-shot",sd1.5_lowcorr_237.jpg,237,2.674859949,0.834530422,2.677763969,1.029200822
+"portrait of terrified green ball gown young woman, top view, long-shot",sd1.5_lowstep_237.jpg,237,3.1806835,0.413262504,2.181720144,0.872532542
+"portrait of terrified green ball gown young woman, top view, long-shot",sd1.5_normal_237.jpg,237,2.213514948,0.434251294,2.74673979,0.590534876
+"portrait of terrified green ball gown young woman, top view, long-shot",xl2.2_normal_237.jpg,237,3.878442297,0.440048059,3.715711518,0.63769118
+"a small grassland nestled in the hollow of a tree, elevation view, long-shot",AttnGAN_normal_239.jpg,239,0.937026638,0.999554152,0.874199281,1.011317107
+"a small grassland nestled in the hollow of a tree, elevation view, long-shot",DALLE2_normal_239.jpg,239,3.43455948,0.293180299,2.045152119,0.855262535
+"a small grassland nestled in the hollow of a tree, elevation view, long-shot",glide_normal_239.jpg,239,0.803407893,0.526424321,1.289688929,0.604217387
+"a small grassland nestled in the hollow of a tree, elevation view, long-shot",midjourney_lowstep_239.jpg,239,0.940601322,0.818507325,1.945829918,0.860447974
+"a small grassland nestled in the hollow of a tree, elevation view, long-shot",midjourney_normal_239.jpg,239,3.062007692,0.633605077,2.824058767,0.822173125
+"a small grassland nestled in the hollow of a tree, elevation view, long-shot",sd1.5_highcorr_239.jpg,239,3.289837374,0.349230889,2.77261172,0.570643448
+"a small grassland nestled in the hollow of a tree, elevation view, long-shot",sd1.5_lowcorr_239.jpg,239,3.541752783,0.685512847,2.900809578,0.702078567
+"a small grassland nestled in the hollow of a tree, elevation view, long-shot",sd1.5_lowstep_239.jpg,239,3.741408859,0.581516138,2.646301338,0.617095091
+"a small grassland nestled in the hollow of a tree, elevation view, long-shot",sd1.5_normal_239.jpg,239,3.162256259,0.388122141,3.054879367,0.521720427
+"a small grassland nestled in the hollow of a tree, elevation view, long-shot",xl2.2_normal_239.jpg,239,3.188291344,0.529775335,1.897445686,1.043061735
+"a living room with a black and white chevron floor, elevation view, blurred detail",AttnGAN_normal_242.jpg,242,0.865931916,0.347716294,0.344259439,0.634741668
+"a living room with a black and white chevron floor, elevation view, blurred detail",DALLE2_normal_242.jpg,242,0.820802133,0.380746294,1.470709125,0.889649052
+"a living room with a black and white chevron floor, elevation view, blurred detail",glide_normal_242.jpg,242,1.191989061,0.313013087,1.686256257,0.867478935
+"a living room with a black and white chevron floor, elevation view, blurred detail",midjourney_lowstep_242.jpg,242,2.668210231,0.699627025,2.601416989,1.059530092
+"a living room with a black and white chevron floor, elevation view, blurred detail",midjourney_normal_242.jpg,242,3.80790651,0.749185461,2.41761037,0.624680239
+"a living room with a black and white chevron floor, elevation view, blurred detail",sd1.5_highcorr_242.jpg,242,3.150815738,0.258144905,2.839729721,0.408636425
+"a living room with a black and white chevron floor, elevation view, blurred detail",sd1.5_lowcorr_242.jpg,242,3.723651273,0.923835854,3.022343767,1.51905941
+"a living room with a black and white chevron floor, elevation view, blurred detail",sd1.5_lowstep_242.jpg,242,3.671121754,0.418177472,2.988304467,1.043499654
+"a living room with a black and white chevron floor, elevation view, blurred detail",sd1.5_normal_242.jpg,242,3.769523701,0.442638381,2.395499044,1.182543289
+"a living room with a black and white chevron floor, elevation view, blurred detail",xl2.2_normal_242.jpg,242,3.811695963,0.302064303,2.86290332,0.821523535
+"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",AttnGAN_normal_252.jpg,252,0.749492217,0.431557706,0.909855359,1.120639411
+"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",DALLE2_normal_252.jpg,252,2.462183558,0.643627595,2.452499565,0.523719054
+"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",glide_normal_252.jpg,252,2.060642411,0.647826564,2.094813219,0.67915997
+"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",midjourney_lowstep_252.jpg,252,2.041016527,0.505244646,3.114136978,0.863650497
+"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",midjourney_normal_252.jpg,252,3.347801074,0.750706387,3.432908534,0.857000187
+"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",sd1.5_highcorr_252.jpg,252,2.782759734,0.673960326,3.315612856,0.625153811
+"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",sd1.5_lowcorr_252.jpg,252,2.448126137,0.580309637,2.634901234,0.468996724
+"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",sd1.5_lowstep_252.jpg,252,3.673501579,0.396052881,2.504517295,0.376394706
+"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",sd1.5_normal_252.jpg,252,3.129903806,1.091988587,2.634813255,0.7087131
+"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",xl2.2_normal_252.jpg,252,2.785504238,0.732482928,3.42150843,0.619728709
+"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",AttnGAN_normal_253.jpg,253,1.3374464,0.403605475,1.399151384,0.812900782
+"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",DALLE2_normal_253.jpg,253,0.0,0.324752734,0.253699602,0.465981252
+"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",glide_normal_253.jpg,253,0.60416837,0.522841763,0.642169337,0.528830708
+"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",midjourney_lowstep_253.jpg,253,1.920267633,0.865558975,2.604521523,0.826342336
+"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",midjourney_normal_253.jpg,253,3.558662387,0.342620207,3.318907491,0.814583404
+"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",sd1.5_highcorr_253.jpg,253,3.44620302,0.785345922,3.239106761,0.809848391
+"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",sd1.5_lowcorr_253.jpg,253,3.12288234,0.86229865,2.805902798,1.044551598
+"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",sd1.5_lowstep_253.jpg,253,2.632073999,1.408632936,2.90942096,0.901483566
+"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",sd1.5_normal_253.jpg,253,2.546528083,1.049419824,2.828703007,0.942818741
+"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",xl2.2_normal_253.jpg,253,3.88997508,0.749950937,3.127665478,0.868465101
+"full length portrait of a beautiful woman with horns, blurred detail, soft lighting",AttnGAN_normal_256.jpg,256,0.792278167,0.533205615,0.690390841,0.314609835
+"full length portrait of a beautiful woman with horns, blurred detail, soft lighting",DALLE2_normal_256.jpg,256,2.328729662,0.805108185,2.735002056,1.357950379
+"full length portrait of a beautiful woman with horns, blurred detail, soft lighting",glide_normal_256.jpg,256,1.491115344,0.726260124,1.239052134,0.864085128
+"full length portrait of a beautiful woman with horns, blurred detail, soft lighting",midjourney_lowstep_256.jpg,256,3.274576995,0.584081311,3.601613177,0.53237109
+"full length portrait of a beautiful woman with horns, blurred detail, soft lighting",midjourney_normal_256.jpg,256,4.039666506,0.693540881,3.746430529,0.432012662
+"full length portrait of a beautiful woman with horns, blurred detail, soft lighting",sd1.5_highcorr_256.jpg,256,2.307551928,0.868088685,3.02250478,0.91381904
+"full length portrait of a beautiful woman with horns, blurred detail, soft lighting",sd1.5_lowcorr_256.jpg,256,1.676926969,0.655630479,1.644057341,1.011869835
+"full length portrait of a beautiful woman with horns, blurred detail, soft lighting",sd1.5_lowstep_256.jpg,256,0.505780588,0.773872233,1.206041903,0.627499826
+"full length portrait of a beautiful woman with horns, blurred detail, soft lighting",sd1.5_normal_256.jpg,256,1.825871285,0.406784071,2.736797804,1.150747542
+"full length portrait of a beautiful woman with horns, blurred detail, soft lighting",xl2.2_normal_256.jpg,256,3.662501677,0.65408779,3.528940255,0.629622318
+"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",AttnGAN_normal_268.jpg,268,1.04513849,0.350119049,1.424388367,1.214693485
+"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",DALLE2_normal_268.jpg,268,1.351025623,0.628129096,1.811038675,0.926288778
+"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",glide_normal_268.jpg,268,1.506271425,1.159340062,0.81494167,0.783830946
+"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",midjourney_lowstep_268.jpg,268,1.627020319,0.876551014,2.379342601,0.928487676
+"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",midjourney_normal_268.jpg,268,3.195617381,0.990744144,3.088035221,0.828012958
+"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",sd1.5_highcorr_268.jpg,268,2.575026067,1.170373598,3.17765537,0.9967889
+"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",sd1.5_lowcorr_268.jpg,268,3.438253731,0.875054511,2.794145879,1.00038733
+"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",sd1.5_lowstep_268.jpg,268,2.776844014,0.695390588,3.013304279,0.390078657
+"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",sd1.5_normal_268.jpg,268,2.65595515,0.747262982,3.011371163,0.747396649
+"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",xl2.2_normal_268.jpg,268,3.058356047,0.581916613,3.285648044,0.44801724
+"poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style",AttnGAN_normal_269.jpg,269,0.712802152,0.420762558,0.731226048,0.784941378
+"poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style",DALLE2_normal_269.jpg,269,3.365299544,0.617441912,3.274006549,0.736580615
+"poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style",glide_normal_269.jpg,269,0.929924681,0.276353745,0.617082776,0.395704582
+"poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style",midjourney_lowstep_269.jpg,269,2.987988696,0.396033594,3.1665648,0.631196868
+"poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style",midjourney_normal_269.jpg,269,4.145497254,0.704938876,1.573439091,0.88823139
+"poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style",sd1.5_highcorr_269.jpg,269,3.662501677,0.692785203,3.528940255,0.43224874
+"poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style",sd1.5_lowcorr_269.jpg,269,3.558662387,0.478981247,3.079505301,0.874862808
+"poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style",sd1.5_lowstep_269.jpg,269,3.106014094,0.630721133,3.187357422,0.805402923
+"poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style",sd1.5_normal_269.jpg,269,3.184190337,0.62373359,3.644083685,0.634327229
+"poignant portrait of an older man remembering his youth, warm color, hyper detail, baroque style",xl2.2_normal_269.jpg,269,3.279275256,0.671699643,3.146889346,0.691326734
+"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",AttnGAN_normal_273.jpg,273,0.731526985,0.367350535,1.759600793,1.125179591
+"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",DALLE2_normal_273.jpg,273,2.166977719,1.070715534,2.281498001,1.204507687
+"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",glide_normal_273.jpg,273,1.063255848,0.500882455,1.812098374,1.046589067
+"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",midjourney_lowstep_273.jpg,273,0.663293231,0.742893648,2.271926577,1.517237795
+"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",midjourney_normal_273.jpg,273,2.455012736,1.062236918,3.161543067,0.759091366
+"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",sd1.5_highcorr_273.jpg,273,3.374371279,1.268934248,3.311978472,1.152118558
+"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",sd1.5_lowcorr_273.jpg,273,3.046278569,0.527509559,3.373586547,0.77789193
+"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",sd1.5_lowstep_273.jpg,273,3.494295005,0.684522826,3.634307323,0.638156861
+"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",sd1.5_normal_273.jpg,273,3.202553327,0.811436076,3.37273494,0.612155107
+"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",xl2.2_normal_273.jpg,273,2.996365552,0.492369506,3.079505301,1.041156944
+"rats in tuxedos drinking champagne in bubbles in the space, top view, blurred detail, anime style",AttnGAN_normal_280.jpg,280,1.178524426,0.580479719,0.886050804,0.537105358
+"rats in tuxedos drinking champagne in bubbles in the space, top view, blurred detail, anime style",DALLE2_normal_280.jpg,280,2.532470662,0.335472425,2.919903841,0.817311686
+"rats in tuxedos drinking champagne in bubbles in the space, top view, blurred detail, anime style",glide_normal_280.jpg,280,0.902526954,0.699155911,0.791238626,0.722265069
+"rats in tuxedos drinking champagne in bubbles in the space, top view, blurred detail, anime style",midjourney_lowstep_280.jpg,280,2.218274567,0.412597023,2.796487664,0.733759347
+"rats in tuxedos drinking champagne in bubbles in the space, top view, blurred detail, anime style",midjourney_normal_280.jpg,280,3.389973337,0.285640481,3.364507908,0.454615107
+"rats in tuxedos drinking champagne in bubbles in the space, top view, blurred detail, anime style",sd1.5_highcorr_280.jpg,280,2.689121932,0.324333813,2.129102676,0.816538284
+"rats in tuxedos drinking champagne in bubbles in the space, top view, blurred detail, anime style",sd1.5_lowcorr_280.jpg,280,2.610677849,0.756642392,1.662380313,0.788551357
+"rats in tuxedos drinking champagne in bubbles in the space, top view, blurred detail, anime style",sd1.5_lowstep_280.jpg,280,2.377839033,0.723424649,1.836893934,0.786270207
+"rats in tuxedos drinking champagne in bubbles in the space, top view, blurred detail, anime style",sd1.5_normal_280.jpg,280,2.598262134,0.95314326,1.697524418,1.290201358
+"rats in tuxedos drinking champagne in bubbles in the space, top view, blurred detail, anime style",xl2.2_normal_280.jpg,280,2.844740127,0.417915627,2.824058767,0.801777139
+"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",AttnGAN_normal_282.jpg,282,1.128999889,0.681000061,1.008066046,0.454621569
+"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",DALLE2_normal_282.jpg,282,2.616815188,0.649527204,2.452499565,1.104207328
+"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",glide_normal_282.jpg,282,0.754308478,0.451027092,0.958039958,0.892057087
+"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",midjourney_lowstep_282.jpg,282,2.196265106,0.433113326,2.770442834,0.590231935
+"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",midjourney_normal_282.jpg,282,3.539096649,0.614388057,2.318288169,0.702413236
+"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",sd1.5_highcorr_282.jpg,282,1.750409116,0.482943362,2.784549692,0.649201238
+"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",sd1.5_lowcorr_282.jpg,282,1.991888058,0.389753051,1.996643532,0.882399331
+"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",sd1.5_lowstep_282.jpg,282,2.127265738,0.764236275,1.454923869,1.231673229
+"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",sd1.5_normal_282.jpg,282,2.176839871,1.408041032,1.797978878,0.629033035
+"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",xl2.2_normal_282.jpg,282,2.46452189,0.723313502,2.245190143,1.137271019
+"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",AttnGAN_normal_283.jpg,283,0.850777428,0.688058427,0.957159937,0.95038095
+"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",DALLE2_normal_283.jpg,283,2.625770283,0.712896903,3.035247107,0.789781547
+"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",glide_normal_283.jpg,283,1.075025374,0.758286415,1.312705603,1.1853308
+"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",midjourney_lowstep_283.jpg,283,1.20587568,0.520842304,1.653596222,1.220350086
+"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",midjourney_normal_283.jpg,283,3.790180796,0.982271684,2.903856842,0.875220657
+"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",sd1.5_highcorr_283.jpg,283,3.541752783,0.388083258,2.557115434,1.011975105
+"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",sd1.5_lowcorr_283.jpg,283,2.888789697,0.861217028,3.153270423,0.53016004
+"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",sd1.5_lowstep_283.jpg,283,3.958236395,0.440408113,3.158021435,1.134802748
+"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",sd1.5_normal_283.jpg,283,3.333743653,0.337819985,2.62350113,0.631014642
+"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",xl2.2_normal_283.jpg,283,3.240419025,0.585058829,2.914221371,0.521864492
+"an epic artistic colourful natural scene on an alien planet, elevation view, soft lighting, sci-fi style",AttnGAN_normal_286.jpg,286,1.345220838,0.740267098,1.482013745,0.919902293
+"an epic artistic colourful natural scene on an alien planet, elevation view, soft lighting, sci-fi style",DALLE2_normal_286.jpg,286,2.731907882,0.791364456,3.116693004,0.506429624
+"an epic artistic colourful natural scene on an alien planet, elevation view, soft lighting, sci-fi style",glide_normal_286.jpg,286,0.264116095,0.912260102,0.244483642,0.430152149
+"an epic artistic colourful natural scene on an alien planet, elevation view, soft lighting, sci-fi style",midjourney_lowstep_286.jpg,286,1.780593984,0.238421566,2.402534584,0.963777875
+"an epic artistic colourful natural scene on an alien planet, elevation view, soft lighting, sci-fi style",midjourney_normal_286.jpg,286,3.245339277,0.711825742,3.348349994,0.271818784
+"an epic artistic colourful natural scene on an alien planet, elevation view, soft lighting, sci-fi style",sd1.5_highcorr_286.jpg,286,3.658567698,0.661973811,3.485324022,0.579634863
+"an epic artistic colourful natural scene on an alien planet, elevation view, soft lighting, sci-fi style",sd1.5_lowcorr_286.jpg,286,3.822840391,0.499507989,3.423247647,0.531587353
+"an epic artistic colourful natural scene on an alien planet, elevation view, soft lighting, sci-fi style",sd1.5_lowstep_286.jpg,286,3.094767498,0.433597463,3.125105718,0.473954261
+"an epic artistic colourful natural scene on an alien planet, elevation view, soft lighting, sci-fi style",sd1.5_normal_286.jpg,286,3.274744941,0.832784794,3.321758438,0.617413606
+"an epic artistic colourful natural scene on an alien planet, elevation view, soft lighting, sci-fi style",xl2.2_normal_286.jpg,286,3.080710077,0.504825637,3.489909055,0.43191529
+"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",AttnGAN_normal_287.jpg,287,0.935417685,0.194863038,0.587962822,0.795238686
+"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",DALLE2_normal_287.jpg,287,2.762534827,0.477452794,2.504517295,0.755971564
+"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",glide_normal_287.jpg,287,1.316523163,0.758410232,1.703805836,1.120564708
+"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",midjourney_lowstep_287.jpg,287,2.837204233,0.513262583,3.001128296,0.474938243
+"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",midjourney_normal_287.jpg,287,3.55403053,0.254184878,2.814899171,0.883620635
+"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",sd1.5_highcorr_287.jpg,287,3.659493494,0.579176041,2.757266234,0.429057936
+"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",sd1.5_lowcorr_287.jpg,287,2.610261314,0.606237113,2.805997401,0.703568835
+"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",sd1.5_lowstep_287.jpg,287,3.150815738,0.67261686,2.529347845,1.007230535
+"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",sd1.5_normal_287.jpg,287,2.613196015,0.495986647,2.579008945,0.953350571
+"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",xl2.2_normal_287.jpg,287,3.472753415,0.905046133,3.410425033,0.687718541
+"portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style",AttnGAN_normal_289.jpg,289,0.0,0.147340472,0.058708113,0.366031465
+"portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style",DALLE2_normal_289.jpg,289,3.075586915,0.362630975,3.491984103,0.297770146
+"portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style",glide_normal_289.jpg,289,1.098613732,0.800392431,1.221288303,0.492102123
+"portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style",midjourney_lowstep_289.jpg,289,2.260001775,0.474919439,2.745874276,0.667943627
+"portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style",midjourney_normal_289.jpg,289,3.659493494,0.43388243,3.514248281,1.197813396
+"portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style",sd1.5_highcorr_289.jpg,289,2.518838781,0.675330189,3.336134858,0.36955383
+"portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style",sd1.5_lowcorr_289.jpg,289,1.759312513,0.439775474,2.919903841,0.524070042
+"portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style",sd1.5_lowstep_289.jpg,289,3.283005153,0.429840002,3.351167422,0.924827792
+"portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style",sd1.5_normal_289.jpg,289,2.541261946,0.604389513,2.734888268,1.380870451
+"portrait photo of a scientist deformed by some unknown disease, close-up, hyper detail, baroque style",xl2.2_normal_289.jpg,289,3.375915916,0.759548979,2.805902798,0.94027454
+"anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style",AttnGAN_normal_294.jpg,294,1.284080589,0.591957485,0.940192641,0.798981189
+"anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style",DALLE2_normal_294.jpg,294,2.806879489,0.665417506,2.557728222,0.9408609
+"anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style",glide_normal_294.jpg,294,0.592546579,0.295492721,0.753884027,0.451993821
+"anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style",midjourney_lowstep_294.jpg,294,2.36946733,0.611238728,2.245190143,0.968686776
+"anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style",midjourney_normal_294.jpg,294,3.49654282,0.50897489,2.623681166,1.022421646
+"anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style",sd1.5_highcorr_294.jpg,294,0.421466604,0.390556335,0.726968261,0.644587367
+"anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style",sd1.5_lowcorr_294.jpg,294,2.939794687,0.407814067,2.857455034,0.691340478
+"anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style",sd1.5_lowstep_294.jpg,294,2.94583763,0.619832215,2.592416657,1.041752404
+"anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style",sd1.5_normal_294.jpg,294,3.024257523,0.976001705,2.663779134,0.957120085
+"anthropomorphic thresher shark in knight armor dropping his sword, long-shot, soft lighting, baroque style",xl2.2_normal_294.jpg,294,2.926215464,0.542030647,2.222925965,0.9030852
+"beautiful fluffy baby giraffe cheetah hybrid mixed creature character concept, hyper detail, HDR lighting, baroque style",AttnGAN_normal_299.jpg,299,0.943982102,0.459595813,1.244088511,0.971761684
+"beautiful fluffy baby giraffe cheetah hybrid mixed creature character concept, hyper detail, HDR lighting, baroque style",DALLE2_normal_299.jpg,299,2.450942667,0.687942687,2.824058767,0.508440442
+"beautiful fluffy baby giraffe cheetah hybrid mixed creature character concept, hyper detail, HDR lighting, baroque style",glide_normal_299.jpg,299,1.101434458,0.596883812,2.31896878,0.627912954
+"beautiful fluffy baby giraffe cheetah hybrid mixed creature character concept, hyper detail, HDR lighting, baroque style",midjourney_lowstep_299.jpg,299,3.231255627,0.573365997,3.031176323,1.108686787
+"beautiful fluffy baby giraffe cheetah hybrid mixed creature character concept, hyper detail, HDR lighting, baroque style",midjourney_normal_299.jpg,299,3.559002625,0.566487591,3.434128078,0.538081589
+"beautiful fluffy baby giraffe cheetah hybrid mixed creature character concept, hyper detail, HDR lighting, baroque style",sd1.5_highcorr_299.jpg,299,2.573155672,0.560483283,3.068964724,1.095676498
+"beautiful fluffy baby giraffe cheetah hybrid mixed creature character concept, hyper detail, HDR lighting, baroque style",sd1.5_lowcorr_299.jpg,299,2.261262436,0.825919496,2.165680096,0.958479591
+"beautiful fluffy baby giraffe cheetah hybrid mixed creature character concept, hyper detail, HDR lighting, baroque style",sd1.5_lowstep_299.jpg,299,2.729274555,0.74151874,3.011104675,0.645455975
+"beautiful fluffy baby giraffe cheetah hybrid mixed creature character concept, hyper detail, HDR lighting, baroque style",sd1.5_normal_299.jpg,299,2.517978134,0.716384797,2.994768272,0.375299158
+"beautiful fluffy baby giraffe cheetah hybrid mixed creature character concept, hyper detail, HDR lighting, baroque style",xl2.2_normal_299.jpg,299,3.60083465,0.486499893,3.467108847,0.549443718

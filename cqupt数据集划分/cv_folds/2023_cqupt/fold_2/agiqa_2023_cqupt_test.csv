@@ -1,0 +1,481 @@
+﻿prompt,image_name,index,Quality,Authenticity,Correspondence,score_1,score_2,score_3,score_4,score_5
+a boat in the canals of venice,Controlnet/019-1.png,19,0.491469257807207,0.463611309222291,0.514479156633995,4,4,3,3,3
+a boat in the canals of venice,Controlnet/019-2.png,19,0.455641269337247,0.45714062435901,0.48232331343113,2,2,2,2,3
+a boat in the canals of venice,Controlnet/019-3.png,19,0.510073638622062,0.470528760191084,0.5046232706006191,4,4,4,3,3
+a boat in the canals of venice,Controlnet/019-4.png,19,0.604911847249075,0.559531701495415,0.560504893908388,4,4,4,3,2
+a boat in the canals of venice,DALLE/019-1.png,19,0.555919567151391,0.573166232064798,0.558135734638055,3,3,3,3,3
+a boat in the canals of venice,DALLE/019-2.png,19,0.609630425025512,0.617272432772331,0.608253111795934,4,4,4,3,3
+a boat in the canals of venice,DALLE/019-3.png,19,0.5858312423281989,0.598829396993924,0.592561234458771,3,3,4,3,3
+a boat in the canals of venice,DALLE/019-4.png,19,0.528488493318518,0.526683074617057,0.524020793960254,4,4,4,3,3
+a boat in the canals of venice,Glide/019-1.png,19,0.37204962270044,0.418449539746886,0.452165990921679,1,1,1,2,3
+a boat in the canals of venice,Glide/019-2.png,19,0.39828849849549,0.52134531839733,0.49963003673184,1,2,3,3,2
+a boat in the canals of venice,Glide/019-3.png,19,0.348869049038571,0.5151830624752161,0.475358931556483,2,3,2,3,3
+a boat in the canals of venice,Glide/019-4.png,19,0.3918118239233359,0.482422810986708,0.5126918814304721,1,3,3,1,3
+a boat in the canals of venice,Lafite/019-1.png,19,0.400217899844974,0.440073032549965,0.45418491249866,2,2,2,2,3
+a boat in the canals of venice,Lafite/019-2.png,19,0.457639794501393,0.506637564016132,0.5311844065649219,1,2,3,1,3
+a boat in the canals of venice,Lafite/019-3.png,19,0.431220152357508,0.545874327891624,0.593976093741454,2,3,2,3,3
+a boat in the canals of venice,Lafite/019-4.png,19,0.3552928698035629,0.430689454109898,0.512341500451969,2,3,4,3,3
+a boat in the canals of venice,stable-diffusion/019-1.png,19,0.515143805813324,0.513341218246955,0.5511870621677231,3,3,3,3,3
+a boat in the canals of venice,stable-diffusion/019-2.png,19,0.5815587793236829,0.5597565215375441,0.560187163623697,3,3,3,2,3
+a boat in the canals of venice,stable-diffusion/019-3.png,19,0.566824702854947,0.577746790058039,0.557125267811678,4,4,4,3,3
+a boat in the canals of venice,stable-diffusion/019-4.png,19,0.463770141219494,0.442854556182405,0.5120668431713881,2,1,2,1,2
+a boat in the canals of venice,Unidiffuser/019-1.png,19,0.560216487242592,0.538808185917695,0.551857167063488,4,4,4,3,3
+a boat in the canals of venice,Unidiffuser/019-2.png,19,0.318633872598958,0.395047792508356,0.4638710434873019,1,2,1,3,1
+a boat in the canals of venice,Unidiffuser/019-3.png,19,0.616660656845838,0.560106199280104,0.55359864824144,3,4,3,2,3
+a boat in the canals of venice,Unidiffuser/019-4.png,19,0.636372127126713,0.625284241263371,0.663778379436314,3,3,3,3,3
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,Controlnet/020-1.png,20,0.466610140776315,0.422156494879132,0.408372274638033,3,1,2,1,1
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,Controlnet/020-2.png,20,0.566570733638659,0.455561983526644,0.397120442104365,3,3,3,2,1
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,Controlnet/020-3.png,20,0.5044172368174931,0.468886347912618,0.412971191763103,4,4,3,2,2
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,Controlnet/020-4.png,20,0.566035914143318,0.5055235038333,0.485419962498688,3,2,3,2,2
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,DALLE/020-1.png,20,0.519073614953315,0.460477494284368,0.424896176640795,4,4,3,2,1
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,DALLE/020-2.png,20,0.530682461894384,0.406143814394408,0.417549571036287,2,3,2,2,2
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,DALLE/020-3.png,20,0.47807919062764,0.3974208912869689,0.421527909273078,3,2,2,2,1
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,DALLE/020-4.png,20,0.496146310862825,0.458371043303148,0.413101744274129,3,3,3,2,2
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,Glide/020-1.png,20,0.365490296224441,0.390611376907972,0.3819066447925929,2,2,2,2,2
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,Glide/020-2.png,20,0.392136116392403,0.3862783424739149,0.433913688623076,1,1,1,1,1
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,Glide/020-3.png,20,0.404090405293972,0.384813247413824,0.377602808073759,1,1,1,1,1
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,Glide/020-4.png,20,0.374239975889321,0.337968235267696,0.3961977531903939,1,1,1,1,1
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,Lafite/020-1.png,20,0.402684315949629,0.361679045407054,0.397693515161151,3,3,3,1,1
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,Lafite/020-2.png,20,0.419272885626526,0.386752837618681,0.384053942298619,2,4,2,2,1
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,Lafite/020-3.png,20,0.392532884924093,0.388528936521298,0.368546462649191,1,1,1,1,1
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,Lafite/020-4.png,20,0.350973821925191,0.352740961187935,0.3883011297168239,2,1,2,1,1
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,stable-diffusion/020-1.png,20,0.490548233328839,0.384028457137784,0.414652520328571,2,3,2,1,1
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,stable-diffusion/020-2.png,20,0.5532462788568729,0.490389154028778,0.491674226898676,4,3,3,2,2
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,stable-diffusion/020-3.png,20,0.561592710255876,0.430225265817491,0.418093417850878,4,4,4,2,2
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,stable-diffusion/020-4.png,20,0.437594057023511,0.401732142013434,0.413903090151856,1,1,1,1,1
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,Unidiffuser/020-1.png,20,0.554618943297264,0.43317951317008,0.433602405538565,2,3,4,1,1
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,Unidiffuser/020-2.png,20,0.540949839115297,0.398043710302774,0.485090984051474,4,3,2,2,2
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,Unidiffuser/020-3.png,20,0.389853608288174,0.346502773275314,0.344211909482225,2,2,1,2,3
+A donkey is playing tug-of-war against an octopus. The donkey holds the rope in its mouth. A cat is jumping over the rope.,Unidiffuser/020-4.png,20,0.4585114692458459,0.428112206139697,0.447823770400807,4,4,4,1,2
+a tree reflected in the sunroof of a blue car,Controlnet/024-1.png,24,0.555686666377366,0.554794854514707,0.5350624814095231,3,3,2,3,2
+a tree reflected in the sunroof of a blue car,Controlnet/024-2.png,24,0.592852325206549,0.583375128416767,0.4152342182145209,4,4,4,3,2
+a tree reflected in the sunroof of a blue car,Controlnet/024-3.png,24,0.553283568947746,0.5263597599187491,0.529837085108483,4,4,4,3,3
+a tree reflected in the sunroof of a blue car,Controlnet/024-4.png,24,0.540406081051085,0.509752828718402,0.461515413970693,4,4,4,3,2
+a tree reflected in the sunroof of a blue car,DALLE/024-1.png,24,0.649092265468452,0.648730208308837,0.5950338079944,4,4,4,3,3
+a tree reflected in the sunroof of a blue car,DALLE/024-2.png,24,0.596012978244351,0.61884804934664,0.592654617045187,4,4,4,3,3
+a tree reflected in the sunroof of a blue car,DALLE/024-3.png,24,0.601599283114715,0.638059826104321,0.612809255051065,4,4,3,3,2
+a tree reflected in the sunroof of a blue car,DALLE/024-4.png,24,0.541169056985492,0.574388676887244,0.544082167622047,4,4,4,3,3
+a tree reflected in the sunroof of a blue car,Glide/024-1.png,24,0.3918037959041299,0.451320048518451,0.3958883443061179,1,2,2,2,2
+a tree reflected in the sunroof of a blue car,Glide/024-2.png,24,0.353978279522146,0.423381501829593,0.391525493059742,2,2,2,2,1
+a tree reflected in the sunroof of a blue car,Glide/024-3.png,24,0.470128233967015,0.4945697525219419,0.4024575990336669,2,2,2,3,2
+a tree reflected in the sunroof of a blue car,Glide/024-4.png,24,0.398126100216788,0.446952504124593,0.435916639229435,2,2,2,3,2
+a tree reflected in the sunroof of a blue car,Lafite/024-1.png,24,0.3901677453027269,0.39124872858229,0.443647239239358,4,3,3,2,3
+a tree reflected in the sunroof of a blue car,Lafite/024-2.png,24,0.480314884123826,0.520179146825105,0.539405853314846,2,2,2,2,2
+a tree reflected in the sunroof of a blue car,Lafite/024-3.png,24,0.361551912072231,0.412766947462633,0.413715556124244,1,1,1,2,2
+a tree reflected in the sunroof of a blue car,Lafite/024-4.png,24,0.432527763533136,0.435464631745959,0.492079247144539,1,1,2,2,1
+a tree reflected in the sunroof of a blue car,stable-diffusion/024-1.png,24,0.575096262367766,0.463701112004915,0.4843056586013919,2,1,1,1,3
+a tree reflected in the sunroof of a blue car,stable-diffusion/024-2.png,24,0.535914695172,0.489192453237619,0.461912026304413,4,4,4,3,2
+a tree reflected in the sunroof of a blue car,stable-diffusion/024-3.png,24,0.429671307875491,0.457928756035141,0.435078058582008,3,3,1,1,2
+a tree reflected in the sunroof of a blue car,stable-diffusion/024-4.png,24,0.637687712415105,0.58005577236777,0.543962674981989,4,4,4,2,3
+a tree reflected in the sunroof of a blue car,Unidiffuser/024-1.png,24,0.640713347366472,0.602648096397644,0.531112353068529,3,3,3,3,2
+a tree reflected in the sunroof of a blue car,Unidiffuser/024-2.png,24,0.574197464513899,0.559593824461702,0.557868736207446,3,3,3,3,2
+a tree reflected in the sunroof of a blue car,Unidiffuser/024-3.png,24,0.514185682149724,0.504691053501054,0.5032459000324669,4,4,4,2,3
+a tree reflected in the sunroof of a blue car,Unidiffuser/024-4.png,24,0.412432700025179,0.399080263414502,0.3965932022424679,1,2,1,1,1
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",Controlnet/026-1.png,26,0.56300765092414,0.514403201863711,0.465412079632516,4,4,4,3,2
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",Controlnet/026-2.png,26,0.579856015106851,0.552997317596803,0.542314411840614,4,4,4,3,2
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",Controlnet/026-3.png,26,0.513533591991868,0.512022231559491,0.453177336482304,4,4,4,3,1
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",Controlnet/026-4.png,26,0.636751159458037,0.569573988401216,0.539003835096974,4,3,2,3,2
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",DALLE/026-1.png,26,0.561337812809379,0.531381922097788,0.4755463473990379,4,4,4,3,2
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",DALLE/026-2.png,26,0.522837290937633,0.479525753922541,0.408624603534845,3,3,3,2,1
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",DALLE/026-3.png,26,0.5635309178617289,0.5557328519489529,0.518309050271484,3,3,2,3,2
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",DALLE/026-4.png,26,0.558174682117057,0.538801779665081,0.5282872941570951,4,4,3,3,2
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",Glide/026-1.png,26,0.403638638756095,0.4068314660177259,0.367189159866103,3,2,2,2,1
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",Glide/026-2.png,26,0.422230492117719,0.461963460351702,0.393606426188119,2,2,2,2,1
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",Glide/026-3.png,26,0.3769043164560339,0.384209828316538,0.3638754480142179,2,2,1,1,1
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",Glide/026-4.png,26,0.354213292187069,0.441558312462577,0.40669242513345,2,2,2,1,1
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",Lafite/026-1.png,26,0.369042635405078,0.367846526934354,0.37180212873395,1,1,1,1,1
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",Lafite/026-2.png,26,0.381604729877525,0.38493526945618,0.354508700938986,1,1,1,1,1
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",Lafite/026-3.png,26,0.333761510844238,0.357883838862356,0.3557524449870339,2,2,2,1,1
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",Lafite/026-4.png,26,0.393163408270431,0.438123378941799,0.409662099407172,3,3,3,2,2
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",stable-diffusion/026-1.png,26,0.514920551170201,0.489618893619988,0.420886811531464,4,4,4,3,2
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",stable-diffusion/026-2.png,26,0.56215357151164,0.534216087546208,0.430677027507477,3,3,3,3,1
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",stable-diffusion/026-3.png,26,0.470170655282461,0.445458923858872,0.431580059928658,4,4,4,3,1
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",stable-diffusion/026-4.png,26,0.427265334023276,0.413738527411262,0.394093036906334,2,2,2,2,2
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",Unidiffuser/026-1.png,26,0.348403446085492,0.440286346123116,0.397268285330403,1,1,2,1,1
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",Unidiffuser/026-2.png,26,0.564834907560556,0.506709129111902,0.464503181309243,4,4,3,2,2
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",Unidiffuser/026-3.png,26,0.480796361678482,0.521015790603384,0.4831130398418869,4,4,4,3,2
+"A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like colorful macarons. All of the macarons are wearing cowboy hats.",Unidiffuser/026-4.png,26,0.490999894269721,0.480855739253784,0.49066553359836,3,3,2,1,2
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,Controlnet/027-1.png,27,0.6199454142478671,0.554738240235362,0.585221163566819,4,4,4,3,3
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,Controlnet/027-2.png,27,0.547735246492444,0.516123217928196,0.5821473463400281,4,4,4,3,3
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,Controlnet/027-3.png,27,0.656009092292592,0.609055787582522,0.613562951188428,4,4,4,3,3
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,Controlnet/027-4.png,27,0.51102091300095,0.522194300915367,0.535185791610434,4,4,4,2,2
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,DALLE/027-1.png,27,0.51558959462565,0.43030660317711,0.5909312742602679,3,4,4,2,3
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,DALLE/027-2.png,27,0.523084254451334,0.506365671706289,0.513302559395885,4,4,4,3,2
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,DALLE/027-3.png,27,0.6112495282428609,0.584922758154961,0.654176144779136,3,4,3,2,3
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,DALLE/027-4.png,27,0.644743313000413,0.5807874971762871,0.618096576275576,2,3,2,2,3
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,Glide/027-1.png,27,0.397630371299025,0.439689658620464,0.460411894442193,2,2,2,2,2
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,Glide/027-2.png,27,0.402685722833576,0.488379521265552,0.4591235264139339,1,2,2,2,2
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,Glide/027-3.png,27,0.393580089387765,0.467366387889143,0.4477901615235389,2,2,2,3,2
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,Glide/027-4.png,27,0.422851252735262,0.464800399239749,0.4719239793731299,2,3,2,2,2
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,Lafite/027-1.png,27,0.416009216284528,0.417578314309424,0.407351699550964,2,2,2,2,2
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,Lafite/027-2.png,27,0.370985602320726,0.421094821541796,0.426344073872103,1,1,1,1,1
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,Lafite/027-3.png,27,0.300761777012464,0.3628439412725239,0.382954280575023,2,4,4,2,2
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,Lafite/027-4.png,27,0.413006890225786,0.4372944927057339,0.413255884149078,1,2,1,1,2
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,stable-diffusion/027-1.png,27,0.632877766430395,0.558232851863662,0.564031353974583,4,4,4,2,2
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,stable-diffusion/027-2.png,27,0.560442009472519,0.521688665488683,0.577659007870702,3,3,3,2,1
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,stable-diffusion/027-3.png,27,0.4251613870788099,0.4896157289435979,0.519265478167543,2,2,2,1,1
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,stable-diffusion/027-4.png,27,0.661842425613426,0.616891313092288,0.671828318679063,4,4,4,3,3
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,Unidiffuser/027-1.png,27,0.578953666050098,0.58039486466636,0.620434883102976,4,4,4,3,3
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,Unidiffuser/027-2.png,27,0.390796161460583,0.422069891783692,0.517244048778509,2,2,3,2,3
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,Unidiffuser/027-3.png,27,0.553404492437066,0.519381330086287,0.506405024028089,2,3,3,2,2
+A cozy living room with a painting of a corgi on the wall above a couch and a round coffee table in front of a couch and a vase of flowers on a coffee table,Unidiffuser/027-4.png,27,0.544075264828152,0.544356002463731,0.5420982528688311,4,3,4,3,3
+Snow mountain and tree reflection in the lake,Controlnet/028-1.png,28,0.54180419974729,0.514715463878051,0.55774922673994,4,4,4,3,3
+Snow mountain and tree reflection in the lake,Controlnet/028-2.png,28,0.675484098615907,0.598707167195991,0.5865521150168189,4,4,4,3,3
+Snow mountain and tree reflection in the lake,Controlnet/028-3.png,28,0.5582848060074,0.5239332377839581,0.595896770512633,4,4,4,3,3
+Snow mountain and tree reflection in the lake,Controlnet/028-4.png,28,0.631849231611597,0.66240321423965,0.6419716763065441,4,4,4,3,3
+Snow mountain and tree reflection in the lake,DALLE/028-1.png,28,0.622163022232442,0.610000275323613,0.6205193852341541,4,4,4,3,3
+Snow mountain and tree reflection in the lake,DALLE/028-2.png,28,0.593597298583898,0.596019707385701,0.606297947470109,4,4,4,3,2
+Snow mountain and tree reflection in the lake,DALLE/028-3.png,28,0.531367593414055,0.5791699450636709,0.574406097147761,2,3,3,3,3
+Snow mountain and tree reflection in the lake,DALLE/028-4.png,28,0.594539949691944,0.612024598759897,0.5801600286661369,4,4,4,3,3
+Snow mountain and tree reflection in the lake,Glide/028-1.png,28,0.414723376273556,0.502850788994752,0.637257626343951,1,2,1,2,3
+Snow mountain and tree reflection in the lake,Glide/028-2.png,28,0.426290643154841,0.474971447301951,0.552321269396314,2,2,2,3,2
+Snow mountain and tree reflection in the lake,Glide/028-3.png,28,0.392750278814107,0.448815820335279,0.530207021279399,3,3,3,3,3
+Snow mountain and tree reflection in the lake,Glide/028-4.png,28,0.437321993942081,0.529044867370289,0.5449058620140049,2,2,2,3,3
+Snow mountain and tree reflection in the lake,Lafite/028-1.png,28,0.380958019497218,0.413737330489398,0.508057309235816,1,2,2,2,3
+Snow mountain and tree reflection in the lake,Lafite/028-2.png,28,0.46773248671148,0.512324007670039,0.532088274012788,2,4,3,3,2
+Snow mountain and tree reflection in the lake,Lafite/028-3.png,28,0.384550124046035,0.447154744662791,0.438850249337979,2,3,3,3,2
+Snow mountain and tree reflection in the lake,Lafite/028-4.png,28,0.426748979185715,0.464195012568896,0.5103638426081001,2,3,2,2,3
+Snow mountain and tree reflection in the lake,stable-diffusion/028-1.png,28,0.513298344032685,0.538018118545872,0.500538063612705,4,4,3,3,3
+Snow mountain and tree reflection in the lake,stable-diffusion/028-2.png,28,0.389469788425658,0.45207226150914,0.476399746222597,1,1,2,1,3
+Snow mountain and tree reflection in the lake,stable-diffusion/028-3.png,28,0.654755348475332,0.652232028532348,0.641182564518007,4,4,4,3,3
+Snow mountain and tree reflection in the lake,stable-diffusion/028-4.png,28,0.7211039791344049,0.696041165276274,0.628337962259208,4,4,4,3,3
+Snow mountain and tree reflection in the lake,Unidiffuser/028-1.png,28,0.58258444140017,0.560017523315366,0.569309688055979,4,3,3,2,3
+Snow mountain and tree reflection in the lake,Unidiffuser/028-2.png,28,0.601716786164492,0.5965091521949311,0.615673110889474,4,4,4,3,3
+Snow mountain and tree reflection in the lake,Unidiffuser/028-3.png,28,0.365699375936157,0.380681133034491,0.4731378772979039,3,2,2,2,2
+Snow mountain and tree reflection in the lake,Unidiffuser/028-4.png,28,0.613188281843872,0.5846971409101109,0.5969084658270171,4,4,4,3,3
+a library filled with kids reading books,Controlnet/031-1.png,31,0.537913863617923,0.508243885367585,0.516710568617442,3,3,3,2,3
+a library filled with kids reading books,Controlnet/031-2.png,31,0.442103440719907,0.402825960185882,0.513356826720037,2,3,3,2,3
+a library filled with kids reading books,Controlnet/031-3.png,31,0.50101646759535,0.4470902251596479,0.4649198916300689,3,3,3,1,2
+a library filled with kids reading books,Controlnet/031-4.png,31,0.530719454959793,0.407461264045638,0.578280236213942,3,3,3,2,3
+a library filled with kids reading books,DALLE/031-1.png,31,0.459915065318813,0.380445479258301,0.43915573479442,3,3,4,2,3
+a library filled with kids reading books,DALLE/031-2.png,31,0.534534751742244,0.488006699466786,0.529358265223116,4,4,4,2,3
+a library filled with kids reading books,DALLE/031-3.png,31,0.521042122090757,0.472064094903767,0.5182938259609761,3,3,3,3,2
+a library filled with kids reading books,DALLE/031-4.png,31,0.512175902669912,0.421560430148929,0.542832493686763,3,3,2,2,3
+a library filled with kids reading books,Glide/031-1.png,31,0.395051798749925,0.454241492406275,0.430806736695106,1,2,2,2,1
+a library filled with kids reading books,Glide/031-2.png,31,0.48342279282217,0.487551544001414,0.479642791781847,2,2,3,3,1
+a library filled with kids reading books,Glide/031-3.png,31,0.36131923342582,0.511667048095351,0.380328974165173,2,3,2,3,2
+a library filled with kids reading books,Glide/031-4.png,31,0.4201666965967179,0.432599723153434,0.453296653866414,2,3,4,2,2
+a library filled with kids reading books,Lafite/031-1.png,31,0.4176899407539149,0.457240982973607,0.528413619983915,1,1,1,1,3
+a library filled with kids reading books,Lafite/031-2.png,31,0.433916723549042,0.4093965495302379,0.486377068002757,2,2,2,1,3
+a library filled with kids reading books,Lafite/031-3.png,31,0.447245735984987,0.450291885799345,0.49853116555417,1,2,2,1,3
+a library filled with kids reading books,Lafite/031-4.png,31,0.408042448085985,0.400359963149925,0.450870446411706,1,2,2,1,2
+a library filled with kids reading books,stable-diffusion/031-1.png,31,0.569752972020623,0.548202212281316,0.59603385193722,2,2,2,3,2
+a library filled with kids reading books,stable-diffusion/031-2.png,31,0.531285543264319,0.508503463537992,0.615396690816451,3,3,2,2,3
+a library filled with kids reading books,stable-diffusion/031-3.png,31,0.577897016900078,0.546152954588474,0.575045484578266,3,4,4,1,3
+a library filled with kids reading books,stable-diffusion/031-4.png,31,0.395254769780182,0.4262415344029219,0.523906103381133,2,2,2,2,2
+a library filled with kids reading books,Unidiffuser/031-1.png,31,0.473345964262878,0.468833734935315,0.5060192054132581,2,2,3,2,2
+a library filled with kids reading books,Unidiffuser/031-2.png,31,0.319107449339416,0.353480957516372,0.376467920356933,1,1,1,1,2
+a library filled with kids reading books,Unidiffuser/031-3.png,31,0.4364218176964279,0.486811314146855,0.423382278930447,2,2,3,1,2
+a library filled with kids reading books,Unidiffuser/031-4.png,31,0.472361472128039,0.520690171718181,0.466709192938217,3,3,3,3,2
+A bowl of soup that looks like a monster with tofu says deep learning,Controlnet/045-1.png,45,0.5738912106768,0.519690363245178,0.5024804683592771,2,3,3,3,2
+A bowl of soup that looks like a monster with tofu says deep learning,Controlnet/045-2.png,45,0.562372818466767,0.542424880987084,0.482880010609155,3,3,2,2,1
+A bowl of soup that looks like a monster with tofu says deep learning,Controlnet/045-3.png,45,0.65733532389279,0.586866652082173,0.5494869824731601,3,3,4,3,3
+A bowl of soup that looks like a monster with tofu says deep learning,Controlnet/045-4.png,45,0.608693511638843,0.55906099745233,0.478931959275613,4,4,4,3,3
+A bowl of soup that looks like a monster with tofu says deep learning,DALLE/045-1.png,45,0.4811563221867599,0.443513383136071,0.480581253179044,3,3,3,3,1
+A bowl of soup that looks like a monster with tofu says deep learning,DALLE/045-2.png,45,0.50772230251713,0.481516178577969,0.458470746544886,3,3,2,3,2
+A bowl of soup that looks like a monster with tofu says deep learning,DALLE/045-3.png,45,0.59037771719589,0.493145550442676,0.485252957830773,4,4,3,3,1
+A bowl of soup that looks like a monster with tofu says deep learning,DALLE/045-4.png,45,0.518080115377771,0.4195588765248079,0.455716825897732,3,3,3,1,1
+A bowl of soup that looks like a monster with tofu says deep learning,Glide/045-1.png,45,0.368128891187169,0.421806031050947,0.413208396955025,2,3,2,3,2
+A bowl of soup that looks like a monster with tofu says deep learning,Glide/045-2.png,45,0.395582776225977,0.425556086456637,0.434515814663235,1,2,2,2,1
+A bowl of soup that looks like a monster with tofu says deep learning,Glide/045-3.png,45,0.3409875149667259,0.515953737949284,0.421714586102013,2,2,2,2,2
+A bowl of soup that looks like a monster with tofu says deep learning,Glide/045-4.png,45,0.410555439253908,0.482072129310326,0.412857759460505,2,2,2,2,3
+A bowl of soup that looks like a monster with tofu says deep learning,Lafite/045-1.png,45,0.340374420111267,0.369583608882603,0.3863539130791409,1,1,1,1,1
+A bowl of soup that looks like a monster with tofu says deep learning,Lafite/045-2.png,45,0.367346439466145,0.361267267186569,0.376376530446744,2,2,2,1,1
+A bowl of soup that looks like a monster with tofu says deep learning,Lafite/045-3.png,45,0.35996398385219,0.454330013763499,0.3997588572492669,2,2,2,2,3
+A bowl of soup that looks like a monster with tofu says deep learning,Lafite/045-4.png,45,0.4198580281543719,0.422840353833653,0.453448120970705,1,1,1,1,2
+A bowl of soup that looks like a monster with tofu says deep learning,stable-diffusion/045-1.png,45,0.6201682689742349,0.508161356244746,0.528863635183409,3,3,3,2,2
+A bowl of soup that looks like a monster with tofu says deep learning,stable-diffusion/045-2.png,45,0.49799523235997,0.506541771513974,0.406663111809954,2,3,2,2,1
+A bowl of soup that looks like a monster with tofu says deep learning,stable-diffusion/045-3.png,45,0.347062635204777,0.3200695375670029,0.344383873737527,1,1,1,1,1
+A bowl of soup that looks like a monster with tofu says deep learning,stable-diffusion/045-4.png,45,0.553240329762688,0.5249544427819091,0.510795779016187,2,3,2,2,2
+A bowl of soup that looks like a monster with tofu says deep learning,Unidiffuser/045-1.png,45,0.4628397509930489,0.402703871351766,0.378535933887103,3,3,1,2,1
+A bowl of soup that looks like a monster with tofu says deep learning,Unidiffuser/045-2.png,45,0.52869020594378,0.518609473630065,0.436077597651473,2,2,3,2,2
+A bowl of soup that looks like a monster with tofu says deep learning,Unidiffuser/045-3.png,45,0.461706825505356,0.472366032761898,0.480795642611298,2,2,2,3,2
+A bowl of soup that looks like a monster with tofu says deep learning,Unidiffuser/045-4.png,45,0.487543621325998,0.455426439085401,0.454677055087043,3,3,3,2,2
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,Controlnet/048-1.png,48,0.518113418809938,0.539923274151795,0.446793583251806,3,3,4,3,2
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,Controlnet/048-2.png,48,0.5234775194943839,0.526835690766344,0.510020898903667,3,3,3,2,2
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,Controlnet/048-3.png,48,0.527266216792877,0.4821907558592,0.469686536643471,3,3,4,2,2
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,Controlnet/048-4.png,48,0.407294411573295,0.392229550640911,0.4562526504716179,4,4,4,2,2
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,DALLE/048-1.png,48,0.512187350929916,0.480499589344792,0.440838263866424,4,4,3,2,2
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,DALLE/048-2.png,48,0.559503557812025,0.53404612704264,0.517453899217078,3,3,2,3,2
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,DALLE/048-3.png,48,0.560992812372881,0.509403908887233,0.485039937815355,4,4,4,3,2
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,DALLE/048-4.png,48,0.578874392070293,0.542797689941746,0.4646342256152549,4,4,4,3,2
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,Glide/048-1.png,48,0.397228726770844,0.414568412352586,0.428321034491495,2,2,2,2,1
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,Glide/048-2.png,48,0.4056278357606859,0.4432885326512369,0.413553279171982,1,2,3,2,1
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,Glide/048-3.png,48,0.3795839543976539,0.405948912963521,0.415359002019015,2,3,3,2,2
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,Glide/048-4.png,48,0.394177281978002,0.444036964773801,0.431609264219993,2,3,2,2,2
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,Lafite/048-1.png,48,0.3590206737777929,0.429286596273045,0.438068836806037,2,2,2,2,1
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,Lafite/048-2.png,48,0.4315509106071969,0.426652956861926,0.412064621796342,2,1,2,2,2
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,Lafite/048-3.png,48,0.403767173245572,0.401920628353511,0.4185118468998089,2,2,2,1,3
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,Lafite/048-4.png,48,0.412000699339773,0.448566003598798,0.439346301464162,3,3,4,2,3
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,stable-diffusion/048-1.png,48,0.526355639113196,0.542861010958421,0.457830420120875,4,4,2,2,2
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,stable-diffusion/048-2.png,48,0.583238382007201,0.539586181733972,0.438611266571816,3,3,3,2,1
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,stable-diffusion/048-3.png,48,0.417195380850028,0.510322317975745,0.402967082485307,2,3,3,2,1
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,stable-diffusion/048-4.png,48,0.515058248118657,0.5133767255230101,0.496765147138112,4,4,4,2,2
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,Unidiffuser/048-1.png,48,0.360776457362321,0.42000412288176,0.445335183187422,1,1,2,1,2
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,Unidiffuser/048-2.png,48,0.566914334138111,0.557959602513929,0.483472338813235,4,4,4,2,2
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,Unidiffuser/048-3.png,48,0.51631410184354,0.423224401078881,0.4839548013109799,3,3,3,1,2
+A large city fountain that has milk instead of water. Several cats are leaning into the fountain.,Unidiffuser/048-4.png,48,0.5325982388563419,0.520594535028434,0.519273025129017,3,3,3,2,2
+A spaceship made of cardboard.,Controlnet/053-1.png,53,0.560994279896418,0.5736769335597051,0.53087819701088,4,4,4,2,1
+A spaceship made of cardboard.,Controlnet/053-2.png,53,0.616458669311557,0.558744324871464,0.612594965725524,3,3,3,3,3
+A spaceship made of cardboard.,Controlnet/053-3.png,53,0.56789951715264,0.577797525624543,0.549425777043443,4,4,4,3,3
+A spaceship made of cardboard.,Controlnet/053-4.png,53,0.603433530482242,0.663308398120957,0.638964051930052,4,4,4,3,3
+A spaceship made of cardboard.,DALLE/053-1.png,53,0.53443035333277,0.545754285113007,0.46029553308882,3,4,2,3,3
+A spaceship made of cardboard.,DALLE/053-2.png,53,0.632850314789978,0.605726024488727,0.569554935408159,4,4,3,3,3
+A spaceship made of cardboard.,DALLE/053-3.png,53,0.661465237845313,0.6693786101565,0.673208117025334,3,3,3,3,3
+A spaceship made of cardboard.,DALLE/053-4.png,53,0.5571031211023221,0.525994938507784,0.5523045666359659,4,4,3,3,3
+A spaceship made of cardboard.,Glide/053-1.png,53,0.358976532145914,0.425763012985725,0.425502747844122,2,3,2,2,3
+A spaceship made of cardboard.,Glide/053-2.png,53,0.340910608211161,0.353929564278458,0.394801270698795,1,2,2,1,2
+A spaceship made of cardboard.,Glide/053-3.png,53,0.365699518159017,0.410662050090853,0.396409187008628,3,4,2,2,3
+A spaceship made of cardboard.,Glide/053-4.png,53,0.338888043066972,0.348197890310477,0.385390480820826,2,2,2,2,3
+A spaceship made of cardboard.,Lafite/053-1.png,53,0.504694178656218,0.47553047958908,0.495639750511645,3,3,4,2,3
+A spaceship made of cardboard.,Lafite/053-2.png,53,0.440502189140301,0.431122710351514,0.4400999290353969,2,3,2,3,3
+A spaceship made of cardboard.,Lafite/053-3.png,53,0.4849048200453,0.462041148080315,0.5082979377306109,4,4,4,3,3
+A spaceship made of cardboard.,Lafite/053-4.png,53,0.3732657512677479,0.439623095513383,0.404506106298573,2,2,2,2,2
+A spaceship made of cardboard.,stable-diffusion/053-1.png,53,0.573217491180647,0.568981046635336,0.422137102046817,3,3,3,3,2
+A spaceship made of cardboard.,stable-diffusion/053-2.png,53,0.625710041726555,0.6181446922378661,0.6618907788990811,4,4,4,3,3
+A spaceship made of cardboard.,stable-diffusion/053-3.png,53,0.459263508494408,0.437511809679919,0.480424333456762,3,1,1,2,3
+A spaceship made of cardboard.,stable-diffusion/053-4.png,53,0.58321491101338,0.573077454200335,0.588984271189984,4,4,4,3,3
+A spaceship made of cardboard.,Unidiffuser/053-1.png,53,0.35376139451771,0.3911865910150189,0.413151172263083,3,4,4,3,3
+A spaceship made of cardboard.,Unidiffuser/053-2.png,53,0.5495837845827161,0.536717879038396,0.519499924202113,4,4,3,3,3
+A spaceship made of cardboard.,Unidiffuser/053-3.png,53,0.4279607134859819,0.393581075139743,0.381702824284563,2,2,2,2,2
+A spaceship made of cardboard.,Unidiffuser/053-4.png,53,0.506837571206558,0.4578928081746209,0.4094073331282339,3,3,1,1,1
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",Controlnet/056-1.png,56,0.489189970281384,0.455127937294342,0.483933894442114,3,4,3,3,2
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",Controlnet/056-2.png,56,0.6581001063925259,0.506257193168838,0.462251609158588,4,4,4,3,1
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",Controlnet/056-3.png,56,0.5259635466467291,0.509350538738693,0.471320804289508,4,4,4,3,2
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",Controlnet/056-4.png,56,0.521807795939703,0.440764361994628,0.463454548401864,4,1,3,1,1
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",DALLE/056-1.png,56,0.525969955373333,0.517368900516554,0.4198372688527609,3,3,3,3,2
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",DALLE/056-2.png,56,0.5835683746654761,0.581296511336851,0.622319232552821,4,4,4,3,1
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",DALLE/056-3.png,56,0.581464544339393,0.587137680943307,0.560426657142907,4,4,4,3,3
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",DALLE/056-4.png,56,0.579478132085413,0.505117251568443,0.500911095797814,4,4,2,3,2
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",Glide/056-1.png,56,0.359484343683942,0.3796429076623719,0.3887938774337249,2,3,2,2,1
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",Glide/056-2.png,56,0.390442337254674,0.396742208342691,0.4229493715451,2,2,2,2,1
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",Glide/056-3.png,56,0.437501166724963,0.42580523114609,0.493552314857985,1,1,1,3,1
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",Glide/056-4.png,56,0.417230866669195,0.497975244610994,0.445786052183943,2,3,2,2,1
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",Lafite/056-1.png,56,0.422422314304998,0.4464804510826159,0.511991829801032,2,2,2,2,2
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",Lafite/056-2.png,56,0.422564537723942,0.406681336204629,0.412410762799017,2,2,2,3,3
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",Lafite/056-3.png,56,0.436227721134777,0.41845233587406,0.416425050546956,4,4,4,1,1
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",Lafite/056-4.png,56,0.467157727870511,0.433313918970544,0.437194831364656,2,2,3,1,1
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",stable-diffusion/056-1.png,56,0.635104841522204,0.595861178175776,0.49800683850859,4,4,4,3,2
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",stable-diffusion/056-2.png,56,0.386186518822507,0.348439062509612,0.3727619765164249,1,1,1,1,1
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",stable-diffusion/056-3.png,56,0.576690916694168,0.535457660619571,0.498619076739767,3,3,3,3,1
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",stable-diffusion/056-4.png,56,0.569477907736495,0.552478968560248,0.476949944184851,4,4,4,3,2
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",Unidiffuser/056-1.png,56,0.417930061360559,0.404245120900324,0.420415903502246,2,2,2,2,2
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",Unidiffuser/056-2.png,56,0.56374078623212,0.5012402034405821,0.469661447364002,4,3,2,1,1
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",Unidiffuser/056-3.png,56,0.563852897923794,0.545487260292605,0.4652314585097,3,3,2,1,11
+"an emoji of a baby penguin wearing a blue hat, red gloves, green shirt, and yellow pants",Unidiffuser/056-4.png,56,0.564516864175794,0.525754638313168,0.469526457827441,3,3,2,2,2
+the word 'HELLO' on a girl's face,Controlnet/061-1.png,61,0.572187253436961,0.5555743496569739,0.473555487181951,3,4,3,3,1
+the word 'HELLO' on a girl's face,Controlnet/061-2.png,61,0.548239519095668,0.514021698436983,0.452100783609146,4,4,2,3,2
+the word 'HELLO' on a girl's face,Controlnet/061-3.png,61,0.516664101718677,0.552485836969745,0.491046120942483,4,4,4,3,2
+the word 'HELLO' on a girl's face,Controlnet/061-4.png,61,0.615964880645591,0.602574098277826,0.4115404570598929,4,4,4,3,1
+the word 'HELLO' on a girl's face,DALLE/061-1.png,61,0.553933996509541,0.48944821178651,0.489868534114221,4,4,2,3,3
+the word 'HELLO' on a girl's face,DALLE/061-2.png,61,0.659915176725456,0.646227088033172,0.549649573067811,4,4,4,3,2
+the word 'HELLO' on a girl's face,DALLE/061-3.png,61,0.52623686482386,0.481471292862475,0.531572506630527,3,4,3,3,3
+the word 'HELLO' on a girl's face,DALLE/061-4.png,61,0.6611830654842301,0.658931862903629,0.568478542848636,4,4,4,3,2
+the word 'HELLO' on a girl's face,Glide/061-1.png,61,0.353378139653995,0.3873261616164389,0.297279366913195,2,3,2,3,1
+the word 'HELLO' on a girl's face,Glide/061-2.png,61,0.3602278084667649,0.355217689542189,0.337090217689759,2,3,1,1,1
+the word 'HELLO' on a girl's face,Glide/061-3.png,61,0.37991725468728,0.4452492801963519,0.360470510569233,2,3,2,3,1
+the word 'HELLO' on a girl's face,Glide/061-4.png,61,0.436068094780304,0.403222144933569,0.411234211255666,2,2,2,1,1
+the word 'HELLO' on a girl's face,Lafite/061-1.png,61,0.3273687515295579,0.302949814134507,0.276925807015832,1,1,1,1,1
+the word 'HELLO' on a girl's face,Lafite/061-2.png,61,0.401669224469166,0.38160796564585,0.3955867331201059,2,2,2,2,1
+the word 'HELLO' on a girl's face,Lafite/061-3.png,61,0.342184908774816,0.284285493142985,0.307366981263198,2,2,1,1,1
+the word 'HELLO' on a girl's face,Lafite/061-4.png,61,0.392554782110382,0.343167386133828,0.35210408190827,2,3,3,1,1
+the word 'HELLO' on a girl's face,stable-diffusion/061-1.png,61,0.403533848159651,0.364904205038528,0.377226751945919,2,3,2,2,2
+the word 'HELLO' on a girl's face,stable-diffusion/061-2.png,61,0.546709051310906,0.459768202070543,0.443796326738208,4,4,3,1,2
+the word 'HELLO' on a girl's face,stable-diffusion/061-3.png,61,0.590788639217075,0.577818049425694,0.443991225402006,4,3,3,3,1
+the word 'HELLO' on a girl's face,stable-diffusion/061-4.png,61,0.596287534262806,0.550208454303814,0.4885902517051609,3,4,3,3,2
+the word 'HELLO' on a girl's face,Unidiffuser/061-1.png,61,0.578131569337046,0.52763802699684,0.433533568419562,4,4,2,3,1
+the word 'HELLO' on a girl's face,Unidiffuser/061-2.png,61,0.355157263440897,0.383865042313817,0.40805663608696,1,1,1,1,1
+the word 'HELLO' on a girl's face,Unidiffuser/061-3.png,61,0.5105502415259999,0.461808227271853,0.550917965197122,3,3,2,2,3
+the word 'HELLO' on a girl's face,Unidiffuser/061-4.png,61,0.511503175850694,0.478645841925808,0.377329946174319,4,3,3,1,1
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",Controlnet/065-1.png,65,0.580981904275825,0.532822483216799,0.479720431644929,4,4,4,3,1
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",Controlnet/065-2.png,65,0.607312265291292,0.594326418140675,0.503065718932985,4,4,3,2,2
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",Controlnet/065-3.png,65,0.63583606415003,0.561963319870887,0.4470939836727789,3,3,3,1,1
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",Controlnet/065-4.png,65,0.564388334722056,0.471777670071664,0.4929940044592439,4,4,4,2,2
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",DALLE/065-1.png,65,0.537141380930843,0.592955673362944,0.496966156246224,4,4,4,3,2
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",DALLE/065-2.png,65,0.560242884440507,0.5258928311635259,0.457043253607928,4,4,4,3,2
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",DALLE/065-3.png,65,0.5729731789334059,0.578695386136326,0.471915384095226,4,4,3,3,2
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",DALLE/065-4.png,65,0.615133346155335,0.599005880050169,0.495311858306842,4,4,4,3,2
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",Glide/065-1.png,65,0.371032184660014,0.491912657234321,0.417308813221621,2,3,2,2,2
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",Glide/065-2.png,65,0.4536253805331819,0.531959756235708,0.451427080100229,2,2,3,3,1
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",Glide/065-3.png,65,0.44167614450872,0.500034235250746,0.362202113808272,4,4,4,3,1
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",Glide/065-4.png,65,0.436715719295641,0.45591711277206,0.418544517840575,2,3,3,2,1
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",Lafite/065-1.png,65,0.40046543307267,0.388995109962562,0.3874258856902889,2,1,2,2,1
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",Lafite/065-2.png,65,0.392368371555158,0.3445838129043829,0.390940698057602,3,3,3,1,1
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",Lafite/065-3.png,65,0.397814161252234,0.411230611479232,0.4060199005632299,2,2,2,1,1
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",Lafite/065-4.png,65,0.356198463011971,0.352911119669833,0.391335246174633,2,2,2,1,1
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",stable-diffusion/065-1.png,65,0.477539671387759,0.477907450937131,0.449649461098356,3,3,3,3,2
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",stable-diffusion/065-2.png,65,0.449159213041973,0.4311136098948649,0.475362918624724,2,2,2,1,1
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",stable-diffusion/065-3.png,65,0.624300658973829,0.590375616665057,0.5311828774676041,4,4,4,3,2
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",stable-diffusion/065-4.png,65,0.572536032742489,0.5790072277997109,0.515808938204957,4,4,4,3,1
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",Unidiffuser/065-1.png,65,0.534544314786232,0.483049940595049,0.454449329921557,3,3,2,3,2
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",Unidiffuser/065-2.png,65,0.619506334328607,0.614419419852518,0.583798188771573,3,3,2,2,2
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",Unidiffuser/065-3.png,65,0.360060819181686,0.368302537955657,0.405116962310208,1,1,1,1,2
+"Two cups of coffee, one with latte art of the words ""LOVE"" written in one. The other has latte art of the words ""PEACE"" written in the other.",Unidiffuser/065-4.png,65,0.520701892322245,0.543206912005084,0.4736605915837579,3,3,3,3,2
+"a yellow wall with 'Hello, world.' written on it",Controlnet/067-1.png,67,0.5880533310482791,0.586184851453333,0.496877836255081,2,3,2,3,2
+"a yellow wall with 'Hello, world.' written on it",Controlnet/067-2.png,67,0.493381780881504,0.497778124380379,0.482646456341368,4,4,4,2,2
+"a yellow wall with 'Hello, world.' written on it",Controlnet/067-3.png,67,0.479170027277436,0.461958514630409,0.451320809677915,2,3,2,1,1
+"a yellow wall with 'Hello, world.' written on it",Controlnet/067-4.png,67,0.5069139250945051,0.5520872291501859,0.501322984138325,4,4,4,3,2
+"a yellow wall with 'Hello, world.' written on it",DALLE/067-1.png,67,0.530900714272041,0.51928680177102,0.529678629527586,3,3,2,3,3
+"a yellow wall with 'Hello, world.' written on it",DALLE/067-2.png,67,0.553178723294294,0.5354735131199191,0.471324291642265,4,4,2,3,2
+"a yellow wall with 'Hello, world.' written on it",DALLE/067-3.png,67,0.518742088727816,0.53135090812374,0.482811340400805,3,4,4,3,2
+"a yellow wall with 'Hello, world.' written on it",DALLE/067-4.png,67,0.434786131656745,0.440452348753631,0.445594374453891,4,4,4,3,1
+"a yellow wall with 'Hello, world.' written on it",Glide/067-1.png,67,0.4866124984811519,0.467019874767267,0.4259408790817229,4,1,2,3,2
+"a yellow wall with 'Hello, world.' written on it",Glide/067-2.png,67,0.497014560844815,0.493611160341088,0.391164670035906,3,3,1,3,1
+"a yellow wall with 'Hello, world.' written on it",Glide/067-3.png,67,0.451824941285078,0.493783411451276,0.358194615167352,4,4,4,3,1
+"a yellow wall with 'Hello, world.' written on it",Glide/067-4.png,67,0.460288190097258,0.477502747281696,0.358763474399996,3,1,1,1,1
+"a yellow wall with 'Hello, world.' written on it",Lafite/067-1.png,67,0.409228658800334,0.426141480748167,0.416946422368964,1,1,2,2,1
+"a yellow wall with 'Hello, world.' written on it",Lafite/067-2.png,67,0.387979054907695,0.395413046852512,0.3927966384974219,3,2,2,2,2
+"a yellow wall with 'Hello, world.' written on it",Lafite/067-3.png,67,0.454704718997246,0.451092491560249,0.433087117057127,3,2,2,2,2
+"a yellow wall with 'Hello, world.' written on it",Lafite/067-4.png,67,0.4430801711818259,0.463475152725903,0.449567508594522,3,3,3,3,1
+"a yellow wall with 'Hello, world.' written on it",stable-diffusion/067-1.png,67,0.543582799284242,0.5602359148123179,0.45668528538308,3,3,3,3,2
+"a yellow wall with 'Hello, world.' written on it",stable-diffusion/067-2.png,67,0.485518125685626,0.515618903474138,0.4408757981592889,4,4,2,3,2
+"a yellow wall with 'Hello, world.' written on it",stable-diffusion/067-3.png,67,0.5430429750258761,0.514835423828684,0.486458229960115,4,4,4,3,2
+"a yellow wall with 'Hello, world.' written on it",stable-diffusion/067-4.png,67,0.4568929164155419,0.469843803155668,0.473436211599734,2,2,2,2,2
+"a yellow wall with 'Hello, world.' written on it",Unidiffuser/067-1.png,67,0.4723731598030919,0.5242186360197291,0.469678166135562,3,4,2,2,2
+"a yellow wall with 'Hello, world.' written on it",Unidiffuser/067-2.png,67,0.576594181404573,0.576915246929391,0.511681134223466,4,4,4,2,2
+"a yellow wall with 'Hello, world.' written on it",Unidiffuser/067-3.png,67,0.601139435645916,0.612130356269406,0.597343705019938,4,4,3,2,2
+"a yellow wall with 'Hello, world.' written on it",Unidiffuser/067-4.png,67,0.359042355214356,0.373144797848408,0.378356142542197,2,2,2,2,2
+three green peppers,Controlnet/075-1.png,75,0.581014292036254,0.546731927261592,0.5184376908698041,4,4,3,3,2
+three green peppers,Controlnet/075-2.png,75,0.472622122227972,0.458189864810222,0.496530309605151,3,3,2,1,1
+three green peppers,Controlnet/075-3.png,75,0.559059073410953,0.50931315287789,0.4941958815608639,3,4,3,2,2
+three green peppers,Controlnet/075-4.png,75,0.580645612173429,0.543240980427463,0.47975272204497,4,4,4,2,2
+three green peppers,DALLE/075-1.png,75,0.641652871658447,0.662542548092656,0.651055125028168,4,4,3,3,3
+three green peppers,DALLE/075-2.png,75,0.632087065174929,0.625294257444307,0.666949225063191,4,4,4,3,3
+three green peppers,DALLE/075-3.png,75,0.616899729883423,0.579772728859596,0.636607191148657,3,3,3,3,3
+three green peppers,DALLE/075-4.png,75,0.593046970494179,0.637862999736479,0.6659462559699451,4,4,4,3,3
+three green peppers,Glide/075-1.png,75,0.3832892351211919,0.430850653328572,0.430189424886984,2,3,2,2,2
+three green peppers,Glide/075-2.png,75,0.436489555073607,0.451423712955844,0.429140927389858,2,3,2,1,2
+three green peppers,Glide/075-3.png,75,0.476699823450296,0.531485045178598,0.552633614302269,1,3,2,2,1
+three green peppers,Glide/075-4.png,75,0.415971220167789,0.465761088235701,0.486572357094211,3,2,3,1,1
+three green peppers,Lafite/075-1.png,75,0.450420625510831,0.432156735534028,0.441339170958859,1,2,2,1,1
+three green peppers,Lafite/075-2.png,75,0.384102894962267,0.351532556444261,0.379572541910795,2,2,2,1,3
+three green peppers,Lafite/075-3.png,75,0.347853058063638,0.373924506532223,0.3658705258502649,1,1,2,1,2
+three green peppers,Lafite/075-4.png,75,0.424181442862639,0.3735209484554909,0.374632680930075,1,2,1,1,1
+three green peppers,stable-diffusion/075-1.png,75,0.6072558440954839,0.58336676060459,0.636560596963601,4,4,4,2,3
+three green peppers,stable-diffusion/075-2.png,75,0.518114830687878,0.47575895678285,0.453372531121043,4,3,3,2,1
+three green peppers,stable-diffusion/075-3.png,75,0.464822734497873,0.494312194103086,0.4711204130259,4,4,4,2,2
+three green peppers,stable-diffusion/075-4.png,75,0.5815164355452169,0.593037983096732,0.50961062651378,4,4,4,2,2
+three green peppers,Unidiffuser/075-1.png,75,0.348541508243921,0.3461504314822239,0.40170130267261,1,1,1,1,1
+three green peppers,Unidiffuser/075-2.png,75,0.6131777030912849,0.518518221607298,0.498874959722014,4,4,3,3,1
+three green peppers,Unidiffuser/075-3.png,75,0.507942954116837,0.455124718587786,0.426214062928859,3,3,3,2,1
+three green peppers,Unidiffuser/075-4.png,75,0.494196190698609,0.4729957278646929,0.442864160536133,4,4,3,2,2
+a cross-section view of a walnut,Controlnet/084-1.png,84,0.578618982475366,0.565644468421745,0.593077121884529,3,3,3,2,3
+a cross-section view of a walnut,Controlnet/084-2.png,84,0.58570690924779,0.519221006946214,0.555629971358591,4,4,4,2,3
+a cross-section view of a walnut,Controlnet/084-3.png,84,0.510147777953071,0.438921738484584,0.438481813728521,3,3,3,1,2
+a cross-section view of a walnut,Controlnet/084-4.png,84,0.547462756064637,0.521883658619409,0.539632264483251,4,4,4,3,3
+a cross-section view of a walnut,DALLE/084-1.png,84,0.598820554206034,0.5460592230343351,0.555073701324136,4,4,3,3,3
+a cross-section view of a walnut,DALLE/084-2.png,84,0.556043669746006,0.582078620352425,0.561624280246072,4,4,4,3,3
+a cross-section view of a walnut,DALLE/084-3.png,84,0.599010426513934,0.578491954960417,0.559316474982818,4,4,3,3,2
+a cross-section view of a walnut,DALLE/084-4.png,84,0.629135116100102,0.57184254901467,0.576489619810711,4,4,4,3,3
+a cross-section view of a walnut,Glide/084-1.png,84,0.376102568892004,0.377676313511314,0.387939639898669,2,3,2,2,1
+a cross-section view of a walnut,Glide/084-2.png,84,0.398163086491925,0.406092602808396,0.42599684891986,2,3,2,3,2
+a cross-section view of a walnut,Glide/084-3.png,84,0.41270627417386,0.4057692881452079,0.41109936275809,1,2,1,1,1
+a cross-section view of a walnut,Glide/084-4.png,84,0.385835213288671,0.386845852553773,0.423250111085425,1,2,3,1,1
+a cross-section view of a walnut,Lafite/084-1.png,84,0.43036574828651,0.426925375116421,0.428788513740544,3,3,2,2,2
+a cross-section view of a walnut,Lafite/084-2.png,84,0.43809985226589,0.404444930502437,0.442862327295471,2,3,2,3,3
+a cross-section view of a walnut,Lafite/084-3.png,84,0.512819230252652,0.534656752740167,0.483844527320275,2,2,3,1,1
+a cross-section view of a walnut,Lafite/084-4.png,84,0.43939388547179,0.46425874166325,0.449349925328535,3,3,3,2,2
+a cross-section view of a walnut,stable-diffusion/084-1.png,84,0.6842176628095921,0.6952852476785959,0.670674551807564,3,3,4,3,2
+a cross-section view of a walnut,stable-diffusion/084-2.png,84,0.567764634899389,0.545346060958666,0.584672848428618,3,3,3,2,3
+a cross-section view of a walnut,stable-diffusion/084-3.png,84,0.526908159407857,0.4940982218706209,0.588496280342491,3,4,3,1,3
+a cross-section view of a walnut,stable-diffusion/084-4.png,84,0.572660309336648,0.5409482529115099,0.556877945418953,3,4,2,2,3
+a cross-section view of a walnut,Unidiffuser/084-1.png,84,0.4951853070055779,0.4580382726238939,0.430189747175337,4,4,4,3,3
+a cross-section view of a walnut,Unidiffuser/084-2.png,84,0.5406842390440351,0.5241294887864489,0.529176961978692,4,4,4,3,3
+a cross-section view of a walnut,Unidiffuser/084-3.png,84,0.3925449478723349,0.378765980505635,0.369609890612883,2,1,1,2,2
+a cross-section view of a walnut,Unidiffuser/084-4.png,84,0.506906062539022,0.48497958812427,0.43022905916416,3,2,2,2,2
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,Controlnet/086-1.png,86,0.538928687196551,0.518395506483936,0.489930485763791,3,4,4,3,2
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,Controlnet/086-2.png,86,0.471708796153413,0.505508014506129,0.449004651724682,4,4,4,2,3
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,Controlnet/086-3.png,86,0.542966528941135,0.48034937987866,0.46641410029547,4,3,3,2,2
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,Controlnet/086-4.png,86,0.530156407502809,0.503040774033273,0.466616384795618,4,4,4,3,2
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,DALLE/086-1.png,86,0.5568146065941569,0.513063037633004,0.539199917949528,4,4,4,2,2
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,DALLE/086-2.png,86,0.619907047450312,0.5533757209054531,0.507329189278825,4,4,4,3,2
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,DALLE/086-3.png,86,0.472689858564066,0.46490119341179,0.420527444002658,3,4,3,2,1
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,DALLE/086-4.png,86,0.572873966271062,0.583982283198361,0.557701605597181,3,4,2,3,3
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,Glide/086-1.png,86,0.45584655092214,0.44883076714146,0.405571333108321,4,4,3,1,1
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,Glide/086-2.png,86,0.428120161675289,0.372449041675166,0.400126364294974,2,2,2,1,1
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,Glide/086-3.png,86,0.409747753736338,0.408272065515049,0.400849587185322,1,1,1,1,1
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,Glide/086-4.png,86,0.418694898365843,0.435526127928452,0.427133632339019,3,2,2,2,1
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,Lafite/086-1.png,86,0.4066742792446989,0.3971969894651749,0.394051445341525,2,2,2,1,1
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,Lafite/086-2.png,86,0.432012640563212,0.373051251739147,0.431101035538374,3,3,3,1,1
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,Lafite/086-3.png,86,0.415715288220039,0.425190549280998,0.452874346049976,3,2,3,2,2
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,Lafite/086-4.png,86,0.396987603572035,0.401399179876139,0.4136513316251939,2,1,2,2,1
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,stable-diffusion/086-1.png,86,0.502543386577118,0.459880118473264,0.508248860285265,2,3,3,2,2
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,stable-diffusion/086-2.png,86,0.485645705041369,0.449929531597119,0.476076834686331,4,4,4,3,2
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,stable-diffusion/086-3.png,86,0.538579989874887,0.521581796740085,0.397741595758069,4,4,4,2,2
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,stable-diffusion/086-4.png,86,0.532475933994604,0.5406298054504061,0.5141719197583501,4,4,4,2,2
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,Unidiffuser/086-1.png,86,0.3504673366688079,0.404320964064601,0.399986320471175,1,2,1,1,1
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,Unidiffuser/086-2.png,86,0.4793297734043459,0.450990316370334,0.435205372101186,4,4,3,3,1
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,Unidiffuser/086-3.png,86,0.594469300156703,0.564473394093992,0.49859360406039,3,3,3,3,2
+A robot with a black visor and the number 42 on its chest. It stands proudly in front of an F1 race car. The sun is setting on a cityscape in the background. wide-angle view. comic book illustration.,Unidiffuser/086-4.png,86,0.534185793857731,0.51455746391681,0.4043472333015709,3,3,3,2,1
+an aerial photo of a sandy island in the ocean,Controlnet/088-1.png,88,0.638817449765641,0.599793111695726,0.57133797428605,3,2,3,2,2
+an aerial photo of a sandy island in the ocean,Controlnet/088-2.png,88,0.597471483926777,0.627021181985305,0.593518744421461,4,4,4,3,3
+an aerial photo of a sandy island in the ocean,Controlnet/088-3.png,88,0.602204277124037,0.603760328188805,0.552018820172694,3,3,3,2,2
+an aerial photo of a sandy island in the ocean,Controlnet/088-4.png,88,0.639561933547933,0.684535949095991,0.671770882904401,4,4,4,2,3
+an aerial photo of a sandy island in the ocean,DALLE/088-1.png,88,0.612392518013938,0.590424910342677,0.608897426095103,4,4,3,3,2
+an aerial photo of a sandy island in the ocean,DALLE/088-2.png,88,0.606701327572253,0.593596780921227,0.625015699858291,4,4,4,3,3
+an aerial photo of a sandy island in the ocean,DALLE/088-3.png,88,0.643012504607426,0.608568925795818,0.6417743995698519,4,4,4,3,3
+an aerial photo of a sandy island in the ocean,DALLE/088-4.png,88,0.525666794135984,0.5412891583489511,0.532654917268771,3,3,3,3,3
+an aerial photo of a sandy island in the ocean,Glide/088-1.png,88,0.458296663933568,0.520607121615955,0.452793609877502,2,3,2,3,3
+an aerial photo of a sandy island in the ocean,Glide/088-2.png,88,0.336143006745167,0.3580726876894289,0.4265980209408719,1,2,1,1,3
+an aerial photo of a sandy island in the ocean,Glide/088-3.png,88,0.3785711957954419,0.440211351285211,0.458790578224486,1,1,1,1,1
+an aerial photo of a sandy island in the ocean,Glide/088-4.png,88,0.410780809648595,0.4445932149048029,0.469149957013325,2,2,1,2,1
+an aerial photo of a sandy island in the ocean,Lafite/088-1.png,88,0.4630887602017239,0.520055390107409,0.587762031735665,2,2,2,3,1
+an aerial photo of a sandy island in the ocean,Lafite/088-2.png,88,0.4661192399589209,0.515686125609311,0.54451760823152,3,3,2,3,3
+an aerial photo of a sandy island in the ocean,Lafite/088-3.png,88,0.409761820965189,0.5403741001944691,0.554899804657241,2,3,3,2,3
+an aerial photo of a sandy island in the ocean,Lafite/088-4.png,88,0.4502685553886,0.549028341318513,0.560871074241419,2,3,2,2,2
+an aerial photo of a sandy island in the ocean,stable-diffusion/088-1.png,88,0.604371340827333,0.602276234625705,0.594608614669667,2,2,2,2,3
+an aerial photo of a sandy island in the ocean,stable-diffusion/088-2.png,88,0.656739254742682,0.620592222892771,0.6541115446577641,4,4,4,3,3
+an aerial photo of a sandy island in the ocean,stable-diffusion/088-3.png,88,0.432696657384734,0.441886119503226,0.48133421207151,2,2,2,2,3
+an aerial photo of a sandy island in the ocean,stable-diffusion/088-4.png,88,0.6234237117936999,0.6513006785231841,0.567004626546988,3,3,3,3,3
+an aerial photo of a sandy island in the ocean,Unidiffuser/088-1.png,88,0.575960194792698,0.552520725759579,0.635118249485341,2,4,3,3,3
+an aerial photo of a sandy island in the ocean,Unidiffuser/088-2.png,88,0.6887386655030611,0.6395111288112669,0.617308619560702,4,4,4,3,3
+an aerial photo of a sandy island in the ocean,Unidiffuser/088-3.png,88,0.564095529205902,0.595374047637829,0.581867023464072,4,4,3,3,3
+an aerial photo of a sandy island in the ocean,Unidiffuser/088-4.png,88,0.290003887507593,0.361676196208264,0.348841617629841,2,1,2,1,1
+an aerial view of the Great Wall,Controlnet/089-1.png,89,0.672769373131747,0.686361647479708,0.687323862072712,4,4,4,3,3
+an aerial view of the Great Wall,Controlnet/089-2.png,89,0.611598763750843,0.5705060487914441,0.559559433526842,4,4,4,2,3
+an aerial view of the Great Wall,Controlnet/089-3.png,89,0.586588791428742,0.586245213612124,0.5789175045823,3,3,3,3,2
+an aerial view of the Great Wall,Controlnet/089-4.png,89,0.628773354331157,0.687268846832049,0.6422076370896851,4,4,4,3,2
+an aerial view of the Great Wall,DALLE/089-1.png,89,0.6204564327687919,0.577923009645625,0.6034523861693409,4,4,4,3,3
+an aerial view of the Great Wall,DALLE/089-2.png,89,0.532282968069947,0.601539370452127,0.630188730552182,4,4,4,2,3
+an aerial view of the Great Wall,DALLE/089-3.png,89,0.552382135491016,0.5656056789449341,0.57914064736358,4,4,4,3,3
+an aerial view of the Great Wall,DALLE/089-4.png,89,0.597887635449196,0.564946084828864,0.584384030583031,4,4,4,3,3
+an aerial view of the Great Wall,Glide/089-1.png,89,0.320436543903441,0.459774447913661,0.537390046881444,1,3,3,3,3
+an aerial view of the Great Wall,Glide/089-2.png,89,0.4116263107472789,0.553090654543322,0.565376140471031,2,3,3,3,3
+an aerial view of the Great Wall,Glide/089-3.png,89,0.402544940561853,0.48280287945291,0.4823153226961729,2,2,2,3,3
+an aerial view of the Great Wall,Glide/089-4.png,89,0.382918873733775,0.554497271342098,0.6015939959693,1,2,1,2,3
+an aerial view of the Great Wall,Lafite/089-1.png,89,0.363715024102255,0.457396876034196,0.4700517112386509,1,1,2,1,2
+an aerial view of the Great Wall,Lafite/089-2.png,89,0.423692261458149,0.410168986177351,0.472849307967705,1,1,1,1,1
+an aerial view of the Great Wall,Lafite/089-3.png,89,0.4389657106962319,0.477192138724276,0.430252362630087,2,2,2,2,1
+an aerial view of the Great Wall,Lafite/089-4.png,89,0.419371114927818,0.388101590424533,0.447863592007862,1,2,3,3,1
+an aerial view of the Great Wall,stable-diffusion/089-1.png,89,0.6209121816376321,0.637774399009335,0.6105811481603179,4,4,4,2,3
+an aerial view of the Great Wall,stable-diffusion/089-2.png,89,0.681677243080089,0.7077950272604291,0.686039831043948,4,4,2,2,3
+an aerial view of the Great Wall,stable-diffusion/089-3.png,89,0.615949987761055,0.628482661636747,0.604156815462167,4,4,4,3,3
+an aerial view of the Great Wall,stable-diffusion/089-4.png,89,0.377142031473222,0.4477751284965749,0.508356336244796,4,4,4,3,3
+an aerial view of the Great Wall,Unidiffuser/089-1.png,89,0.567160193242553,0.468575468737646,0.499352468842102,3,3,3,1,3
+an aerial view of the Great Wall,Unidiffuser/089-2.png,89,0.560524436852143,0.551265560815142,0.537425162349041,3,3,3,3,2
+an aerial view of the Great Wall,Unidiffuser/089-3.png,89,0.401475018777051,0.369000772560874,0.476613087484587,1,2,1,2,3
+an aerial view of the Great Wall,Unidiffuser/089-4.png,89,0.475912808540969,0.508322413880805,0.527741625871156,3,3,4,1,3
+A bird gives an apple to a squirrel,Controlnet/090-1.png,90,0.576542142870091,0.5086288148713191,0.505606154652876,3,3,2,3,2
+A bird gives an apple to a squirrel,Controlnet/090-2.png,90,0.57945931832177,0.4911386122153359,0.398057992912093,3,3,3,2,1
+A bird gives an apple to a squirrel,Controlnet/090-3.png,90,0.596281177541732,0.519961745179886,0.412033111817808,3,3,3,2,2
+A bird gives an apple to a squirrel,Controlnet/090-4.png,90,0.5065583127218349,0.484710654258922,0.439849098721061,2,2,3,2,1
+A bird gives an apple to a squirrel,DALLE/090-1.png,90,0.449795025371295,0.4965134257247879,0.620124980822535,2,3,4,2,3
+A bird gives an apple to a squirrel,DALLE/090-2.png,90,0.547429938002018,0.490372439109127,0.37343279412268,4,4,4,3,2
+A bird gives an apple to a squirrel,DALLE/090-3.png,90,0.524761445650681,0.46239664377833,0.4288053076449529,2,3,2,3,1
+A bird gives an apple to a squirrel,DALLE/090-4.png,90,0.5170147968223511,0.492921177024808,0.509689849048113,3,3,1,1,3
+A bird gives an apple to a squirrel,Glide/090-1.png,90,0.395907302514558,0.4114104264784199,0.433043801035327,2,2,2,2,3
+A bird gives an apple to a squirrel,Glide/090-2.png,90,0.4361551076695519,0.459339407540892,0.443527052625037,2,2,2,3,2
+A bird gives an apple to a squirrel,Glide/090-3.png,90,0.419039137959046,0.435074832305509,0.457939324842366,1,3,2,3,2
+A bird gives an apple to a squirrel,Glide/090-4.png,90,0.350351606719139,0.382205895325524,0.433312600043174,1,3,2,2,2
+A bird gives an apple to a squirrel,Lafite/090-1.png,90,0.428290670810532,0.391532039783988,0.4024985076683879,1,3,2,1,1
+A bird gives an apple to a squirrel,Lafite/090-2.png,90,0.379881117072036,0.378217587613595,0.399750425977601,1,1,1,1,1
+A bird gives an apple to a squirrel,Lafite/090-3.png,90,0.390007975251762,0.39452211935476,0.412901681821091,3,2,2,1,2
+A bird gives an apple to a squirrel,Lafite/090-4.png,90,0.3957194691652529,0.356842040266802,0.3741020817465479,2,1,1,1,3
+A bird gives an apple to a squirrel,stable-diffusion/090-1.png,90,0.634675037622735,0.574010271377413,0.428549397199085,4,4,4,3,3
+A bird gives an apple to a squirrel,stable-diffusion/090-2.png,90,0.612962091563206,0.573434198140691,0.548258171323475,3,4,4,3,2
+A bird gives an apple to a squirrel,stable-diffusion/090-3.png,90,0.5444466924003639,0.459853683155626,0.428407552806693,3,4,3,2,1
+A bird gives an apple to a squirrel,stable-diffusion/090-4.png,90,0.4731072964469309,0.4315244678348209,0.439006226105382,2,2,2,2,1
+A bird gives an apple to a squirrel,Unidiffuser/090-1.png,90,0.52111140380665,0.484944724127499,0.42473803557398,4,4,4,3,3
+A bird gives an apple to a squirrel,Unidiffuser/090-2.png,90,0.3747032520869149,0.3740652783140409,0.405253900469639,1,2,1,1,1
+A bird gives an apple to a squirrel,Unidiffuser/090-3.png,90,0.583583319621894,0.518794364275276,0.5288251854391229,4,4,4,2,3
+A bird gives an apple to a squirrel,Unidiffuser/090-4.png,90,0.54466330578,0.466080969538539,0.42160339360069,4,4,4,2,2
