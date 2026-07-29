@@ -1,6 +1,7 @@
-# SDT-LFRL-AGIQA
+# SVD-LQFRL-AGIQA
 Official repository for our AGIQA method
-Structured Diagnostic Text Reframing and Latent Factor Representation Learning for AI-Generated Image Quality Assessment
+Structured Visual Description Generation and Latent Quality Factor
+Representation Learning for AI-Generated Image Quality Assessment
 
 This repository is the official project page for our work on AI-generated image quality assessment.
 
